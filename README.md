@@ -1,0 +1,2 @@
+# Bostadsmarknadsanalys
+ Bostadsmarknadsanalys i norrbotten
