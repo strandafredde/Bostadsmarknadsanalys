@@ -75,13 +75,13 @@ def get_page_data(url, page_number):
                     if '+' in size:
                         try:
                             parts = size.split('+')
-                            size = sum(int(part) for part in parts)
+                            size = sum(float(part.replace(',', '.')) for part in parts)
                         except ValueError as e:
                             print(f"Size conversion failed: {e}")
                             size = None
                     else:
                         try:
-                            size = int(size)
+                            size = float(size.replace(',', '.'))
                         except ValueError as e:
                             print(f"Size conversion failed: {e}")
                             size = None
@@ -92,12 +92,12 @@ def get_page_data(url, page_number):
                     if '+' in room:
                         try:
                             parts = room.split('+')
-                            room = sum(int(part) for part in parts)
+                            room = sum(float(part) for part in parts)
                         except ValueError as e:
                             room = None
                     else:
                         try:
-                            room = int(room)
+                            room = float(room)
                         except ValueError as e:
                             print(f"Room conversion failed: {e}")
                             room = None
@@ -116,7 +116,7 @@ def get_page_data(url, page_number):
                 yard = None
             elif 'm²' in yard:
                 try:
-                    yard = int(yard.replace('m²', '').replace(' ', ''))
+                    yard = float(yard.replace('m²', '').replace(' ', ''))
                 except ValueError as e:
                     print(f"Yard m² conversion failed: {e}")
                     yard = None
@@ -171,17 +171,17 @@ while current_page <= last_number:
     print(last_number)
 
 
-print(titles)
+print("Titles: " , titles)
 print("")
-print(prices)
+print("prices: " , prices)
 print("")
-print(locations)
+print("locations: " , locations)
 print("")
-print(sizes)
+print("sizes: ", sizes)
 print("")
-print(rooms)
+print("rooms: ", rooms)
 print("")
-print(yards)
+print("yards: ", yards)
 
 
 # ======================== Save the data to a csv file ========================
