@@ -8,11 +8,17 @@ import time
 import concurrent.futures
 import pandas as pd
 
+<<<<<<< Updated upstream
 # Importing the urls
 piteå = 'https://www.hemnet.se/bostader?item_types%5B%5D=villa&item_types%5B%5D=radhus&item_types%5B%5D=bostadsratt&item_types%5B%5D=fritidshus&location_ids%5B%5D=18015&page={page}'
 älsvbyn = 'https://www.hemnet.se/bostader?item_types%5B%5D=radhus&item_types%5B%5D=villa&item_types%5B%5D=bostadsratt&item_types%5B%5D=fritidshus&location_ids%5B%5D=17834&page={page}'
 boden = 'https://www.hemnet.se/bostader?item_types%5B%5D=villa&item_types%5B%5D=radhus&item_types%5B%5D=bostadsratt&item_types%5B%5D=fritidshus&location_ids%5B%5D=17879&page={page}'
 luleå = 'https://www.hemnet.se/bostader?item_types%5B%5D=villa&item_types%5B%5D=radhus&item_types%5B%5D=bostadsratt&item_types%5B%5D=fritidshus&location_ids%5B%5D=18045&page={page}'
+=======
+from database import get_engine
+from schema import Listings, Base
+from sqlalchemy.orm import sessionmaker
+>>>>>>> Stashed changes
 
 # ======================== Get the data from the website ========================
 
@@ -170,6 +176,7 @@ while current_page <= last_number:
     print("Current page  ",current_page)
     print(last_number)
 
+<<<<<<< Updated upstream
 
 print("Titles: " , titles)
 print("")
@@ -182,6 +189,59 @@ print("")
 print("rooms: ", rooms)
 print("")
 print("yards: ", yards)
+=======
+    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        future_to_url = {
+            executor.submit(get_page_data, url, page): url
+            for url in urls.values()
+            for page in range(1, 6)  # Adjust page range as needed
+        }
+
+        results_list = []
+        for future in concurrent.futures.as_completed(future_to_url):
+            try:
+                results = future.result()
+                results_list.append(results)
+            except Exception as exc:
+                print(f'Error occurred: {exc}')
+    
+    # Aggregate all results
+    aggregated_results = aggregate_results(results_list)
+    
+    # Save to CSV
+    data = pd.DataFrame(aggregated_results)
+    data.to_csv('bostandsdata.csv', index=False)
+
+    # Save to database
+    Session = sessionmaker(bind=engine)
+    session = Session()
+    
+    for i in range(len(aggregated_results['titles'])):
+        listing = Listings(
+            title=aggregated_results['titles'][i],
+            price=aggregated_results['prices'][i],
+            location=aggregated_results['locations'][i],
+            size=aggregated_results['sizes'][i],
+            rooms=aggregated_results['rooms'][i],
+            yard=aggregated_results['yards'][i],
+        )
+        existing_listing = session.query(Listings).filter_by(title=listing.title).first()
+
+        if not existing_listing and listing.title is not None:
+            session.add(listing)
+
+        else:
+            print(f'Listing with title {listing.title} already exists in the database. Skipping...')
+
+
+
+    session.commit()
+    session.close()
+
+
+if __name__ == "__main__":
+    main()
+>>>>>>> Stashed changes
 
 
 # ======================== Save the data to a csv file ========================
