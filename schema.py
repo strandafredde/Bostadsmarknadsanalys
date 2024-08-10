@@ -1,7 +1,7 @@
-from sqlalchemy import Column, Integer, String, ForeignKey, Float
+from sqlalchemy import Column, Integer, String, ForeignKey, Float, DateTime
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship
-
+import datetime
 Base = declarative_base()
 
 class Listings(Base):
@@ -22,3 +22,9 @@ class Listings(Base):
         self.size = size
         self.rooms = rooms
         self.yard = yard
+
+class UpdateLog(Base):
+    __tablename__ = 'update_log'
+    
+    id = Column(Integer, primary_key=True)
+    timestamp = Column(DateTime, default=datetime.datetime.utcnow)

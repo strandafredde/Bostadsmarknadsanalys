@@ -9,7 +9,7 @@ import concurrent.futures
 import pandas as pd
 
 from database import get_engine
-from schema import Listings, Base
+from schema import Listings, UpdateLog, Base
 from sqlalchemy.orm import sessionmaker
 
 
@@ -195,6 +195,8 @@ def aggregate_results(results_list):
     return all_results
 
 def main():
+
+
     engine = get_engine('postgres', '1234', 'localhost', '5432', 'bostadsdata')
 
     Base.metadata.create_all(engine)
@@ -237,12 +239,17 @@ def main():
         existing_listing = session.query(Listings).filter_by(title=listing.title).first()
 
         if not existing_listing and listing.title is not None:
+            print(f'Adding new listing to the database')
             session.add(listing)
 
-        else:
-            print(f'Listing with title {listing.title} already exists in the database. Skipping...')
+        # else:
+        #     print(f'Listing with title {listing.title} already exists in the database. Skipping...')
 
-
+    try:
+        UpdateTime = UpdateLog() 
+        session.add(UpdateTime)
+    except Exception as e:
+        print(f"Error in adding UpdateTime to the database: {e}")
 
     session.commit()
     session.close()
@@ -253,5 +260,6 @@ if __name__ == "__main__":
 
 
 #TODO
-# 1. Create database and store data in it
-# 2. Analyze data
+# 1. Create database and store data in it - DONE
+# 2. Create linux server to continuously run the script
+# 3. Analyze data
