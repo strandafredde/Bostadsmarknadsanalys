@@ -201,7 +201,7 @@ for title, price, location, size, room, yard in zip(titles, prices, locations, s
     listing = Listings(title=title, price=price, location=location, size=size, rooms=room, yard=yard)
     session.add(listing)
 
-UpdateTime = UpdateLog()
+UpdateTime = UpdateLog(execute_time=time.time() - start_time)
 session.add(UpdateTime)
 session.commit()
 session.close()

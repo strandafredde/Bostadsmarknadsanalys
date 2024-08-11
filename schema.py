@@ -28,3 +28,4 @@ class UpdateLog(Base):
     
     id = Column(Integer, primary_key=True)
     timestamp = Column(DateTime, default=datetime.datetime.utcnow)
+    execute_time = Column(Float)
