@@ -3,6 +3,11 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+
+
 from bs4 import BeautifulSoup
 import time
 import concurrent.futures
@@ -26,8 +31,13 @@ urls = {
 
 # Initialize the Chrome driver (to be shared by all threads)
 def create_driver():
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Run Chrome in headless mode
+    chrome_options.add_argument("--no-sandbox")  # Disable sandbox for headless environments
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
     service = Service(executable_path='chromedriver.exe')
-    return webdriver.Chrome(service=service)
+    return webdriver.Chrome(service=service, options=chrome_options)
 
 # Scraping function
 def get_page_data(url, page_number):

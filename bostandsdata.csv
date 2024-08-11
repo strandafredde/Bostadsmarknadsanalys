@@ -4,7 +4,7 @@ titles,prices,locations,sizes,rooms,yards
 ,,,,,
 ,,,,,
 ,,,,,
-Mårdstigen 8,1195000.0,"Långvik, Piteå kommun",59.0,2.0,1574.0
+Brattknabben 136,1995000.0,"Lillpite, Piteå kommun",100.0,4.0,52000.0
 Arvidsjaurvägen 1762,690000.0,"Roknäs, Piteå kommun",30.0,1.0,5095.0
 Lillpitevägen 685,1495000.0,"Lillpite, Piteå kommun",288.0,5.0,6749.0
 Arvidsjaurvägen 1335,1950000.0,"Roknäs, Piteå kommun",105.0,3.0,2223.0
@@ -55,6 +55,25 @@ Råholmen 56,1295000.0,"Berkön, Piteå kommun",65.0,3.0,1661.0
 Skaftgatan 5,,"Djupviken, Piteå kommun",,,889.0
 Sörvägen 696,295000.0,"Lillpite, Piteå kommun",45.0,2.0,1636.0
 Bergön 23,1350000.0,"Jävre, Piteå kommun",92.0,2.0,1501.0
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Regementsvägen 29,2800000.0,"Klubben/Pite Havsbad, Piteå kommun",112.0,4.0,1663.0
+Ängdalsrovägen 294,995000.0,"Ängdalsro, Luleå kommun",70.0,3.0,1575.0
+Övre Storfors 1180,900000.0,"Altersbruk, Piteå kommun",86.0,3.0,75000.0
+Rosvik,,"Rosvik, Piteå kommun",,,650000.0
+Bergsviken,,"Bergsviken, Piteå kommun",,,429000.0
+Porsnäs 2:32,,"Porsnäs, Piteå kommun",,,173000.0
+Västra Lidenvägen 81,5700000.0,"Svensbyn, Piteå kommun",199.0,6.0,580000.0
+Mandträsk 44,,"Koler, Piteå kommun",,,911000.0
+Adress saknas,,"Norrfjärden, Piteå kommun",,,395000.0
+Älvsbyvägen 1160,,"Pålberget, Piteå kommun",,,729000.0
+RENÖN 1:3,,"Piteå, Piteå kommun",,,355000.0
+Öjebyn 13:4,,"Piteå, Piteå kommun",,,54000.0
+Tomtmark på Näsudden,,"Öjebyn, Piteå kommun",,,67000.0
 ,,,,,
 ,,,,,
 ,,,,,
@@ -112,26 +131,6 @@ Bunäsudden 2,3995000.0,"Bunäsudden, Piteå kommun",116.0,4.0,1602.0
 Sågverksgatan 11,2200000.0,"Munksund, Piteå kommun",170.0,3.0,1832.0
 Isakstigen 2,495000.0,"Arnemark, Piteå kommun",110.0,3.0,3046.0
 ,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-Regementsvägen 29,2800000.0,"Klubben/Pite Havsbad, Piteå kommun",112.0,4.0,1663.0
-Ängdalsrovägen 294,995000.0,"Ängdalsro, Luleå kommun",70.0,3.0,1575.0
-Övre Storfors 1180,900000.0,"Altersbruk, Piteå kommun",86.0,3.0,75000.0
-Rosvik,,"Rosvik, Piteå kommun",,,650000.0
-Bergsviken,,"Bergsviken, Piteå kommun",,,429000.0
-Porsnäs 2:32,,"Porsnäs, Piteå kommun",,,173000.0
-Västra Lidenvägen 81,5700000.0,"Svensbyn, Piteå kommun",199.0,6.0,580000.0
-Mandträsk 44,,"Koler, Piteå kommun",,,911000.0
-Adress saknas,,"Norrfjärden, Piteå kommun",,,395000.0
-Älvsbyvägen 1160,,"Pålberget, Piteå kommun",,,729000.0
-RENÖN 1:3,,"Piteå, Piteå kommun",,,355000.0
-Öjebyn 13:4,,"Piteå, Piteå kommun",,,54000.0
-Tomtmark på Näsudden,,"Öjebyn, Piteå kommun",,,67000.0
-,,,,,
-Hedgatan 9,895000.0,"Altuna, Älvsbyns kommun",176.0,5.0,1240.0
 Flurheden 5,3300000.0,"Vistträsk By, Älvsbyns kommun",165.0,6.0,11000.0
 Spontongatan 26,450000.0,"Altuna, Älvsbyns kommun",141.0,4.0,1100.0
 Triangelgatan 15,650000.0,"Vistträsk, Älvsbyns kommun",176.0,6.0,1484.0
@@ -162,7 +161,27 @@ Manjärv 501,1195000.0,"Manjärv, Älvsbyns kommun",25.0,1.0,141000.0
 Tväråselet 20,1500000.0,"Övre Tväråsel, Älvsbyns kommun",183.0,5.0,424000.0
 ,,,,,
 ,,,,,
-Stationsgatan 1 B,675000.0,"Centrala Boden, Bodens kommun",48.0,2.0,
+Kyrkgatan 38,4195000.0,"Björknäs, Bodens kommun",220.0,9.0,1650.0
+Södra Bredåker 321,1895000.0,"Bredåker, Bodens kommun",240.0,5.0,3260.0
+Degernäs 27,1495000.0,"Degernäs, Bodens kommun",117.0,3.0,1879.0
+Klinthöjden tomt nr 33,,"Storklinten, Bodens kommun",,,502.0
+Valvträsk 2,,"Råne Älvdal, Bodens kommun",,,2159.0
+Valvträsk 1,,"Råne Älvdal, Bodens kommun",,,1510.0
+Mockträsk 46,,"Mockträsk, Bodens kommun",,,2305.0
+Selet 58,800000.0,"Selet, Luleå kommun",50.0,2.0,1537.0
+MÅRDSEL 2:53,795000.0,"Gällivare, Gällivare kommun",50.0,2.0,1061.0
+Selet 72,995000.0,"Selet, Luleå kommun",140.0,4.0,5486.0
+Smedsträsket 230,995000.0,"Smedsbyn, Luleå kommun",70.0,3.0,54000.0
+Västmarksvägen 147,2500000.0,"Västmark, Luleå kommun",230.0,5.0,2605.0
+Rånevägen 11,425000.0,"Råne Älvdal, Gällivare kommun",110.0,5.0,21000.0
+Västmarksvägen 61,895000.0,"Västmark - Eriksberg, Luleå kommun",180.0,5.0,4447.0
+Knösenvägen 288,3395000.0,"Norra Sunderbyn, Luleå kommun",100.0,4.0,11000.0
+Norra Bredåker 85,,"N Bredåker, Bodens kommun",,,43000.0
+Lassbyn 206,1995000.0,"Lassbyn, Bodens kommun",86.0,3.0,165000.0
+,,,,,
+,,,,,
+,,,,,
+Bodforsvägen 4A,2295000.0,"Bodforsen, Bodens kommun",166.0,4.0,1213.0
 Bodforsvägen 4A,2295000.0,"Bodforsen, Bodens kommun",166.0,4.0,1213.0
 Västbolandet 212,1295000.0,"Harads, Bodens kommun",76.0,4.0,1451.0
 Norriån 32,595000.0,"Gunnarsbyn, Bodens kommun",75.0,3.0,2164.0
@@ -216,27 +235,6 @@ Mjedsjön 3,,"Heden, Bodens kommun",,,1290.0
 ,,,,,
 ,,,,,
 ,,,,,
-Södra Maranvägen 7,4795000.0,"Sävast, Bodens kommun",184.0,4.0,1442.0
-Kyrkgatan 38,4195000.0,"Björknäs, Bodens kommun",220.0,9.0,1650.0
-Södra Bredåker 321,1895000.0,"Bredåker, Bodens kommun",240.0,5.0,3260.0
-Degernäs 27,1495000.0,"Degernäs, Bodens kommun",117.0,3.0,1879.0
-Klinthöjden tomt nr 33,,"Storklinten, Bodens kommun",,,502.0
-Valvträsk 2,,"Råne Älvdal, Bodens kommun",,,2159.0
-Valvträsk 1,,"Råne Älvdal, Bodens kommun",,,1510.0
-Mockträsk 46,,"Mockträsk, Bodens kommun",,,2305.0
-Selet 58,800000.0,"Selet, Luleå kommun",50.0,2.0,1537.0
-MÅRDSEL 2:53,795000.0,"Gällivare, Gällivare kommun",50.0,2.0,1061.0
-Selet 72,995000.0,"Selet, Luleå kommun",140.0,4.0,5486.0
-Smedsträsket 230,995000.0,"Smedsbyn, Luleå kommun",70.0,3.0,54000.0
-Västmarksvägen 147,2500000.0,"Västmark, Luleå kommun",230.0,5.0,2605.0
-Rånevägen 11,425000.0,"Råne Älvdal, Gällivare kommun",110.0,5.0,21000.0
-Västmarksvägen 61,895000.0,"Västmark - Eriksberg, Luleå kommun",180.0,5.0,4447.0
-Knösenvägen 288,3395000.0,"Norra Sunderbyn, Luleå kommun",100.0,4.0,11000.0
-Norra Bredåker 85,,"N Bredåker, Bodens kommun",,,43000.0
-Lassbyn 206,1995000.0,"Lassbyn, Bodens kommun",86.0,3.0,165000.0
-,,,,,
-,,,,,
-,,,,,
 Sundsnäs 240,,"Sundsnäs, Bodens kommun",,,22000.0
 Flöjtvägen 12,1790000.0,"Hamptjärnmoran Boden, Bodens kommun",176.0,6.0,757.0
 Östra Karlberg,645000.0,"Karlberg/Degerbäcken, Bodens kommun",68.0,3.0,1122.0
@@ -259,7 +257,6 @@ Svartbyvägen 31,1295000.0,"Fagernäs, Bodens kommun",100.0,3.0,624.0
 Norriån 117,395000.0,"Norriån, Bodens kommun",91.0,4.0,3011.0
 Stationsgatan 13 C,815000.0,"Centrala Boden, Bodens kommun",35.0,1.0,
 Sörbyn 44,550000.0,"Råne Älvdal, Bodens kommun",40.0,2.0,2878.0
-Smedjegatan 15A,800000.0,"Centrum, Bodens kommun",55.0,2.0,
 Duvgatan 5,2195000.0,"Sanden, Bodens kommun",224.0,6.0,834.0
 Smedjegatan 19 A,695000.0,"Centrala Boden, Bodens kommun",48.5,2.0,
 Radhusvägen 21,395000.0,"Harads, Bodens kommun",180.0,4.0,993.0
@@ -287,13 +284,16 @@ Solskensvägen 8B,,"Sävast, Bodens kommun",,,274.0
 Solskensvägen 8A,2495000.0,"Sävast, Bodens kommun",83.0,3.0,358.0
 Vändträsk 46B,445000.0,"Vändträsk, Bodens kommun",50.0,2.0,10330.0
 Degernäs 26,1800000.0,"Degernäs, Bodens kommun",84.0,3.0,1665.0
+Södra Maranvägen 7,4795000.0,"Sävast, Bodens kommun",184.0,4.0,1442.0
 ,,,,,
 ,,,,,
 ,,,,,
 ,,,,,
-Sörnäsudden 324,3000000.0,"Sörnäsudden, Luleå kommun",110.0,3.0,2454.0
-Olovsvägen 15,1695000.0,"Råneå, Luleå kommun",150.0,6.0,724.0
+Tjärhovsgatan 18 B,695000.0,"Gültzauudden, Luleå kommun",22.0,1.0,
+Västra Varvsgatan 17B,1095000.0,"Centrum/Varvet, Luleå kommun",27.0,1.0,
+Köpmangatan 28,1545000.0,"Centrum, Luleå kommun",48.0,2.0,
 Gesällvägen 1,895000.0,"Råneå, Luleå kommun",108.0,4.0,1034.0
+Olovsvägen 15,1695000.0,"Råneå, Luleå kommun",150.0,6.0,724.0
 Selet 58,800000.0,"Selet, Luleå kommun",50.0,2.0,1537.0
 Västra Varvsgatan 16A,1750000.0,"Centrum Varvet, Luleå kommun",66.0,,
 Öströmsvägen 8,2895000.0,"Kallax, Luleå kommun",86.0,3.0,2931.0
@@ -340,63 +340,6 @@ Timmermansgatan 46,3295000.0,"Centrum, Luleå kommun",82.0,3.0,
 Sandviksgatan 77 C,1795000.0,"Centrum, Luleå kommun",73.5,3.0,
 Hällbruksgatan 2,1260000.0,"Örnäset, Luleå kommun",56.0,2.0,
 Västra Varvsgatan 17 B,995000.0,"Centrum, Luleå kommun",27.0,1.0,
-Skansgatan 25,3995000.0,"Bergnäset, Luleå kommun",142.0,4.0,277.0
-Lingonstigen 11,850000.0,"Kallkällan, Luleå kommun",50.0,1.0,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-Sandnäset 4,,"Luleå, Luleå kommun",,,2995.0
-Lingonstigen 63,1595000.0,"Kallkällan, Luleå kommun",84.5,3.0,
-Burströmsvägen 118,1295000.0,"Skurholmen, Luleå kommun",65.0,2.0,
-Stationsgatan 63 A,1595000.0,"Centrum, Luleå kommun",43.0,2.0,
-Aspviksvägen 25,3690000.0,"Kallax, Luleå kommun",170.0,4.0,1728.0
-Genvägen 27A,1295000.0,"Lövskatan, Luleå kommun",53.5,2.0,
-Mjölkuddsvägen 5,1595000.0,"Mjölkudden, Luleå kommun",57.5,2.0,
-Kungsgatan 6C,2795000.0,"Centrum, Luleå kommun",108.0,4.0,
-Jaktviksvägen 192,3995000.0,"Kallax, Luleå kommun",90.0,2.0,2268.0
-Radiomasten 157,3395000.0,"Mjölkudden, Luleå kommun",164.0,5.0,
-Stenudden 3B,1485000.0,"Avan, Luleå kommun",58.0,2.0,2445.0
-Sinksundsvägen 2 A,460000.0,"Sinksundet, Luleå kommun",30.0,1.0,368.0
-Hålsundsvägen 315,795000.0,"Luleå, Luleå kommun",76.0,3.0,1706.0
-Södra Prästholm 740,1995000.0,"Råneå, Luleå kommun",100.0,4.0,11000.0
-Stationsgatan 11,3195000.0,"Centrum, Luleå kommun",95.0,3.0,
-Krongårdsringen 6,995000.0,"Örnäset, Luleå kommun",54.400000000000006,2.0,
-Lingonstigen 43,1695000.0,"Kallkällan, Luleå kommun",81.5,3.0,
-Mjölkuddsvägen 255,1595000.0,"Mjölkudden, Luleå kommun",90.0,3.0,
-Teknikergatan 5,995000.0,"Skurholmen, Luleå kommun",60.0,2.0,
-Västra Varvsgatan 20B,1495000.0,"Varvet, Luleå kommun",52.0,2.0,
-Munkebergsgatan  38,1495000.0,"Mjölkudden, Luleå kommun",78.0,3.0,
-Muntervägen 15,2595000.0,"Alvik, Luleå kommun",175.0,4.0,1178.0
-Liljevalchsgatan 23,2995000.0,"Notviken, Luleå kommun",131.0,4.0,517.0
-Sörnäsudden 330,1395000.0,"Luleå, Luleå kommun",60.0,3.0,2018.0
-Stationsgatan 63B,1495000.0,"Centrum, Luleå kommun",49.5,2.0,
-Borestigen 7,1695000.0,"Luleå, Luleå kommun",120.0,6.0,720.0
-Västra Varvsgatan 20A,1295000.0,"Centrum - Varvet, Luleå kommun",52.0,2.0,
-Sjöfartsgatan 14A,995000.0,"Svartöstaden, Luleå kommun",88.0,3.0,
-Kompanivägen 33,1995000.0,"Lulsundsberget, Luleå kommun",75.0,2.0,
-Köpmangatan 52 E,2075000.0,"Centrum, Luleå kommun",53.0,2.0,
-Pyrolagatan 2,4995000.0,"Hällbacken, Luleå kommun",196.0,8.0,849.0
-Tärngränd 13,2195000.0,"Hertsön, Luleå kommun",133.0,5.0,375.0
-Västra Varvsgatan 17B,1225000.0,"Varvet, Luleå kommun",59.0,2.0,
-Västra Skolgatan 9B,1395000.0,"Bergnäset, Luleå kommun",57.0,2.0,
-Lulsundsgatan 50,2095000.0,"Östermalm, Luleå kommun",73.5,3.0,
-Sandviksgatan 42B,2195000.0,"Centrum, Luleå kommun",79.0,3.0,
-Småbåtsgatan 10c,1795000.0,"Centrum, Luleå kommun",67.0,2.0,
-Varvsgatan 55,1095000.0,"Centrum, Luleå kommun",27.0,1.0,
-Sandviksgatan 62,1195000.0,"Luleå, Luleå kommun",36.0,1.0,
-Skeppsbrogatan 15D,1895000.0,"Centrum, Luleå kommun",65.0,2.0,
-Tullgatan 25,1395000.0,"Centrum, Luleå kommun",36.5,1.0,
-Krongårdsringen 16,850000.0,"Örnäset, Luleå kommun",64.0,2.0,
-Stationsgatan 16B,1095000.0,"Centrum, Luleå kommun",42.0,1.0,
-Älvbrinken 16,2295000.0,"Råneå, Luleå kommun",126.0,4.0,908.0
-Laxgatan 25C,1295000.0,"Svartöstaden, Luleå kommun",59.5,2.0,
-Mjöfjärden 408,895000.0,"Mjöfjärden, Luleå kommun",65.0,3.0,3270.0
-Stationsgatan 16B,995000.0,"Centrum, Luleå kommun",44.0,1.0,
-Sunderbyvägen 2,5000000.0,"Södra Sunderbyn, Luleå kommun",357.5,9.0,5630.0
-Orrbyn 138,995000.0,"Orrbyn, Luleå kommun",163.0,4.0,2750.0
-Sandgatan 30,1295000.0,"Svartöstaden, Luleå kommun",77.4,3.0,
 ,,,,,
 ,,,,,
 ,,,,,
@@ -461,7 +404,6 @@ Hedbackavägen 115 & 119,,"Luleå, Luleå kommun",,,2475.0
 Sakrislundsvägen 65D,1495000.0,"Mörön, Luleå kommun",52.0,2.0,1470.0
 Mjölkuddsvägen 17,1795000.0,"Mjölkudden, Luleå kommun",72.0,3.0,
 Disponentvägen 10B,3195000.0,"Karlsvik, Luleå kommun",103.0,4.0,189.0
-Backgatan 21,1095000.0,"Östermalm, Luleå kommun",36.8,1.0,
 Orrgränd 7,1700000.0,"Hertsön, Luleå kommun",137.0,4.0,292.0
 Spränggatan 23,595000.0,"Skurholmen, Luleå kommun",21.0,1.0,
 Sandgatan 12,895000.0,"Svartöstaden, Luleå kommun",62.0,2.0,
@@ -507,11 +449,13 @@ Majvägen 15,1195000.0,"Bergviken, Luleå kommun",43.0,1.0,
 Sjötorpsvägen 8,,"Kallviken, Luleå kommun",,,5214.0
 Sandviksgatan 78B,1995000.0,"Centrum, Luleå kommun",69.5,3.0,
 Södra Prästholm 648,250000.0,"Södra Prästholm, Luleå kommun",200.0,6.0,1318.0
+Forsnäs 239,250000.0,"Niemisel, Luleå kommun",75.0,2.0,1382.0
 ,,,,,
 ,,,,,
 ,,,,,
 ,,,,,
 ,,,,,
+Sandgatan 30,1295000.0,"Svartöstaden, Luleå kommun",77.4,3.0,
 Rådjursstigen 19,1795000.0,"Hertsön, Luleå kommun",137.0,4.0,292.0
 Sandnäsetvägen 226A,,"Bälinge, Luleå kommun",,,1651.0
 Stuga på Sandön/Klubbviken,1995000.0,"Sandön, Luleå kommun",89.0,3.0,2000.0
@@ -539,7 +483,6 @@ Sinksundsstranden 3,1300000.0,"Sinksundet, Luleå kommun",70.0,3.0,706.0
 Tjärnbergsvägen 7,1195000.0,"Råneå, Luleå kommun",167.0,6.0,784.0
 Sandviksgatan 36G,1795000.0,"Centrum, Luleå kommun",68.0,2.0,
 Sandviksgatan 21,1995000.0,"Centrum, Luleå kommun",67.5,3.0,
-Köpmangatan 28,1545000.0,"Centrum, Luleå kommun",48.0,2.0,
 Varvsgatan 57 C,1495000.0,"Centrum, Luleå kommun",55.0,2.0,
 Genvägen 11,2195000.0,"Lövskatan, Luleå kommun",176.0,3.0,770.0
 Mörövägen 209,795000.0,"Mörön, Luleå kommun",36.0,2.0,1944.0
@@ -562,6 +505,61 @@ Alhamns södra strandväg 162,1250000.0,"Alhamn, Luleå kommun",61.0,3.0,2207.0
 Skillingvägen 11,3195000.0,"Lerbäcken, Luleå kommun",126.0,4.0,842.0
 "Småskär, stuga 11",550000.0,"Småskär/Skatamarksviken, Luleå kommun",45.0,2.0,
 Burströmsvägen 116,1295000.0,"Burströmska, Luleå kommun",75.5,3.0,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Skansgatan 25,3995000.0,"Bergnäset, Luleå kommun",142.0,4.0,277.0
+Lingonstigen 11,850000.0,"Kallkällan, Luleå kommun",50.0,1.0,
+Sandnäset 4,,"Luleå, Luleå kommun",,,2995.0
+Lingonstigen 63,1595000.0,"Kallkällan, Luleå kommun",84.5,3.0,
+Burströmsvägen 118,1295000.0,"Skurholmen, Luleå kommun",65.0,2.0,
+Stationsgatan 63 A,1595000.0,"Centrum, Luleå kommun",43.0,2.0,
+Aspviksvägen 25,3690000.0,"Kallax, Luleå kommun",170.0,4.0,1728.0
+Genvägen 27A,1295000.0,"Lövskatan, Luleå kommun",53.5,2.0,
+Mjölkuddsvägen 5,1595000.0,"Mjölkudden, Luleå kommun",57.5,2.0,
+Kungsgatan 6C,2795000.0,"Centrum, Luleå kommun",108.0,4.0,
+Jaktviksvägen 192,3995000.0,"Kallax, Luleå kommun",90.0,2.0,2268.0
+Radiomasten 157,3395000.0,"Mjölkudden, Luleå kommun",164.0,5.0,
+Stenudden 3B,1485000.0,"Avan, Luleå kommun",58.0,2.0,2445.0
+Sinksundsvägen 2 A,460000.0,"Sinksundet, Luleå kommun",30.0,1.0,368.0
+Hålsundsvägen 315,795000.0,"Luleå, Luleå kommun",76.0,3.0,1706.0
+Södra Prästholm 740,1995000.0,"Råneå, Luleå kommun",100.0,4.0,11000.0
+Stationsgatan 11,3195000.0,"Centrum, Luleå kommun",95.0,3.0,
+Krongårdsringen 6,995000.0,"Örnäset, Luleå kommun",54.400000000000006,2.0,
+Lingonstigen 43,1695000.0,"Kallkällan, Luleå kommun",81.5,3.0,
+Mjölkuddsvägen 255,1595000.0,"Mjölkudden, Luleå kommun",90.0,3.0,
+Teknikergatan 5,995000.0,"Skurholmen, Luleå kommun",60.0,2.0,
+Västra Varvsgatan 20B,1495000.0,"Varvet, Luleå kommun",52.0,2.0,
+Munkebergsgatan  38,1495000.0,"Mjölkudden, Luleå kommun",78.0,3.0,
+Muntervägen 15,2595000.0,"Alvik, Luleå kommun",175.0,4.0,1178.0
+Liljevalchsgatan 23,2995000.0,"Notviken, Luleå kommun",131.0,4.0,517.0
+Sörnäsudden 330,1395000.0,"Luleå, Luleå kommun",60.0,3.0,2018.0
+Stationsgatan 63B,1495000.0,"Centrum, Luleå kommun",49.5,2.0,
+Borestigen 7,1695000.0,"Luleå, Luleå kommun",120.0,6.0,720.0
+Västra Varvsgatan 20A,1295000.0,"Centrum - Varvet, Luleå kommun",52.0,2.0,
+Sjöfartsgatan 14A,995000.0,"Svartöstaden, Luleå kommun",88.0,3.0,
+Kompanivägen 33,1995000.0,"Lulsundsberget, Luleå kommun",75.0,2.0,
+Köpmangatan 52 E,2075000.0,"Centrum, Luleå kommun",53.0,2.0,
+Pyrolagatan 2,4995000.0,"Hällbacken, Luleå kommun",196.0,8.0,849.0
+Tärngränd 13,2195000.0,"Hertsön, Luleå kommun",133.0,5.0,375.0
+Västra Varvsgatan 17B,1225000.0,"Varvet, Luleå kommun",59.0,2.0,
+Västra Skolgatan 9B,1395000.0,"Bergnäset, Luleå kommun",57.0,2.0,
+Lulsundsgatan 50,2095000.0,"Östermalm, Luleå kommun",73.5,3.0,
+Sandviksgatan 42B,2195000.0,"Centrum, Luleå kommun",79.0,3.0,
+Småbåtsgatan 10c,1795000.0,"Centrum, Luleå kommun",67.0,2.0,
+Varvsgatan 55,1095000.0,"Centrum, Luleå kommun",27.0,1.0,
+Skeppsbrogatan 15D,1895000.0,"Centrum, Luleå kommun",65.0,2.0,
+Tullgatan 25,1395000.0,"Centrum, Luleå kommun",36.5,1.0,
+Krongårdsringen 16,850000.0,"Örnäset, Luleå kommun",64.0,2.0,
+Stationsgatan 16B,1095000.0,"Centrum, Luleå kommun",42.0,1.0,
+Älvbrinken 16,2295000.0,"Råneå, Luleå kommun",126.0,4.0,908.0
+Laxgatan 25C,1295000.0,"Svartöstaden, Luleå kommun",59.5,2.0,
+Mjöfjärden 408,895000.0,"Mjöfjärden, Luleå kommun",65.0,3.0,3270.0
+Stationsgatan 16B,995000.0,"Centrum, Luleå kommun",44.0,1.0,
+Sunderbyvägen 2,5000000.0,"Södra Sunderbyn, Luleå kommun",357.5,9.0,5630.0
+Orrbyn 138,995000.0,"Orrbyn, Luleå kommun",163.0,4.0,2750.0
 ,,,,,
 ,,,,,
 ,,,,,
