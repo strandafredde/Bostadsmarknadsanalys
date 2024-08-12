@@ -1,561 +1,561 @@
-Title,Price,Location,Size,Rooms,Yard
-Västra Varvsgatan 22A,1695000.0,"Centrum - Varvet, Luleå kommun",69.0,3.0,
-Stormyrvägen 3,3895000.0,"Lulsundet, Luleå kommun",195.0,4.0,1232.0
-Fredsgatan 1C,4995000.0,"Gültzauudden, Luleå kommun",162.0,5.0,79.0
-Lingonstigen 47,1395000.0,"Kallkällan, Luleå kommun",67.0,2.0,
-Sandviksgatan 27,1495000.0,"Centrum, Luleå kommun",55.5,2.0,
-Klintvägen 133B,1495000.0,"Klintbacken, Luleå kommun",63.0,2.0,
-Östra Pilgatan 13,6500000.0,"Östermalm, Luleå kommun",329.0,8.0,806.0
-Prinsvägen 1B,1095000.0,"Centrum Varvet, Luleå kommun",26.0,1.0,
-Karlsviksvägen 4A,2895000.0,"Karlsvik, Luleå kommun",134.7,4.0,
-Tallskogsgatan 21,5295000.0,"Hällbacken, Luleå kommun",160.4,6.0,1101.0
-Bredträsk byaväg 97,,"Klöverträsk, Luleå kommun",,,61000.0
-Västra Varvsgatan 17B,1095000.0,"Centrum/Varvet, Luleå kommun",27.0,1.0,
-Köpmangatan 28,1545000.0,"Centrum, Luleå kommun",48.0,2.0,
-Gesällvägen 1,895000.0,"Råneå, Luleå kommun",108.0,4.0,1034.0
-Olovsvägen 15,1695000.0,"Råneå, Luleå kommun",150.0,6.0,724.0
-Selet 58,800000.0,"Selet, Luleå kommun",50.0,2.0,1537.0
-Västra Varvsgatan 16A,1750000.0,"Centrum Varvet, Luleå kommun",66.0,,
-Öströmsvägen 8,2895000.0,"Kallax, Luleå kommun",86.0,3.0,2931.0
-Rödinggränd 5,1495000.0,"Hertsön, Luleå kommun",124.0,6.0,293.0
-Småbåtsgatan 10C,4000000.0,"Centrum, Luleå kommun",94.0,3.0,
-Sandviksgatan 36B,1295000.0,"Centrum, Luleå kommun",40.5,1.0,
-Västra Varvsgatan 16B,1095000.0,"Centrum - Varvet, Luleå kommun",25.0,1.0,
-Fiskehamnsvägen 60,2495000.0,"Kallax, Luleå kommun",169.0,5.0,2596.0
-Vithällegatan 11,2995000.0,"Bredviken, Luleå kommun",111.0,4.0,984.0
-Åsgatan 10,8995000.0,"Östermalm, Luleå kommun",266.0,5.0,822.0
-Bodviksvägen 104,995000.0,"Bodviken/Hagaviken, Luleå kommun",20.0,1.0,1754.0
-Såguddsvägen 29 B,4199000.0,"Bensbyn, Luleå kommun",195.0,3.0,1227.0
-Toppgatan 6D,1845000.0,"Västra Skurholmen, Luleå kommun",93.0,4.0,
-Hertsöträskvägen 70,2995000.0,"Hertsön, Luleå kommun",60.0,4.0,1315.0
-Hällbruksgatan 26,1195000.0,"Örnäset, Luleå kommun",56.0,2.0,
-Granövägen 186,4895000.0,"Bensbyn, Luleå kommun",149.2,5.0,1826.0
-Mjölkuddsvägen 9,1195000.0,"Mjölkudden, Luleå kommun",43.0,1.0,
-Benzeliusvägen 21,1695000.0,"Luleå, Luleå kommun",140.0,4.0,1490.0
-Ljunggatan 2,1645000.0,"Bergviken, Luleå kommun",60.0,2.0,
-Dragongatan 4C,1795000.0,"Kronan, Luleå kommun",69.0,3.0,
-Tallskogsgatan 82,2695000.0,"Hällbacken, Luleå kommun",115.0,5.0,
-Tallundsvägen 37,4950000.0,"Kallax, Luleå kommun",279.0,7.0,2509.0
-Västra Varvsgatan 22A,1695000.0,"Centrum - Varvet, Luleå kommun",69.0,3.0,
-Orrgränd 21,1695000.0,"Hertsön, Luleå kommun",137.0,4.0,292.0
-Vallvägen 8,3495000.0,"Gammelstad, Luleå kommun",179.0,6.0,903.0
-Selet 72,995000.0,"Selet, Luleå kommun",140.0,4.0,5486.0
-Skogsmyrgatan 22,3995000.0,"Hällbacken, Luleå kommun",142.0,4.0,1478.0
-Ängdalsrovägen 294,995000.0,"Ängdalsro, Luleå kommun",70.0,3.0,1575.0
-Sandöskatan 403,1300000.0,"Sandöskatan, Luleå kommun",58.0,3.0,1725.0
-Forskarvägen 79 C,995000.0,"Porsön, Luleå kommun",41.0,1.0,
-Stationsgatan 14A,2495000.0,"Centrum, Luleå kommun",84.0,4.0,
-Västra Varvsgatan 20A,1165000.0,"Centrum-Varvet, Luleå kommun",52.0,2.0,
-Västra Varvsgatan 20A,1195000.0,"Luleå, Luleå kommun",52.0,2.0,
-Sandviksgatan 77A,1795000.0,"Centrum, Luleå kommun",62.0,2.0,
-Hindersön 4,1350000.0,"Hindersön, Luleå kommun",105.0,4.0,2500.0
-Söruddsvägen 14,2295000.0,"Lövskär, Luleå kommun",107.0,3.0,1870.0
-Pitsund 52,1950000.0,"Pitsund, Piteå kommun",160.0,4.0,3458.0
-Porsvägen 12,2995000.0,"Degeränget, Piteå kommun",182.0,4.0,1244.0
-Varvsvägen 1,1450000.0,"Rosvik, Piteå kommun",163.0,3.0,702.0
-Furunäsvägen 67a,875000.0,"Piteå, Piteå kommun",80.0,3.0,
-Roknäsvägen 14,1795000.0,"Roknäs, Piteå kommun",258.0,5.0,764.0
-Borgfors 103,1950000.0,"Sikfors, Piteå kommun",98.0,4.0,9847.0
-Färjtorpsvägen 18,1400000.0,"Öjebyn, Piteå kommun",170.0,5.0,1148.0
-Storgatan 32C,1095000.0,"Centralt, Piteå kommun",58.5,2.0,
-Arvidsjaurvägen 1762,690000.0,"Roknäs, Piteå kommun",30.0,1.0,5095.0
-Prästgårdsgatan 58B,1190000.0,"Centrala Stan, Piteå kommun",56.0,2.0,
-Lillpitevägen 685,1495000.0,"Lillpite, Piteå kommun",288.0,5.0,6749.0
-Arvidsjaurvägen 1335,1950000.0,"Roknäs, Piteå kommun",105.0,3.0,2223.0
-Pitevägen 43,1490000.0,"Rosvik, Piteå kommun",118.0,3.0,1000.0
-Ängsvägen 11,1590000.0,"Rosvik, Piteå kommun",129.0,4.0,1054.0
-Hyndgrundsvägen 138,1495000.0,"Norrfjärden, Piteå kommun",56.0,3.0,902.0
-Roknäsvägen 31,795000.0,"Roknäs, Piteå kommun",380.0,7.0,5195.0
-Laxstigen 1,2100000.0,"Klubbgärdet, Piteå kommun",133.0,5.0,775.0
-Persöbyvägen 54,1400000.0,"Roknäs, Piteå kommun",92.0,3.0,1971.0
-Solbackagatan 28,1300000.0,"Annelund, Piteå kommun",161.0,6.0,343.0
-Spovgatan 15,1495000.0,"Klubbgärdet, Piteå kommun",196.0,3.0,920.0
-Hällskärsvägen 38,795000.0,"Rosvik, Piteå kommun",92.0,3.0,3140.0
-Hamngatan 57,1650000.0,"Centralt, Piteå kommun",71.5,2.0,
-Smedjegatan 3,,"Backen, Piteå kommun",,,944.0
-Norra Storåkersvägen 20,1800000.0,"Sjulnäs, Piteå kommun",216.0,4.0,926.0
-Kilgatan 4,2950000.0,"Djupviken, Piteå kommun",203.0,7.0,816.0
-Högsböleskiftet 196,1800000.0,"Högsböleskiftet, Piteå kommun",72.0,2.0,1800.0
-Arvidsjaurvägen 412,1890000.0,"Vitsand, Piteå kommun",62.0,2.0,1436.0
-Södra Björklundavägen 13,1195000.0,"Öjebyn, Piteå kommun",108.0,3.0,1174.0
-Kolmilavägen 14C,1150000.0,"Centralt, Piteå kommun",70.0,2.0,
-Råinoskarsvägen 5,490000.0,"Trundön, Piteå kommun",68.0,3.0,1771.0
-Brattknabben 136,1995000.0,"Lillpite, Piteå kommun",100.0,4.0,52000.0
-Myrhedsvägen 28,195000.0,"Långträsk, Piteå kommun",160.0,3.0,1545.0
-Vilhelmsvägen 14,1600000.0,"Böle, Piteå kommun",193.0,5.0,1110.0
-Arvidsjaurvägen 1461,,"Roknäs, Piteå kommun",,,17000.0
-Södra Stationsgatan 8,2850000.0,"Öjebyn, Piteå kommun",246.0,7.0,758.0
-Sikforsvägen 66,1400000.0,"Sikfors, Piteå kommun",75.0,4.0,1414.0
-Holmträskvägen 74,325000.0,"Altersbruk, Piteå kommun",63.0,2.0,1544.0
-Rönnberget 45,,"Arnemark, Piteå kommun",,,1905.0
-Hambogatan 2,2190000.0,"Öjebyn, Piteå kommun",193.0,5.0,1029.0
-Lillpitevägen 509,1200000.0,"Lillpite, Piteå kommun",103.0,3.0,1993.0
-Pitsund 52,1950000.0,"Pitsund, Piteå kommun",160.0,4.0,3458.0
-Infjärdenvägen 491 och 493,2995000.0,"Långnäs, Piteå kommun",175.0,5.0,12000.0
-Borevägen 2,2200000.0,"Mossen, Piteå kommun",155.0,4.0,947.0
-Borgaruddsvägen 337,2750000.0,"Norrfjärden, Piteå kommun",60.0,3.0,2200.0
-Parkgatan 6A,1295000.0,"Centralt, Piteå kommun",69.0,3.0,
-Kastanjevägen 10,,"Hortlax, Piteå kommun",,,850.0
-Högsböleskiftet 176,1400000.0,"Högsböleskiftet, Piteå kommun",60.0,3.0,1800.0
-Fältvägen 18,1395000.0,"Rosvik, Piteå kommun",175.0,5.0,1119.0
-Ytterstholmen 84,2950000.0,"Djupviken, Piteå kommun",135.0,4.0,938.0
-Guldsmeden 2,,"Sandön, Piteå kommun",,,2064.0
-Brännbergsgatan 16,1600000.0,"Skuthamn, Piteå kommun",163.0,4.0,1255.0
-Nedre Tväråselet 310,950000.0,"Nedre Tväråselet, Älvsbyns kommun",70.0,3.0,2130.0
-Flurheden 5,3300000.0,"Vistträsk By, Älvsbyns kommun",165.0,6.0,11000.0
-Spontongatan 26,450000.0,"Altuna, Älvsbyns kommun",141.0,4.0,1100.0
-Triangelgatan 15,650000.0,"Vistträsk, Älvsbyns kommun",176.0,6.0,1484.0
-Nygårdsvägen 22,595000.0,"Nygård, Älvsbyns kommun",166.0,4.0,1000.0
-Fågelgatan 1,995000.0,"Östermalm, Älvsbyns kommun",181.0,5.0,1025.0
-Altunastranden 21,750000.0,"Altuna, Älvsbyns kommun",140.0,4.0,1276.0
-Muskus 1:17,1000000.0,"Muskus, Älvsbyns kommun",95.0,2.0,6395.0
-Garvargatan 32,550000.0,"Östermalm, Älvsbyns kommun",186.0,5.0,937.0
-Soldatgatan 5,800000.0,"Altuna, Älvsbyns kommun",168.0,4.0,873.0
-Turistgatan 50,495000.0,"Östermalm, Älvsbyns kommun",148.0,4.0,444.0
-Prästbogatan 8,975000.0,"Prästgärdan, Älvsbyns kommun",148.0,3.0,890.0
-Segerkarlsgatan 4,775000.0,"Altuna, Älvsbyns kommun",127.0,3.0,1072.0
-Soldatgatan 13,995000.0,"Altuna, Älvsbyns kommun",167.0,3.0,791.0
-Villagatan 8,450000.0,"Vidsel, Älvsbyns kommun",139.0,5.0,780.0
-Hedgatan 9,895000.0,"Altuna, Älvsbyns kommun",176.0,5.0,1240.0
-Malmgatan 4,999999.0,"Kyrkmalmen, Älvsbyns kommun",240.0,5.0,789.0
-Vistträsk by 4,450000.0,"Vistträsk, Älvsbyns kommun",112.0,3.0,2211.0
-Förargatan 35,675000.0,"Västermalm, Älvsbyns kommun",169.0,5.0,450.0
-Kärlekskojan,225000.0,"Älvsbyn, Älvsbyns kommun",25.0,1.0,3770.0
-Hällan 26,2250000.0,"Hällan, Älvsbyns kommun",161.0,4.0,7000.0
-Korsträsk 303,2350000.0,"Korsträsk, Älvsbyns kommun",120.0,5.0,3052.0
-Västra Vidselsvägen 3,110000.0,"Vidsel, Älvsbyns kommun",172.0,4.0,1429.0
-Hotell Renkronan - Västra Vidselsvägen 5,1800000.0,"Vidsel, Älvsbyns kommun",2400.0,30.0,2832.0
-Korsträsk 4.34,,"Korsträsk, Älvsbyns kommun",,,315000.0
-Nybyn 76,1900000.0,"Nybyn, Älvsbyns kommun",85.0,4.0,257000.0
-Manjärv 501,1195000.0,"Manjärv, Älvsbyns kommun",25.0,1.0,141000.0
-Tväråselet 20,1500000.0,"Övre Tväråsel, Älvsbyns kommun",183.0,5.0,424000.0
-Bodforsvägen 4A,2295000.0,"Bodforsen, Bodens kommun",166.0,4.0,1213.0
-Spadvägen 15,1595000.0,"Svartbjörsbyn, Bodens kommun",168.0,5.0,817.0
-Bodforsvägen 4A,2295000.0,"Bodforsen, Bodens kommun",166.0,4.0,1213.0
-Västbolandet 212,1295000.0,"Harads, Bodens kommun",76.0,4.0,1451.0
-Norriån 32,595000.0,"Gunnarsbyn, Bodens kommun",75.0,3.0,2164.0
-Hallonvägen 3,895000.0,"Gunnarsbyn, Bodens kommun",193.0,6.0,1146.0
-Dammgränd 55,1045000.0,"Bodforsen, Bodens kommun",97.5,4.0,
-Degernäs 14,1295000.0,"Degernäs, Bodens kommun",77.0,4.0,1843.0
-Anisvägen 19,2395000.0,"Sävast, Bodens kommun",176.0,5.0,973.0
-Degerselsvägen 436,295000.0,"Niemisel, Bodens kommun",70.0,4.0,1524.0
-Safirvägen 6,1995000.0,"Heden, Bodens kommun",168.0,5.0,1270.0
-Strutsgatan 8,2200000.0,"Sanden, Bodens kommun",170.0,5.0,814.0
-Södra Sävastön 9,1995000.0,"Sävastön, Bodens kommun",68.0,3.0,1388.0
-Spettvägen 3,1295000.0,"Svartbjörsbyn, Bodens kommun",185.0,5.0,841.0
-Strandplan 11,575000.0,"Centrum, Bodens kommun",45.5,1.0,
-Musikantvägen 30,2795000.0,"Södra Svartbyn, Bodens kommun",254.0,6.0,1661.0
-Skolvägen 7,1295000.0,"Fagernäs, Bodens kommun",136.0,3.0,1016.0
-Helikoptergränd 51,695000.0,"Boden, Bodens kommun",109.5,4.0,
-Kristallgränd 4,1775000.0,"Heden, Bodens kommun",173.0,4.0,1024.0
-Flöjtvägen 13,2895000.0,"Hamptjärnmoran, Bodens kommun",210.0,5.0,1117.0
-Halmvägen 9,2195000.0,"Södra Svartbyn, Bodens kommun",120.0,5.0,909.0
-Övre Buddbyn 2B,2995000.0,"Övre Buddbyn, Bodens kommun",140.0,4.0,30000.0
-Råbäcken 15,995000.0,"Råbäcken, Bodens kommun",35.0,2.0,1344.0
-Lombäcken 103,450000.0,"Unbyn, Bodens kommun",65.0,2.0,2008.0
-Strandplan 9,695000.0,"Centrala Boden, Bodens kommun",46.0,1.0,
-Övrebodarna 15,3495000.0,"Övrebodarna, Bodens kommun",120.0,3.0,3503.0
-Domänvägen 8,495000.0,"Harads, Bodens kommun",145.0,4.0,971.0
-Brännagatan 7 A,995000.0,"Centrala Boden, Bodens kommun",59.0,2.0,
-Järpgatan 12,1795000.0,"Sanden, Bodens kommun",209.0,4.0,933.0
-Södra Harads 20,575000.0,"Södra Harads, Bodens kommun",168.0,3.0,1295.0
-Kallkällvägen 18E,1295000.0,"Vittjärv, Bodens kommun",80.0,2.0,1034.0
-Svampvägen 32 & 34,1495000.0,"Sävast, Bodens kommun",65.0,3.0,1977.0
-Svartbyleden 94,3495000.0,"Norra Svartbyn, Bodens kommun",221.0,8.0,956.0
-Valvträsk 101,565000.0,"Gunnarsbyn, Bodens kommun",57.0,3.0,2000.0
-Bodforsvägen 25,2795000.0,"Bodforsen, Bodens kommun",129.0,4.0,1829.0
-Sävastnäs 233,495000.0,"Sävast, Bodens kommun",70.0,2.0,975.0
-Gullträsk 11,595000.0,"Boden, Bodens kommun",80.0,4.0,2457.0
-Dammgränd 74,1395000.0,"Bodforsen, Bodens kommun",109.5,4.0,
-Norra Bredåker 406,595000.0,"Bredåker, Bodens kommun",91.0,4.0,1340.0
-Dammgränd 19,1195000.0,"Bodforsen, Bodens kommun",130.0,5.0,
-Sävastnäs 2,995000.0,"Sävastnäs, Bodens kommun",199.0,4.0,6070.0
-Kungsgatan 17,1495000.0,"Nedre stadsdelen/centrum, Bodens kommun",76.0,3.0,
-Prinsgatan 22D,1095000.0,"Centralt - Nedre Stadsdelen, Bodens kommun",101.0,3.0,
-Melonvägen 16,2995000.0,"Sävast, Bodens kommun",158.0,4.0,1426.0
-Trånga gatan 11C,1195000.0,"Sävast, Bodens kommun",89.0,3.0,
-Alträsk 410,945000.0,"Alträsk, Bodens kommun",60.0,2.0,1410.0
-Stationsgatan 1 B,675000.0,"Centrala Boden, Bodens kommun",48.0,2.0,
-Bävervägen 12,1670000.0,"Torpgärdan, Bodens kommun",189.0,5.0,636.0
-Älgvägen 5,1795000.0,"Torpgärdan, Bodens kommun",108.0,2.0,1305.0
-Infanterivägen 9,895000.0,"Bodsvedjan, Bodens kommun",148.0,3.0,1017.0
-Torsgatan 9,1895000.0,"Sanden, Bodens kommun",215.0,6.0,1020.0
-Repslagargatan 9B,4750000.0,"Gültzauudden, Luleå kommun",119.0,3.0,311.0
-Stationsgatan 20A,1395000.0,"Centrum, Luleå kommun",40.5,2.0,
-Jaktviksvägen 159,,"Jaktviken/Kallax, Luleå kommun",,,1675.0
-Sundomsvägen 451,750000.0,"Sörnäsudden/Sundom, Luleå kommun",95.0,3.0,2480.0
-Stormvägen 185,2645000.0,"Björkskatan, Luleå kommun",103.0,4.0,138.0
-Trädgårdsgatan 38,2395000.0,"Centrum, Luleå kommun",80.6,3.0,
-Timmermansgatan 46,3295000.0,"Centrum, Luleå kommun",82.0,3.0,
-Sandviksgatan 77 C,1795000.0,"Centrum, Luleå kommun",73.5,3.0,
-Hällbruksgatan 2,1260000.0,"Örnäset, Luleå kommun",56.0,2.0,
-Västra Varvsgatan 17 B,995000.0,"Centrum, Luleå kommun",27.0,1.0,
-Skansgatan 25,3995000.0,"Bergnäset, Luleå kommun",142.0,4.0,277.0
-Lingonstigen 11,850000.0,"Kallkällan, Luleå kommun",50.0,1.0,
-Sandnäset 4,,"Luleå, Luleå kommun",,,2995.0
-Lingonstigen 63,1595000.0,"Kallkällan, Luleå kommun",84.5,3.0,
-Burströmsvägen 118,1295000.0,"Skurholmen, Luleå kommun",65.0,2.0,
-Stationsgatan 63 A,1595000.0,"Centrum, Luleå kommun",43.0,2.0,
-Aspviksvägen 25,3690000.0,"Kallax, Luleå kommun",170.0,4.0,1728.0
-Genvägen 27A,1295000.0,"Lövskatan, Luleå kommun",53.5,2.0,
-Mjölkuddsvägen 5,1595000.0,"Mjölkudden, Luleå kommun",57.5,2.0,
-Kungsgatan 6C,2795000.0,"Centrum, Luleå kommun",108.0,4.0,
-Jaktviksvägen 192,3995000.0,"Kallax, Luleå kommun",90.0,2.0,2268.0
-Radiomasten 157,3395000.0,"Mjölkudden, Luleå kommun",164.0,5.0,
-Stenudden 3B,1485000.0,"Avan, Luleå kommun",58.0,2.0,2445.0
-Sinksundsvägen 2 A,460000.0,"Sinksundet, Luleå kommun",30.0,1.0,368.0
-Hålsundsvägen 315,795000.0,"Luleå, Luleå kommun",76.0,3.0,1706.0
-Södra Prästholm 740,1995000.0,"Råneå, Luleå kommun",100.0,4.0,11000.0
-Stationsgatan 11,3195000.0,"Centrum, Luleå kommun",95.0,3.0,
-Krongårdsringen 6,995000.0,"Örnäset, Luleå kommun",54.400000000000006,2.0,
-Lingonstigen 43,1695000.0,"Kallkällan, Luleå kommun",81.5,3.0,
-Mjölkuddsvägen 255,1595000.0,"Mjölkudden, Luleå kommun",90.0,3.0,
-Teknikergatan 5,995000.0,"Skurholmen, Luleå kommun",60.0,2.0,
-Västra Varvsgatan 20B,1495000.0,"Varvet, Luleå kommun",52.0,2.0,
-Munkebergsgatan  38,1495000.0,"Mjölkudden, Luleå kommun",78.0,3.0,
-Muntervägen 15,2595000.0,"Alvik, Luleå kommun",175.0,4.0,1178.0
-Liljevalchsgatan 23,2995000.0,"Notviken, Luleå kommun",131.0,4.0,517.0
-Sörnäsudden 330,1395000.0,"Luleå, Luleå kommun",60.0,3.0,2018.0
-Stationsgatan 63B,1495000.0,"Centrum, Luleå kommun",49.5,2.0,
-Borestigen 7,1695000.0,"Luleå, Luleå kommun",120.0,6.0,720.0
-Västra Varvsgatan 20A,1295000.0,"Centrum - Varvet, Luleå kommun",52.0,2.0,
-Sjöfartsgatan 14A,995000.0,"Svartöstaden, Luleå kommun",88.0,3.0,
-Kompanivägen 33,1995000.0,"Lulsundsberget, Luleå kommun",75.0,2.0,
-Köpmangatan 52 E,2075000.0,"Centrum, Luleå kommun",53.0,2.0,
-Pyrolagatan 2,4995000.0,"Hällbacken, Luleå kommun",196.0,8.0,849.0
-Tärngränd 13,2195000.0,"Hertsön, Luleå kommun",133.0,5.0,375.0
-Västra Varvsgatan 17B,1225000.0,"Varvet, Luleå kommun",59.0,2.0,
-Västra Skolgatan 9B,1395000.0,"Bergnäset, Luleå kommun",57.0,2.0,
-Lulsundsgatan 50,2095000.0,"Östermalm, Luleå kommun",73.5,3.0,
-Sandviksgatan 42B,2195000.0,"Centrum, Luleå kommun",79.0,3.0,
-Småbåtsgatan 10c,1795000.0,"Centrum, Luleå kommun",67.0,2.0,
-Varvsgatan 55,1095000.0,"Centrum, Luleå kommun",27.0,1.0,
-Skiffervägen 30,1695000.0,"Rosvik, Piteå kommun",162.0,4.0,570.0
-Fanjunkaregatan 3,1990000.0,"Piteå, Piteå kommun",72.0,3.0,1232.0
-Roknäsvägen 12,995000.0,"Roknäs, Piteå kommun",160.0,5.0,781.0
-Krokvattnetvägen 160,995000.0,"Luleå, Piteå kommun",104.0,3.0,1082.0
-Parkgatan 12,1000000.0,"Piteå - Centrum, Piteå kommun",56.0,2.0,
-Långnäsvägen 1760,1995000.0,"Arnemark, Piteå kommun",149.0,4.0,32000.0
-Kalamarksvägen 699,595000.0,"Kalaträsket, Piteå kommun",52.0,3.0,1638.0
-Hemlundavägen 159,1980000.0,"Hemlunda, Piteå kommun",188.0,4.0,18000.0
-Råholmen 56,1295000.0,"Berkön, Piteå kommun",65.0,3.0,1661.0
-Skaftgatan 5,,"Djupviken, Piteå kommun",,,889.0
-Sörvägen 696,295000.0,"Lillpite, Piteå kommun",45.0,2.0,1636.0
-Bergön 23,1350000.0,"Jävre, Piteå kommun",92.0,2.0,1501.0
-Långviks Glasbruksväg 85,1950000.0,"Långvik, Piteå kommun",71.0,3.0,5576.0
-Grannäsvägen 90,1095000.0,"Jävrebyn, Piteå kommun",69.0,3.0,1385.0
-Jävre Brännland 11,1900000.0,"Jävre, Piteå kommun",70.0,3.0,1876.0
-Bergknabben 9,650000.0,"Altersbruk, Piteå kommun",92.0,3.0,3836.0
-Sanavägen 615,3000000.0,"Svartnäsudden, Piteå kommun",100.0,3.0,1539.0
-Högsböleskiftet 109,1250000.0,"Högsböleskiftet, Piteå kommun",53.0,3.0,1334.0
-Sparvgatan 10,1490000.0,"Klubbgärdet, Piteå kommun",178.0,4.0,847.0
-Hägnanvägen 11,1395000.0,"Sjulsmark, Piteå kommun",165.0,6.0,1056.0
-Källbogatan 57,2995000.0,"Piteå, Piteå kommun",200.0,6.0,1025.0
-Mårdstigen 8,1195000.0,"Långvik, Piteå kommun",59.0,2.0,1574.0
-Hällskatan 19,2390000.0,"Hällskatan, Piteå kommun",128.0,3.0,1629.0
-Näckrosgränd 7,1590000.0,"Durrnäs, Piteå kommun",143.0,6.0,275.0
-Majorsgatan 7,1450000.0,"Piteå, Piteå kommun",65.0,3.0,1309.0
-Skolgatan 16,,"Klubbgärdet, Piteå kommun",,,6904.0
-Bunäsgrundet,870000.0,"Jävre, Piteå kommun",50.0,3.0,
-Krokgrundet 35,1650000.0,"Granön, Piteå kommun",82.0,3.0,1447.0
-Jävre Sandholmen 39,1500000.0,"Jävre, Piteå kommun",47.0,3.0,1461.0
-Mastvägen 9,1850000.0,"Rosvik, Piteå kommun",228.0,6.0,994.0
-Gråträsk 25,,"Arvidsjaur, Piteå kommun",,,846.0
-Kalvön 24,995000.0,"Rosvik, Piteå kommun",44.0,2.0,1499.0
-Timmermansgatan 7,1500000.0,"Skuthamn, Piteå kommun",78.0,2.0,1565.0
-Rotegatan 7,2200000.0,"Öjebyn, Piteå kommun",299.0,8.0,1032.0
-Strömnäsgatan 13,1750000.0,"Strömnäs, Piteå kommun",182.0,4.0,830.0
-Sandholmsudden 250,1590000.0,"Degerberget, Piteå kommun",32.0,3.0,1507.0
-Rönnberget 53,1050000.0,"Rönnberget, Piteå kommun",60.0,3.0,1615.0
-Aspgatan 12,2200000.0,"Annelund, Piteå kommun",184.0,4.0,968.0
-Perviken 66,2800000.0,"Hortlax, Piteå kommun",38.0,2.0,2975.0
-Mellangatan 34,4300000.0,"Centralt, Piteå kommun",260.0,8.0,1127.0
-Kyrkbyn 128,1800000.0,"Piteå, Piteå kommun",50.0,3.0,1300.0
-Sanavägen 528,1650000.0,"Svartnäsudden, Piteå kommun",50.0,2.0,1647.0
-Marmorgränd 7,4295000.0,"Piteå - Rosvik, Piteå kommun",245.0,5.0,8470.0
-Norra Stenarmen 63,6195000.0,"Norra Stenarmen, Piteå kommun",147.0,4.0,1200.0
-Svartnäsudden 73,2995000.0,"Rosvik, Piteå kommun",113.0,5.0,2152.0
-Kullvägen 1,3490000.0,"Strömnäs, Piteå kommun",238.0,8.0,931.0
-Bölevägen 3,1700000.0,"Böle, Piteå kommun",144.0,5.0,1602.0
-Bondegatan 4,1750000.0,"Öjebyn, Piteå kommun",232.0,6.0,1477.0
-Infjärdenvägen 489,1795000.0,"Roknäs, Piteå kommun",164.0,6.0,3908.0
-Kompanivägen 90,2970000.0,"Klubben, Piteå kommun",91.0,3.0,1079.0
-Mjedsjön 3,,"Heden, Bodens kommun",,,1290.0
-Sundsnäs 240,,"Sundsnäs, Bodens kommun",,,22000.0
-Flöjtvägen 12,1790000.0,"Hamptjärnmoran Boden, Bodens kommun",176.0,6.0,757.0
-Östra Karlberg,645000.0,"Karlberg/Degerbäcken, Bodens kommun",68.0,3.0,1122.0
-Gammelbyvägen 39A,895000.0,"Gammelbyn, Bodens kommun",74.0,1.0,5060.0
-Rönnvägen 15,2495000.0,"Erikslund/fagernäs, Bodens kommun",197.0,6.0,1092.0
-Övre Svartlå 516,695000.0,"Boden, Bodens kommun",50.0,2.0,3006.0
-Sävastnäs 7,3395000.0,"Sävastnäs, Bodens kommun",144.0,3.0,26000.0
-Trollvägen 4,1895000.0,"Unbyn, Bodens kommun",162.0,4.0,807.0
-Norra Bredåker 56,495000.0,"Bredåker, Bodens kommun",180.0,4.0,2070.0
-Forsträskhed 99,325000.0,"Niemisel, Bodens kommun",116.0,2.0,1723.0
-Kusön 237,1495000.0,"Kusån/Kusön, Bodens kommun",80.0,2.0,2337.0
-Krokforsvägen 19,995000.0,"Trångfors, Bodens kommun",202.0,6.0,2808.0
-Svedjevägen 12,2000000.0,"Bodsvedjan, Bodens kommun",212.0,6.0,899.0
-Stationsgatan 13A,895000.0,"Centrala Boden, Bodens kommun",54.0,2.0,
-Kusträsk 46,1150000.0,"Kusträsk, Bodens kommun",87.0,3.0,2734.0
-Edeforsvägen 59,1195000.0,"Harads, Bodens kommun",254.0,7.0,4965.0
-Backgatan 3,2395000.0,"Björkelund, Bodens kommun",130.0,5.0,677.0
-Lilla Nygatan 3 C,995000.0,"Centrala Boden, Bodens kommun",67.0,3.0,
-Svartbyvägen 31,1295000.0,"Fagernäs, Bodens kommun",100.0,3.0,624.0
-Norriån 117,395000.0,"Norriån, Bodens kommun",91.0,4.0,3011.0
-Stationsgatan 13 C,815000.0,"Centrala Boden, Bodens kommun",35.0,1.0,
-Sörbyn 44,550000.0,"Råne Älvdal, Bodens kommun",40.0,2.0,2878.0
-Duvgatan 5,2195000.0,"Sanden, Bodens kommun",224.0,6.0,834.0
-Smedjegatan 19 A,695000.0,"Centrala Boden, Bodens kommun",48.5,2.0,
-Radhusvägen 21,395000.0,"Harads, Bodens kommun",180.0,4.0,993.0
-Brinkvägen 19,2395000.0,"Trångfors, Bodens kommun",222.0,5.0,912.0
-Betsvägen 2,2795000.0,"Harads, Bodens kommun",207.0,6.0,2477.0
-Kyrkgatan 55,1295000.0,"Centrala Boden, Bodens kommun",83.0,3.0,
-Hökgatan 21,1195000.0,"Sanden, Bodens kommun",166.0,4.0,927.0
-Yrkesvägen 6,2095000.0,"Torpgärdan, Bodens kommun",149.0,5.0,859.0
-Lovägen 1,2995000.0,"Torpgärdan, Bodens kommun",190.0,5.0,755.0
-Västbo 21,1950000.0,"Harads, Bodens kommun",158.0,6.0,36000.0
-Energivägen 9,1395000.0,"Vittjärv, Bodens kommun",75.0,3.0,796.0
-Kanotvägen 13,2695000.0,"Sävastön, Bodens kommun",131.0,5.0,889.0
-Svartbyleden 18A,1195000.0,"Norra Svartbyn, Bodens kommun",25.0,2.0,756.0
-Drottninggatan 20A,895000.0,"Centrala Boden, Bodens kommun",52.0,2.0,
-Brännberg 40,795000.0,"Brännberg, Bodens kommun",159.0,4.0,1118.0
-Stjärnfallsvägen 1,4995000.0,"Sävast, Bodens kommun",200.0,5.0,1268.0
-Djupdal 18,1295000.0,"Bredåker, Bodens kommun",151.0,4.0,31000.0
-Sandträsk 119,695000.0,"Boden, Bodens kommun",430.0,4.0,2111.0
-Fätågsvägen 16,2395000.0,"Norra Svartbyn, Bodens kommun",164.0,5.0,1003.0
-Torsgatan 8,2495000.0,"Sanden, Bodens kommun",166.0,5.0,921.0
-Vibbyn 1,2495000.0,"Skatamark, Bodens kommun",311.0,6.0,100000.0
-Alträsk 28D,895000.0,"Vändträsk, Bodens kommun",110.0,4.0,2375.0
-Brännagatan 17,,"Centrala Boden, Bodens kommun",,,972.0
-Flarken 5,3395000.0,"Boden, Bodens kommun",269.0,12.0,1942.0
-Solskensvägen 8B,,"Sävast, Bodens kommun",,,274.0
-Solskensvägen 8A,2495000.0,"Sävast, Bodens kommun",83.0,3.0,358.0
-Vändträsk 46B,445000.0,"Vändträsk, Bodens kommun",50.0,2.0,10330.0
-Skeppsbrogatan 15D,1895000.0,"Centrum, Luleå kommun",65.0,2.0,
-Tullgatan 25,1395000.0,"Centrum, Luleå kommun",36.5,1.0,
-Krongårdsringen 16,850000.0,"Örnäset, Luleå kommun",64.0,2.0,
-Stationsgatan 16B,1095000.0,"Centrum, Luleå kommun",42.0,1.0,
-Älvbrinken 16,2295000.0,"Råneå, Luleå kommun",126.0,4.0,908.0
-Laxgatan 25C,1295000.0,"Svartöstaden, Luleå kommun",59.5,2.0,
-Mjöfjärden 408,895000.0,"Mjöfjärden, Luleå kommun",65.0,3.0,3270.0
-Stationsgatan 16B,995000.0,"Centrum, Luleå kommun",44.0,1.0,
-Sunderbyvägen 2,5000000.0,"Södra Sunderbyn, Luleå kommun",357.5,9.0,5630.0
-Orrbyn 138,995000.0,"Orrbyn, Luleå kommun",163.0,4.0,2750.0
-Sandgatan 30,1295000.0,"Svartöstaden, Luleå kommun",77.4,3.0,
-Rådjursstigen 19,1795000.0,"Hertsön, Luleå kommun",137.0,4.0,292.0
-Sandnäsetvägen 226A,,"Bälinge, Luleå kommun",,,1651.0
-Stuga på Sandön/Klubbviken,1995000.0,"Sandön, Luleå kommun",89.0,3.0,2000.0
-Mjölkuddsvägen 165,2250000.0,"Mjölkudden, Luleå kommun",90.5,3.0,
-Kantgatan 7 A,1195000.0,"Lövskatan, Luleå kommun",57.5,2.0,
-Munkebergsgatan 60,1095000.0,"Mjölkudden/Munkeberg, Luleå kommun",33.5,1.0,
-Tjädergränd 28,2295000.0,"Hertsön, Luleå kommun",180.0,4.0,292.0
-Stakagränd 13,1700000.0,"Örnäset, Luleå kommun",83.0,5.0,764.0
-Rutviksreveln 24,3000000.0,"Björsbyn, Luleå kommun",90.0,3.0,2206.0
-Kompanivägen 21,4995000.0,"Kronan - Lulsundsberget, Luleå kommun",126.0,5.0,
-Värnpliktsgatan 33,7995000.0,"Kronan, Luleå kommun",290.0,6.0,875.0
-Västra Villavägen 3B,7500000.0,"Bergnäset, Luleå kommun",286.0,5.0,1002.0
-Höjdgatan 8B,745000.0,"Skurholmen, Luleå kommun",26.0,1.0,
-Lulsundsgatan 34B,1895000.0,"Centrum - Charlottendal, Luleå kommun",89.0,3.0,
-Mjölkuddsvägen 57,1095000.0,"Mjölkudden, Luleå kommun",34.0,1.0,
-Småbåtsgatan 10A,4000000.0,"Centrum, Luleå kommun",88.0,3.0,
-Östra Pilgatan 32,1095000.0,"Östermalm, Luleå kommun",31.0,1.0,
-Faktorsvägen 30,5525000.0,"Bergnäset, Luleå kommun",182.0,7.0,940.0
-Smedsträsket 230,995000.0,"Smedsbyn, Luleå kommun",70.0,3.0,54000.0
-Västmarksvägen 147,2500000.0,"Västmark, Luleå kommun",230.0,5.0,2605.0
-Munkebergsgatan 88,895000.0,"Mjölkudden - Munkeberg, Luleå kommun",33.5,1.0,
-Västra Varvsgatan 8,1595000.0,"Centrum Varvet, Luleå kommun",48.0,2.0,
-Sinksundsstranden 3,1300000.0,"Sinksundet, Luleå kommun",70.0,3.0,706.0
-Tjärnbergsvägen 7,1195000.0,"Råneå, Luleå kommun",167.0,6.0,784.0
-Sandviksgatan 36G,1795000.0,"Centrum, Luleå kommun",68.0,2.0,
-Sandviksgatan 21,1995000.0,"Centrum, Luleå kommun",67.5,3.0,
-Varvsgatan 57 C,1395000.0,"Centrum, Luleå kommun",55.0,2.0,
-Genvägen 11,2195000.0,"Lövskatan, Luleå kommun",176.0,3.0,770.0
-Mörövägen 209,795000.0,"Mörön, Luleå kommun",36.0,2.0,1944.0
-Inre Bjursträsk 308,820000.0,"Klöverträsk, Luleå kommun",45.0,2.0,2474.0
-Rutvikssundsvägen 56,4695000.0,"Rutvik, Luleå kommun",187.0,5.0,18000.0
-Fågeluddsvägen 22,1350000.0,"Mörön, Luleå kommun",55.0,3.0,1658.0
-Sandgatan 33b,720000.0,"Svartöstaden, Luleå kommun",38.0,1.0,
-Södra Ängesbyn 55,450000.0,"Ängesbyn, Luleå kommun",44.0,3.0,1496.0
-Nedantillvägen 11,1495000.0,"Råneå, Luleå kommun",220.0,6.0,885.0
-Sandnäsetvägen 308,1395000.0,"Bälinge/Sandnäset, Luleå kommun",100.0,4.0,1112.0
-Rörbäck 7,875000.0,"Rörbäck, Luleå kommun",84.0,3.0,1225.0
-Ensittarvägen 32,2950000.0,"Södra Sunderbyn, Luleå kommun",180.0,6.0,736.0
-Norra Niemiholm 155,,"Råneå, Luleå kommun",,,27000.0
-Bodträskvägen 33,1190000.0,"Holmträsk, Piteå kommun",200.0,4.0,3205.0
-Munksundsvägen 103,2850000.0,"Skuthamn, Piteå kommun",158.0,5.0,1004.0
-Härdargatan 14,1650000.0,"Backen, Piteå kommun",123.0,6.0,889.0
-Radhusvägen 19,1595000.0,"Degeränget, Piteå kommun",167.0,6.0,831.0
-Hjältviken 41,995000.0,"Berkön Trundön Rosvik, Piteå kommun",91.0,4.0,2020.0
-Gamla Sjulsmarksvägen 25,2975000.0,"Sjulsmark, Piteå kommun",663.0,7.0,2422.0
-Kolmilavägen 69,1675000.0,"Djupviken, Piteå kommun",96.0,4.0,949.0
-Trummagatan 17,2300000.0,"Öjebyn, Piteå kommun",184.0,7.0,880.0
-Långträskvägen 246,590000.0,"Sjulsmark, Piteå kommun",295.0,5.0,1736.0
-Bunäsudden 2,3995000.0,"Bunäsudden, Piteå kommun",116.0,4.0,1602.0
-Sågverksgatan 11,2200000.0,"Munksund, Piteå kommun",170.0,3.0,1832.0
-Isakstigen 2,495000.0,"Arnemark, Piteå kommun",110.0,3.0,3046.0
-Regementsvägen 29,2800000.0,"Klubben/Pite Havsbad, Piteå kommun",112.0,4.0,1663.0
-Ängdalsrovägen 294,995000.0,"Ängdalsro, Luleå kommun",70.0,3.0,1575.0
-Övre Storfors 1180,900000.0,"Altersbruk, Piteå kommun",86.0,3.0,75000.0
-Rosvik,,"Rosvik, Piteå kommun",,,650000.0
-Bergsviken,,"Bergsviken, Piteå kommun",,,429000.0
-Porsnäs 2:32,,"Porsnäs, Piteå kommun",,,173000.0
-Västra Lidenvägen 81,5700000.0,"Svensbyn, Piteå kommun",199.0,6.0,580000.0
-Mandträsk 44,,"Koler, Piteå kommun",,,911000.0
-Adress saknas,,"Norrfjärden, Piteå kommun",,,395000.0
-Älvsbyvägen 1160,,"Pålberget, Piteå kommun",,,729000.0
-RENÖN 1:3,,"Piteå, Piteå kommun",,,355000.0
-Öjebyn 13:4,,"Piteå, Piteå kommun",,,54000.0
-Tomtmark på Näsudden,,"Öjebyn, Piteå kommun",,,67000.0
-Degernäs 26,1800000.0,"Degernäs, Bodens kommun",84.0,3.0,1665.0
-Södra Maranvägen 7,4795000.0,"Sävast, Bodens kommun",184.0,4.0,1442.0
-Kyrkgatan 38,4195000.0,"Björknäs, Bodens kommun",220.0,9.0,1650.0
-Södra Bredåker 321,1895000.0,"Bredåker, Bodens kommun",240.0,5.0,3260.0
-Degernäs 27,1495000.0,"Degernäs, Bodens kommun",117.0,3.0,1879.0
-Klinthöjden tomt nr 33,,"Storklinten, Bodens kommun",,,502.0
-Valvträsk 2,,"Råne Älvdal, Bodens kommun",,,2159.0
-Valvträsk 1,,"Råne Älvdal, Bodens kommun",,,1510.0
-Mockträsk 46,,"Mockträsk, Bodens kommun",,,2305.0
-Rånevägen 2,1195000.0,"Råne Älvdal, Gällivare kommun",296.0,6.0,542000.0
-Selet 58,800000.0,"Selet, Luleå kommun",50.0,2.0,1537.0
-MÅRDSEL 2:53,795000.0,"Gällivare, Gällivare kommun",50.0,2.0,1061.0
-Selet 72,995000.0,"Selet, Luleå kommun",140.0,4.0,5486.0
-Smedsträsket 230,995000.0,"Smedsbyn, Luleå kommun",70.0,3.0,54000.0
-Västmarksvägen 147,2500000.0,"Västmark, Luleå kommun",230.0,5.0,2605.0
-Rånevägen 11,425000.0,"Råne Älvdal, Gällivare kommun",110.0,5.0,21000.0
-Västmarksvägen 61,895000.0,"Västmark - Eriksberg, Luleå kommun",180.0,5.0,4447.0
-Knösenvägen 288,3395000.0,"Norra Sunderbyn, Luleå kommun",100.0,4.0,11000.0
-Norra Bredåker 85,,"N Bredåker, Bodens kommun",,,43000.0
-Lassbyn 206,1995000.0,"Lassbyn, Bodens kommun",86.0,3.0,165000.0
-Orrbyn 48,1495000.0,"Råneå, Luleå kommun",260.0,7.0,2267.0
-Tjärhovsgatan 18 B,645000.0,"Gültzauudden, Luleå kommun",22.0,1.0,
-Strömsund 5,1695000.0,"Råneå, Luleå kommun",244.0,5.0,4504.0
-Krongårdsringen 6C,1150000.0,"Örnäset, Luleå kommun",51.0,2.0,
-Flugsnappargränd 13,2045000.0,"Hertsön, Luleå kommun",158.0,4.0,324.0
-Alhamns södra strandväg 162,1250000.0,"Alhamn, Luleå kommun",61.0,3.0,2207.0
-Skillingvägen 11,2995000.0,"Lerbäcken, Luleå kommun",126.0,4.0,842.0
-"Småskär, stuga 11",550000.0,"Småskär/Skatamarksviken, Luleå kommun",45.0,2.0,
-Burströmsvägen 116,1295000.0,"Burströmska, Luleå kommun",75.5,3.0,
-Genvägen 27 B,995000.0,"Lövskatan, Luleå kommun",40.0,1.0,
-Bensby Norriviken 18,1695000.0,"Bensbyn, Luleå kommun",58.0,2.0,2394.0
-Dragongatan 4D,1995000.0,"Kronan, Luleå kommun",81.0,4.0,
-Hovslagarvägen 4,1395000.0,"Råneå, Luleå kommun",165.0,6.0,817.0
-Västra Varvsgatan 14 B,995000.0,"Centrum/Varvet, Luleå kommun",31.0,1.0,
-Sörnäsudden 324,3000000.0,"Sörnäsudden, Luleå kommun",110.0,3.0,2454.0
-Björsbyvägen 16,1995000.0,"Björsbyn, Luleå kommun",48.0,2.0,1172.0
-Spränggatan 23B,1395000.0,"Skurholmen, Luleå kommun",52.0,2.0,
-Ormisvägen 12,995000.0,"Råneå, Luleå kommun",177.0,6.0,2050.0
-Praktikantvägen 33,2595000.0,"Porsösundet, Luleå kommun",171.0,5.0,379.0
-Alviksvägen 371,,"Alvik/Långnäs, Luleå kommun",,,12000.0
-Öströmsvägen 4B,,"Kallax, Luleå kommun",,,3165.0
-Mjölkuddsvägen 47,1495000.0,"Mjölkudden, Luleå kommun",77.0,3.0,
-Rörbäcksvägen 617,395000.0,"Råneå, Luleå kommun",55.0,2.0,2000.0
-Sandnäsetvägen 70,695000.0,"Avan, Luleå kommun",100.0,5.0,3020.0
-Sandnäsetvägen 310,3995000.0,"Sandnäset/Bälinge, Luleå kommun",163.0,5.0,3998.0
-Lingonstigen 68,1595000.0,"Kallkällan, Luleå kommun",81.5,3.0,
-Stormvägen 147,2295000.0,"Björkskatan, Luleå kommun",115.0,4.0,162.0
-Odengatan 10,1395000.0,"Lövskatan, Luleå kommun",55.0,2.0,
-Hällbruksgatan 23,1195000.0,"Örnäset, Luleå kommun",56.5,2.0,
-Sandviksgatan 23,1150000.0,"Centrum, Luleå kommun",49.0,2.0,
-Sandöskatan 421,2295000.0,"Rörbäck, Luleå kommun",64.0,3.0,1650.0
-Burströmsvägen 12,1250000.0,"Burströmska Gärdan, Luleå kommun",65.0,2.0,
-Gränsgatan 8C,1495000.0,"Västra Skurholmen, Luleå kommun",72.0,3.0,
-Västergatan 1,1195000.0,"Västra Skurholmen, Luleå kommun",68.0,2.0,
-Krokabuskgrundet 64,1895000.0,"Sandön, Luleå kommun",68.0,3.0,4390.0
-Sörövägen 120,,"Brändön, Luleå kommun",,,2841.0
-Markskogsvägen 219,675000.0,"Persön, Luleå kommun",95.0,4.0,1600.0
-Västmarksvägen 61,895000.0,"Västmark - Eriksberg, Luleå kommun",180.0,5.0,4447.0
-Niemiholmen 51,895000.0,"Råneå, Luleå kommun",42.0,2.0,2129.0
-Lövskärsvägen 658,995000.0,"Lövskär, Luleå kommun",52.0,2.0,1567.0
-Varvsgatan 55,1345000.0,"Centrum, Luleå kommun",55.0,2.0,
-Mjölkuddsvägen 29,1195000.0,"Mjölkudden, Luleå kommun",45.5,1.0,
-Gunnarsbyvägen 21,595000.0,"Niemisel, Luleå kommun",220.0,4.0,1962.0
-Elevvägen 9,2395000.0,"Porsön/Porsösundet, Luleå kommun",171.0,5.0,395.0
-Hampmyrvägen 9,3795000.0,"Alvik, Luleå kommun",326.0,8.0,1224.0
-Lulnäsvägen 304,2795000.0,"Lulnäset, Luleå kommun",42.0,3.0,2195.0
-Alhamnsvägen 632,2695000.0,"Alhamn, Luleå kommun",94.0,2.0,12000.0
-Västra Varvsgatan 24A,1075000.0,"Centrum-Varvet, Luleå kommun",40.0,1.0,
-Kråknäsvägen 94,895000.0,"Örarna, Luleå kommun",50.0,2.0,1561.0
-Alhamnsvägen 618,1495000.0,"Alhamn, Luleå kommun",203.0,4.0,12000.0
-Stationsgatan 32A,995000.0,"Centrum, Luleå kommun",20.5,1.0,
-Gamla Lövskärsvägen 322,595000.0,"Lövskär, Luleå kommun",50.0,2.0,1327.0
-Krongårdsringen  32,945000.0,"Örnäset, Luleå kommun",61.5,3.0,
-Orrbyn 49,2295000.0,"Orrbyn, Luleå kommun",291.0,7.0,8941.0
-Furufjärdsvägen 174,2495000.0,"Furufjärden / Bodön, Luleå kommun",75.0,2.0,2463.0
-Alvägen 20,4195000.0,"Skogsvallen, Luleå kommun",177.8,4.0,786.0
-Lindbergavägen 21,995000.0,"Börtnäsheden, Luleå kommun",33.0,1.0,2451.0
-Hedbackavägen 115 & 119,,"Luleå, Luleå kommun",,,2475.0
-Sakrislundsvägen 65D,1495000.0,"Mörön, Luleå kommun",52.0,2.0,1470.0
-Mjölkuddsvägen 17,1795000.0,"Mjölkudden, Luleå kommun",72.0,3.0,
-Disponentvägen 10B,3195000.0,"Karlsvik, Luleå kommun",103.0,4.0,189.0
-Orrgränd 7,1700000.0,"Hertsön, Luleå kommun",137.0,4.0,292.0
-Spränggatan 23,595000.0,"Skurholmen, Luleå kommun",21.0,1.0,
-Sandgatan 12,895000.0,"Svartöstaden, Luleå kommun",62.0,2.0,
-Åsgatan 4,6800000.0,"Östermalm, Luleå kommun",299.6,7.0,686.0
-Hermelinsgatan 28A,2095000.0,"Östermalm, Luleå kommun",80.5,3.0,
-Rektorsgatan 36C,1695000.0,"Östermalm, Luleå kommun",57.7,2.0,
-Hjorthagenvägen 36,795000.0,"Måttsund, Luleå kommun",28.0,2.0,1048.0
-Skagsören 80,1295000.0,"Sandön, Luleå kommun",45.0,3.0,1440.0
-Laxgatan 17B,995000.0,"Svartöstaden, Luleå kommun",62.0,2.0,
-Lundvägen 1,1950000.0,"Bensbyn, Luleå kommun",48.0,2.0,2338.0
-Hällbruksgatan 3,995000.0,"Örnnäset, Luleå kommun",40.5,1.0,
-Fredsgatan 12B,6500000.0,"Centrum, Luleå kommun",269.0,7.0,451.0
-Alhamnsvägen 206,1950000.0,"Alhamn/Vallen, Luleå kommun",62.0,2.0,1873.0
-Sunderbyvägen 155,4995000.0,"Södra Sunderbyn, Luleå kommun",223.0,5.0,2550.0
-Björkgatan 21,1845000.0,"Bergviken, Luleå kommun",60.5,2.0,
-Skogsmyrgatan 17F,2095000.0,"Hällbacken, Luleå kommun",85.0,4.0,
-Toppgatan 12B,1295000.0,"Luleå, Luleå kommun",49.0,2.0,
-Bränslanvägen 15,5895000.0,"Södra Sunderbyn, Luleå kommun",312.0,6.0,1647.0
-Fredsgatan 4,8000000.0,"Gültzauudden, Luleå kommun",367.0,8.0,869.0
-Ensittarvägen 37,2850000.0,"Södra Sunderbyn, Luleå kommun",130.0,4.0,559.0
-Flarkenvägen 2,3495000.0,"Rutvik, Luleå kommun",247.0,8.0,999.0
-Sandgatan 12,995000.0,"Svartöstaden, Luleå kommun",62.0,2.0,
-Tullgatan 31A,995000.0,"Centrum, Luleå kommun",22.0,1.0,
-Lingonstigen 53,1645000.0,"Kallkällan, Luleå kommun",84.5,3.0,
-Tjärnbergsvägen 32,995000.0,"Råneå, Luleå kommun",109.0,3.0,1047.0
-Nordanträsk 28,8995000.0,"Södra Sunderbyn, Luleå kommun",250.0,6.0,7781.0
-Västra Varvsgatan 16B,1550000.0,"Varvet, Luleå kommun",51.5,2.0,
-Kälkholmen 99,,"Lövskär, Luleå kommun",,,1803.0
-Björkgatan 21,1395000.0,"Bergviken, Luleå kommun",39.0,1.0,
-Munkebergsgatan 54,995000.0,"Mjölkudden/Munkeberg, Luleå kommun",33.5,1.0,
-Rönngatan 8,5895000.0,"Östermalm, Luleå kommun",235.0,7.0,648.0
-Tullgatan 10,2695000.0,"Luleå, Luleå kommun",93.0,4.0,
-Sandgatan 8,875000.0,"Svartöstaden, Luleå kommun",62.0,2.0,
-Västra Varvsgatan 20A,1050000.0,"Centrum-Varvet, Luleå kommun",52.0,2.0,
-Martin Ljungs gata 6,5995000.0,"Notviken, Luleå kommun",216.0,5.0,840.0
-Knektgränd 9,5495000.0,"Lulsundet, Luleå kommun",195.0,6.0,803.0
-Munkebergsgatan 88,850000.0,"Mjölkudden, Luleå kommun",33.5,1.0,
-Majvägen 19,1450000.0,"Bergviken, Luleå kommun",55.5,2.0,
-Stationsgatan 31 D,1650000.0,"Centrum, Luleå kommun",45.0,2.0,
-Revelsudden 3,,"Revelsudden, Luleå kommun",,,1008.0
-Residensgatan 4 D,975000.0,"Centrum/Varvet, Luleå kommun",45.0,1.0,
-Majvägen 15,1195000.0,"Bergviken, Luleå kommun",43.0,1.0,
-Sjötorpsvägen 8,,"Kallviken, Luleå kommun",,,5214.0
-Sandviksgatan 78B,1995000.0,"Centrum, Luleå kommun",69.5,3.0,
-Södra Prästholm 648,250000.0,"Södra Prästholm, Luleå kommun",200.0,6.0,1318.0
-Forsnäs 239,250000.0,"Niemisel, Luleå kommun",75.0,2.0,1382.0
-Knösenvägen 288,3395000.0,"Norra Sunderbyn, Luleå kommun",100.0,4.0,11000.0
-Björkgatan 39,1350000.0,"Bergviken, Luleå kommun",57.0,2.0,
-Snövägen 184,1495000.0,"Björkskatan, Luleå kommun",75.5,3.0,
-Måttsundsvägen 395,2150000.0,"Måttsund/Fisketorpet, Luleå kommun",100.0,2.0,3528.0
-Sjögatan 7A,1395000.0,"Bergviken, Luleå kommun",45.0,2.0,
-Brogatan 12 B,695000.0,"Skurholmen, Luleå kommun",29.0,1.0,
-Burströmsvägen 66,1195000.0,"Burströmska Gärdan, Luleå kommun",75.5,3.0,
-Jaktviksvägen 38,1195000.0,"Kallax, Luleå kommun",50.0,2.0,2099.0
-Västisundet 71,1795000.0,"Hindersön, Luleå kommun",83.0,3.0,1512.0
-Munkebergsgatan 84,1795000.0,"Mjölkudden/Munkeberg, Luleå kommun",95.0,4.0,
-Degerselsvägen 436,295000.0,"Niemisel, Bodens kommun",70.0,4.0,1524.0
-Krokvattnetvägen 160,995000.0,"Luleå, Piteå kommun",104.0,3.0,1082.0
-Långviks Glasbruksväg 85,1950000.0,"Långvik, Piteå kommun",71.0,3.0,5576.0
-Sävastnäs 233,495000.0,"Sävast, Bodens kommun",70.0,2.0,975.0
-Mårdstigen 8,1195000.0,"Långvik, Piteå kommun",59.0,2.0,1574.0
-Sävastnäs 7,3395000.0,"Sävastnäs, Bodens kommun",144.0,3.0,26000.0
-Forsträskhed 99,325000.0,"Niemisel, Bodens kommun",116.0,2.0,1723.0
-Långträskvägen 246,590000.0,"Sjulsmark, Piteå kommun",295.0,5.0,1736.0
-Vibbyn 1,2495000.0,"Skatamark, Bodens kommun",311.0,6.0,100000.0
-Flarken 5,3395000.0,"Boden, Bodens kommun",269.0,12.0,1942.0
-Luleå Mjöträsk 1:76,,"Niemisel, Luleå kommun",,,1395000.0
-Dalvägen 509,2695000.0,"Avan, Luleå kommun",135.0,4.0,27000.0
-LULEÅ BÖRJELSLANDET 1:3,,"Luleå, Luleå kommun",,,2763000.0
-Långsund 317,,"Råneå, Luleå kommun",,,527000.0
-Solskensberg,,"Luleå, Luleå kommun",,,950000.0
-Ostibyvägen 9,,"Ersnäs, Luleå kommun",,,29000.0
-Bränna 106,,"Vitå, Luleå kommun",,,110000.0
+Title,Price,Location,Size,Rooms,Yard,URL
+Sörövägen 120,,"Brändön, Luleå kommun",,,2841.0,https://www.hemnet.se/bostad/fritidsboende-54m2-brandon-lulea-kommun-sorovagen-120-21350929
+Stormyrvägen 3,3895000.0,"Lulsundet, Luleå kommun",195.0,4.0,1232.0,https://www.hemnet.se/bostad/villa-4rum-lulsundet-lulea-kommun-stormyrvagen-3-21384244
+Fredsgatan 1C,4995000.0,"Gültzauudden, Luleå kommun",162.0,5.0,79.0,https://www.hemnet.se/bostad/villa-5rum-gultzauudden-lulea-kommun-fredsgatan-1c-21384184
+Lingonstigen 47,1395000.0,"Kallkällan, Luleå kommun",67.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-kallkallan-lulea-kommun-lingonstigen-47-21383933
+Sandviksgatan 27,1495000.0,"Centrum, Luleå kommun",55.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-sandviksgatan-27-21383853
+Klintvägen 133B,1495000.0,"Klintbacken, Luleå kommun",63.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-klintbacken-lulea-kommun-klintvagen-133b-21383894
+Östra Pilgatan 13,6500000.0,"Östermalm, Luleå kommun",329.0,8.0,806.0,https://www.hemnet.se/bostad/villa-8rum-ostermalm-lulea-kommun-ostra-pilgatan-13-18985217
+Prinsvägen 1B,1095000.0,"Centrum Varvet, Luleå kommun",26.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-varvet-lulea-kommun-prinsvagen-1b-21369471
+Karlsviksvägen 4A,2895000.0,"Karlsvik, Luleå kommun",134.7,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-karlsvik-lulea-kommun-karlsviksvagen-4a-21362509
+Tallskogsgatan 21,5295000.0,"Hällbacken, Luleå kommun",160.4,6.0,1101.0,https://www.hemnet.se/bostad/villa-6rum-hallbacken-lulea-kommun-tallskogsgatan-21-21383638
+Bredträsk byaväg 97,,"Klöverträsk, Luleå kommun",,,61000.0,https://www.hemnet.se/bostad/villa-3rum-klovertrask-lulea-kommun-bredtrask-byavag-97-21383424
+Västra Varvsgatan 17B,1095000.0,"Centrum/Varvet, Luleå kommun",27.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-varvet-lulea-kommun-vastra-varvsgatan-17b-21383148
+Köpmangatan 28,1545000.0,"Centrum, Luleå kommun",48.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-kopmangatan-28-21350672
+Gesällvägen 1,895000.0,"Råneå, Luleå kommun",108.0,4.0,1034.0,https://www.hemnet.se/bostad/villa-4rum-ranea-lulea-kommun-gesallvagen-1-21383120
+Olovsvägen 15,1695000.0,"Råneå, Luleå kommun",150.0,6.0,724.0,https://www.hemnet.se/bostad/villa-6rum-ranea-lulea-kommun-olovsvagen-15-21383119
+Selet 58,800000.0,"Selet, Luleå kommun",50.0,2.0,1537.0,https://www.hemnet.se/bostad/fritidsboende-2rum-selet-lulea-kommun-selet-58-21380142
+Västra Varvsgatan 16A,1750000.0,"Centrum Varvet, Luleå kommun",66.0,,,"https://www.hemnet.se/bostad/lagenhet-2,5rum-centrum-varvet-lulea-kommun-vastra-varvsgatan-16a-21382950"
+Öströmsvägen 8,2895000.0,"Kallax, Luleå kommun",86.0,3.0,2931.0,https://www.hemnet.se/bostad/villa-3rum-kallax-lulea-kommun-ostromsvagen-8-21375272
+Rödinggränd 5,1495000.0,"Hertsön, Luleå kommun",124.0,6.0,293.0,https://www.hemnet.se/bostad/radhus-6rum-hertson-lulea-kommun-rodinggrand-5-21380908
+Småbåtsgatan 10C,4000000.0,"Centrum, Luleå kommun",94.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-lulea-kommun-smabatsgatan-10c-21380809
+Sandviksgatan 36B,1295000.0,"Centrum, Luleå kommun",40.5,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-lulea-kommun-sandviksgatan-36b-21382088
+Västra Varvsgatan 16B,1095000.0,"Centrum - Varvet, Luleå kommun",25.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-varvet-lulea-kommun-vastra-varvsgatan-16b-21382191
+Fiskehamnsvägen 60,2495000.0,"Kallax, Luleå kommun",169.0,5.0,2596.0,https://www.hemnet.se/bostad/villa-5rum-kallax-lulea-kommun-fiskehamnsvagen-60-21382265
+Vithällegatan 11,2995000.0,"Bredviken, Luleå kommun",111.0,4.0,984.0,https://www.hemnet.se/bostad/villa-4rum-bredviken-lulea-kommun-vithallegatan-11-21382981
+Åsgatan 10,8995000.0,"Östermalm, Luleå kommun",266.0,5.0,822.0,https://www.hemnet.se/bostad/villa-5rum-ostermalm-lulea-kommun-asgatan-10-21371453
+Bodviksvägen 104,995000.0,"Bodviken/Hagaviken, Luleå kommun",20.0,1.0,1754.0,https://www.hemnet.se/bostad/fritidsboende-1rum-bodviken-hagaviken-lulea-kommun-bodviksvagen-104-21382091
+Såguddsvägen 29 B,4199000.0,"Bensbyn, Luleå kommun",195.0,3.0,1227.0,https://www.hemnet.se/bostad/villa-3rum-bensbyn-lulea-kommun-saguddsvagen-29-b-21374307
+Toppgatan 6D,1845000.0,"Västra Skurholmen, Luleå kommun",93.0,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-vastra-skurholmen-lulea-kommun-toppgatan-6d-21381484
+Hertsöträskvägen 70,2995000.0,"Hertsön, Luleå kommun",60.0,4.0,1315.0,https://www.hemnet.se/bostad/villa-4rum-hertson-lulea-kommun-hertsotraskvagen-70-20527958
+Hällbruksgatan 26,1195000.0,"Örnäset, Luleå kommun",56.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-ornaset-lulea-kommun-hallbruksgatan-26-21340194
+Granövägen 186,4895000.0,"Bensbyn, Luleå kommun",149.2,5.0,1826.0,https://www.hemnet.se/bostad/villa-5rum-bensbyn-lulea-kommun-granovagen-186-21346430
+Mjölkuddsvägen 9,1195000.0,"Mjölkudden, Luleå kommun",43.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-mjolkudden-lulea-kommun-mjolkuddsvagen-9-21380709
+Benzeliusvägen 21,1695000.0,"Luleå, Luleå kommun",140.0,4.0,1490.0,https://www.hemnet.se/bostad/villa-4rum-lulea-kommun-benzeliusvagen-21-21380743
+Ljunggatan 2,1645000.0,"Bergviken, Luleå kommun",60.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-bergviken-lulea-kommun-ljunggatan-2-21380805
+Dragongatan 4C,1795000.0,"Kronan, Luleå kommun",69.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-kronan-lulea-kommun-dragongatan-4c-21380900
+Tallskogsgatan 82,2695000.0,"Hällbacken, Luleå kommun",115.0,5.0,,https://www.hemnet.se/bostad/lagenhet-5rum-hallbacken-lulea-kommun-tallskogsgatan-82-21380731
+Tallundsvägen 37,4950000.0,"Kallax, Luleå kommun",279.0,7.0,2509.0,https://www.hemnet.se/bostad/villa-7rum-kallax-lulea-kommun-tallundsvagen-37-21289953
+Västra Varvsgatan 22A,1695000.0,"Centrum - Varvet, Luleå kommun",69.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-varvet-lulea-kommun-vastra-varvsgatan-22a-21380401
+Orrgränd 21,1695000.0,"Hertsön, Luleå kommun",137.0,4.0,292.0,https://www.hemnet.se/bostad/villa-4rum-hertson-lulea-kommun-orrgrand-21-21380529
+Vallvägen 8,3495000.0,"Gammelstad, Luleå kommun",179.0,6.0,903.0,https://www.hemnet.se/bostad/villa-6rum-gammelstad-lulea-kommun-vallvagen-8-21352669
+Selet 72,995000.0,"Selet, Luleå kommun",140.0,4.0,5486.0,https://www.hemnet.se/bostad/villa-4rum-selet-lulea-kommun-selet-72-21380045
+Skogsmyrgatan 22,3995000.0,"Hällbacken, Luleå kommun",142.0,4.0,1478.0,https://www.hemnet.se/bostad/villa-4rum-hallbacken-lulea-kommun-skogsmyrgatan-22-21380244
+Ängdalsrovägen 294,995000.0,"Ängdalsro, Luleå kommun",70.0,3.0,1575.0,https://www.hemnet.se/bostad/fritidsboende-3rum-angdalsro-lulea-kommun-angdalsrovagen-294-21380528
+Sandöskatan 403,1300000.0,"Sandöskatan, Luleå kommun",58.0,3.0,1725.0,https://www.hemnet.se/bostad/fritidsboende-3rum-sandoskatan-lulea-kommun-sandoskatan-403-21380149
+Forskarvägen 79 C,995000.0,"Porsön, Luleå kommun",41.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-porson-lulea-kommun-forskarvagen-79-c-21380533
+Stationsgatan 14A,2495000.0,"Centrum, Luleå kommun",84.0,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-centrum-lulea-kommun-stationsgatan-14a-21380515
+Västra Varvsgatan 20A,1165000.0,"Centrum-Varvet, Luleå kommun",52.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-varvet-lulea-kommun-vastra-varvsgatan-20a-21380488
+Västra Varvsgatan 20A,1195000.0,"Luleå, Luleå kommun",52.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-lulea-lulea-kommun-vastra-varvsgatan-20a-21332173
+Sandviksgatan 77A,1795000.0,"Centrum, Luleå kommun",62.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-sandviksgatan-77a-21380314
+Hindersön 4,1350000.0,"Hindersön, Luleå kommun",105.0,4.0,2500.0,https://www.hemnet.se/bostad/fritidsboende-4rum-hinderson-lulea-kommun-hinderson-4-21380175
+Söruddsvägen 14,2295000.0,"Lövskär, Luleå kommun",107.0,3.0,1870.0,https://www.hemnet.se/bostad/villa-3rum-lovskar-lulea-kommun-soruddsvagen-14-21380323
+Brattknabben 136,1995000.0,"Lillpite, Piteå kommun",100.0,4.0,52000.0,https://www.hemnet.se/bostad/villa-4rum-lillpite-pitea-kommun-brattknabben-136-21376346
+Porsvägen 12,2995000.0,"Degeränget, Piteå kommun",182.0,4.0,1244.0,https://www.hemnet.se/bostad/villa-4rum-degeranget-pitea-kommun-porsvagen-12-21383996
+Varvsvägen 1,1450000.0,"Rosvik, Piteå kommun",163.0,3.0,702.0,https://www.hemnet.se/bostad/villa-3rum-rosvik-pitea-kommun-varvsvagen-1-20461295
+Furunäsvägen 67a,875000.0,"Piteå, Piteå kommun",80.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-pitea-pitea-kommun-furunasvagen-67a-21383534
+Roknäsvägen 14,1795000.0,"Roknäs, Piteå kommun",258.0,5.0,764.0,https://www.hemnet.se/bostad/villa-5rum-roknas-pitea-kommun-roknasvagen-14-21383983
+Borgfors 103,1950000.0,"Sikfors, Piteå kommun",98.0,4.0,9847.0,https://www.hemnet.se/bostad/villa-4rum-sikfors-pitea-kommun-borgfors-103-21383574
+Färjtorpsvägen 18,1400000.0,"Öjebyn, Piteå kommun",170.0,5.0,1148.0,https://www.hemnet.se/bostad/villa-5rum-ojebyn-pitea-kommun-farjtorpsvagen-18-21383592
+Storgatan 32C,1095000.0,"Centralt, Piteå kommun",58.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centralt-pitea-kommun-storgatan-32c-21381992
+Arvidsjaurvägen 1762,690000.0,"Roknäs, Piteå kommun",30.0,1.0,5095.0,https://www.hemnet.se/bostad/fritidsboende-1rum-roknas-pitea-kommun-arvidsjaurvagen-1762-21369198
+Prästgårdsgatan 58B,1190000.0,"Centrala Stan, Piteå kommun",56.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrala-stan-pitea-kommun-prastgardsgatan-58b-19017841
+Lillpitevägen 685,1495000.0,"Lillpite, Piteå kommun",288.0,5.0,6749.0,https://www.hemnet.se/bostad/villa-5rum-lillpite-pitea-kommun-lillpitevagen-685-19478815
+Arvidsjaurvägen 1335,1950000.0,"Roknäs, Piteå kommun",105.0,3.0,2223.0,https://www.hemnet.se/bostad/villa-3rum-roknas-pitea-kommun-arvidsjaurvagen-1335-21380955
+Pitevägen 43,1490000.0,"Rosvik, Piteå kommun",118.0,3.0,1000.0,https://www.hemnet.se/bostad/villa-3rum-rosvik-pitea-kommun-pitevagen-43-21381277
+Ängsvägen 11,1590000.0,"Rosvik, Piteå kommun",129.0,4.0,1054.0,https://www.hemnet.se/bostad/villa-4rum-rosvik-pitea-kommun-angsvagen-11-21380717
+Hyndgrundsvägen 138,1495000.0,"Norrfjärden, Piteå kommun",56.0,3.0,902.0,https://www.hemnet.se/bostad/villa-3rum-norrfjarden-pitea-kommun-hyndgrundsvagen-138-21380745
+Roknäsvägen 31,795000.0,"Roknäs, Piteå kommun",380.0,7.0,5195.0,https://www.hemnet.se/bostad/villa-7rum-roknas-pitea-kommun-roknasvagen-31-21380862
+Laxstigen 1,2100000.0,"Klubbgärdet, Piteå kommun",133.0,5.0,775.0,https://www.hemnet.se/bostad/villa-5rum-klubbgardet-pitea-kommun-laxstigen-1-21381172
+Persöbyvägen 54,1400000.0,"Roknäs, Piteå kommun",92.0,3.0,1971.0,https://www.hemnet.se/bostad/villa-3rum-roknas-pitea-kommun-persobyvagen-54-21380155
+Solbackagatan 28,1300000.0,"Annelund, Piteå kommun",161.0,6.0,343.0,https://www.hemnet.se/bostad/radhus-6rum-annelund-pitea-kommun-solbackagatan-28-21380220
+Spovgatan 15,1495000.0,"Klubbgärdet, Piteå kommun",196.0,3.0,920.0,https://www.hemnet.se/bostad/villa-3rum-klubbgardet-pitea-kommun-spovgatan-15-21380200
+Hällskärsvägen 38,795000.0,"Rosvik, Piteå kommun",92.0,3.0,3140.0,https://www.hemnet.se/bostad/villa-3rum-rosvik-pitea-kommun-hallskarsvagen-38-21380073
+Hamngatan 57,1650000.0,"Centralt, Piteå kommun",71.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centralt-pitea-kommun-hamngatan-57-21378835
+Smedjegatan 3,,"Backen, Piteå kommun",,,944.0,https://www.hemnet.se/bostad/villa-115m2-backen-pitea-kommun-smedjegatan-3-21379086
+Norra Storåkersvägen 20,1800000.0,"Sjulnäs, Piteå kommun",216.0,4.0,926.0,https://www.hemnet.se/bostad/villa-4rum-sjulnas-pitea-kommun-norra-storakersvagen-20-21379125
+Kilgatan 4,2950000.0,"Djupviken, Piteå kommun",203.0,7.0,816.0,https://www.hemnet.se/bostad/villa-7rum-djupviken-pitea-kommun-kilgatan-4-21376522
+Högsböleskiftet 196,1800000.0,"Högsböleskiftet, Piteå kommun",72.0,2.0,1800.0,https://www.hemnet.se/bostad/villa-2rum-hogsboleskiftet-pitea-kommun-hogsboleskiftet-196-21377594
+Arvidsjaurvägen 412,1890000.0,"Vitsand, Piteå kommun",62.0,2.0,1436.0,https://www.hemnet.se/bostad/fritidsboende-2rum-vitsand-pitea-kommun-arvidsjaurvagen-412-21377931
+Södra Björklundavägen 13,1195000.0,"Öjebyn, Piteå kommun",108.0,3.0,1174.0,https://www.hemnet.se/bostad/villa-3rum-ojebyn-pitea-kommun-sodra-bjorklundavagen-13-21376494
+Kolmilavägen 14C,1150000.0,"Centralt, Piteå kommun",70.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centralt-pitea-kommun-kolmilavagen-14c-21298363
+Råinoskarsvägen 5,490000.0,"Trundön, Piteå kommun",68.0,3.0,1771.0,https://www.hemnet.se/bostad/villa-3rum-trundon-pitea-kommun-rainoskarsvagen-5-21375780
+Brattknabben 136,1995000.0,"Lillpite, Piteå kommun",100.0,4.0,52000.0,https://www.hemnet.se/bostad/villa-4rum-lillpite-pitea-kommun-brattknabben-136-21376346
+Myrhedsvägen 28,195000.0,"Långträsk, Piteå kommun",160.0,3.0,1545.0,https://www.hemnet.se/bostad/villa-3rum-langtrask-pitea-kommun-myrhedsvagen-28-21376357
+Vilhelmsvägen 14,1600000.0,"Böle, Piteå kommun",193.0,5.0,1110.0,https://www.hemnet.se/bostad/villa-5rum-bole-pitea-kommun-vilhelmsvagen-14-21376160
+Arvidsjaurvägen 1461,,"Roknäs, Piteå kommun",,,17000.0,https://www.hemnet.se/bostad/villa-3rum-roknas-pitea-kommun-arvidsjaurvagen-1461-21375842
+Södra Stationsgatan 8,2850000.0,"Öjebyn, Piteå kommun",246.0,7.0,758.0,https://www.hemnet.se/bostad/villa-7rum-ojebyn-pitea-kommun-sodra-stationsgatan-8-21374259
+Sikforsvägen 66,1400000.0,"Sikfors, Piteå kommun",75.0,4.0,1414.0,https://www.hemnet.se/bostad/villa-4rum-sikfors-pitea-kommun-sikforsvagen-66-21374352
+Holmträskvägen 74,325000.0,"Altersbruk, Piteå kommun",63.0,2.0,1544.0,https://www.hemnet.se/bostad/fritidsboende-2rum-altersbruk-pitea-kommun-holmtraskvagen-74-21375287
+Rönnberget 45,,"Arnemark, Piteå kommun",,,1905.0,https://www.hemnet.se/bostad/fritidsboende-85m2-arnemark-pitea-kommun-ronnberget-45-21375301
+Hambogatan 2,2190000.0,"Öjebyn, Piteå kommun",193.0,5.0,1029.0,https://www.hemnet.se/bostad/villa-5rum-ojebyn-pitea-kommun-hambogatan-2-21375031
+Lillpitevägen 509,1200000.0,"Lillpite, Piteå kommun",103.0,3.0,1993.0,https://www.hemnet.se/bostad/villa-3rum-lillpite-pitea-kommun-lillpitevagen-509-21374980
+Pitsund 52,1950000.0,"Pitsund, Piteå kommun",160.0,4.0,3458.0,https://www.hemnet.se/bostad/villa-4rum-pitsund-pitea-kommun-pitsund-52-21374346
+Infjärdenvägen 491 och 493,2995000.0,"Långnäs, Piteå kommun",175.0,5.0,12000.0,https://www.hemnet.se/bostad/villa-5rum-langnas-pitea-kommun-infjardenvagen-491-och-493-20896635
+Borevägen 2,2200000.0,"Mossen, Piteå kommun",155.0,4.0,947.0,https://www.hemnet.se/bostad/villa-4rum-mossen-pitea-kommun-borevagen-2-21374068
+Borgaruddsvägen 337,2750000.0,"Norrfjärden, Piteå kommun",60.0,3.0,2200.0,https://www.hemnet.se/bostad/fritidsboende-3rum-norrfjarden-pitea-kommun-borgaruddsvagen-337-21373508
+Parkgatan 6A,1295000.0,"Centralt, Piteå kommun",69.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centralt-pitea-kommun-parkgatan-6a-21373463
+Kastanjevägen 10,,"Hortlax, Piteå kommun",,,850.0,https://www.hemnet.se/bostad/villa-99m2-hortlax-pitea-kommun-kastanjevagen-10-21373465
+Högsböleskiftet 176,1400000.0,"Högsböleskiftet, Piteå kommun",60.0,3.0,1800.0,https://www.hemnet.se/bostad/fritidsboende-3rum-hogsboleskiftet-pitea-kommun-hogsboleskiftet-176-21373458
+Fältvägen 18,1395000.0,"Rosvik, Piteå kommun",175.0,5.0,1119.0,https://www.hemnet.se/bostad/villa-5rum-rosvik-pitea-kommun-faltvagen-18-21373062
+Ytterstholmen 84,2950000.0,"Djupviken, Piteå kommun",135.0,4.0,938.0,https://www.hemnet.se/bostad/fritidsboende-4rum-djupviken-pitea-kommun-ytterstholmen-84-21372029
+Guldsmeden 2,,"Sandön, Piteå kommun",,,2064.0,https://www.hemnet.se/bostad/fritidsboende-2rum-sandon-pitea-kommun-guldsmeden-2-21371240
+Brännbergsgatan 16,1600000.0,"Skuthamn, Piteå kommun",163.0,4.0,1255.0,https://www.hemnet.se/bostad/villa-4rum-skuthamn-pitea-kommun-brannbergsgatan-16-21371805
+Nedre Tväråselet 310,950000.0,"Nedre Tväråselet, Älvsbyns kommun",70.0,3.0,2130.0,https://www.hemnet.se/bostad/fritidsboende-3rum-nedre-tvaraselet-alvsbyns-kommun-nedre-tvaraselet-310-21383602
+Flurheden 5,3300000.0,"Vistträsk By, Älvsbyns kommun",165.0,6.0,11000.0,https://www.hemnet.se/bostad/villa-6rum-visttrask-by-alvsbyns-kommun-flurheden-5-20866815
+Spontongatan 26,450000.0,"Altuna, Älvsbyns kommun",141.0,4.0,1100.0,https://www.hemnet.se/bostad/villa-4rum-altuna-alvsbyns-kommun-spontongatan-26-21373896
+Triangelgatan 15,650000.0,"Vistträsk, Älvsbyns kommun",176.0,6.0,1484.0,https://www.hemnet.se/bostad/villa-6rum-visttrask-alvsbyns-kommun-triangelgatan-15-21373895
+Nygårdsvägen 22,595000.0,"Nygård, Älvsbyns kommun",166.0,4.0,1000.0,https://www.hemnet.se/bostad/villa-4rum-nygard-alvsbyns-kommun-nygardsvagen-22-21373894
+Fågelgatan 1,995000.0,"Östermalm, Älvsbyns kommun",181.0,5.0,1025.0,https://www.hemnet.se/bostad/villa-5rum-ostermalm-alvsbyns-kommun-fagelgatan-1-21373372
+Altunastranden 21,750000.0,"Altuna, Älvsbyns kommun",140.0,4.0,1276.0,https://www.hemnet.se/bostad/villa-4rum-altuna-alvsbyns-kommun-altunastranden-21-21373370
+Muskus 1:17,1000000.0,"Muskus, Älvsbyns kommun",95.0,2.0,6395.0,https://www.hemnet.se/bostad/fritidsboende-2rum-muskus-alvsbyns-kommun-muskus-1-17-21373371
+Garvargatan 32,550000.0,"Östermalm, Älvsbyns kommun",186.0,5.0,937.0,https://www.hemnet.se/bostad/villa-5rum-ostermalm-alvsbyns-kommun-garvargatan-32-21372748
+Soldatgatan 5,800000.0,"Altuna, Älvsbyns kommun",168.0,4.0,873.0,https://www.hemnet.se/bostad/villa-4rum-altuna-alvsbyns-kommun-soldatgatan-5-21361670
+Turistgatan 50,495000.0,"Östermalm, Älvsbyns kommun",148.0,4.0,444.0,https://www.hemnet.se/bostad/radhus-4rum-ostermalm-alvsbyns-kommun-turistgatan-50-21359305
+Prästbogatan 8,975000.0,"Prästgärdan, Älvsbyns kommun",148.0,3.0,890.0,https://www.hemnet.se/bostad/villa-3rum-prastgardan-alvsbyns-kommun-prastbogatan-8-21359189
+Segerkarlsgatan 4,775000.0,"Altuna, Älvsbyns kommun",127.0,3.0,1072.0,https://www.hemnet.se/bostad/villa-3rum-altuna-alvsbyns-kommun-segerkarlsgatan-4-21357467
+Soldatgatan 13,995000.0,"Altuna, Älvsbyns kommun",167.0,3.0,791.0,https://www.hemnet.se/bostad/villa-3rum-altuna-alvsbyns-kommun-soldatgatan-13-21356302
+Villagatan 8,450000.0,"Vidsel, Älvsbyns kommun",139.0,5.0,780.0,https://www.hemnet.se/bostad/villa-5rum-vidsel-alvsbyns-kommun-villagatan-8-21354862
+Hedgatan 9,895000.0,"Altuna, Älvsbyns kommun",176.0,5.0,1240.0,https://www.hemnet.se/bostad/villa-5rum-altuna-alvsbyns-kommun-hedgatan-9-21353196
+Malmgatan 4,999999.0,"Kyrkmalmen, Älvsbyns kommun",240.0,5.0,789.0,https://www.hemnet.se/bostad/villa-5rum-kyrkmalmen-alvsbyns-kommun-malmgatan-4-21346754
+Vistträsk by 4,450000.0,"Vistträsk, Älvsbyns kommun",112.0,3.0,2211.0,https://www.hemnet.se/bostad/fritidsboende-3rum-visttrask-alvsbyns-kommun-visttrask-by-4-21345808
+Förargatan 35,675000.0,"Västermalm, Älvsbyns kommun",169.0,5.0,450.0,https://www.hemnet.se/bostad/radhus-5rum-vastermalm-alvsbyns-kommun-forargatan-35-21345369
+Kärlekskojan,225000.0,"Älvsbyn, Älvsbyns kommun",25.0,1.0,3770.0,https://www.hemnet.se/bostad/villa-1rum-alvsbyns-kommun-karlekskojan-21339648
+Hällan 26,2250000.0,"Hällan, Älvsbyns kommun",161.0,4.0,7000.0,https://www.hemnet.se/bostad/villa-4rum-hallan-alvsbyns-kommun-hallan-26-21333241
+Korsträsk 303,2350000.0,"Korsträsk, Älvsbyns kommun",120.0,5.0,3052.0,https://www.hemnet.se/bostad/villa-5rum-korstrask-alvsbyns-kommun-korstrask-303-20169397
+Västra Vidselsvägen 3,110000.0,"Vidsel, Älvsbyns kommun",172.0,4.0,1429.0,https://www.hemnet.se/bostad/villa-4rum-alvsbyns-kommun-vastra-vidselsvagen-3-21274736
+Hotell Renkronan - Västra Vidselsvägen 5,1800000.0,"Vidsel, Älvsbyns kommun",2400.0,30.0,2832.0,https://www.hemnet.se/bostad/villa-30rum-alvsbyns-kommun-hotell-renkronan-vastra-vidselsvagen-5-21274737
+Korsträsk 4.34,,"Korsträsk, Älvsbyns kommun",,,315000.0,"https://www.hemnet.se/bostad/gard-korstrask-alvsbyns-kommun-korstrask-4,34-21377075"
+Nybyn 76,1900000.0,"Nybyn, Älvsbyns kommun",85.0,4.0,257000.0,https://www.hemnet.se/bostad/gard-4rum-nybyn-alvsbyns-kommun-nybyn-76-21359514
+Manjärv 501,1195000.0,"Manjärv, Älvsbyns kommun",25.0,1.0,141000.0,https://www.hemnet.se/bostad/gard-1rum-manjarv-alvsbyns-kommun-manjarv-501-21358678
+Tväråselet 20,1500000.0,"Övre Tväråsel, Älvsbyns kommun",183.0,5.0,424000.0,https://www.hemnet.se/bostad/gard-5rum-ovre-tvarasel-alvsbyns-kommun-tvaraselet-20-21345735
+Bodforsvägen 4A,2295000.0,"Bodforsen, Bodens kommun",166.0,4.0,1213.0,https://www.hemnet.se/bostad/villa-4rum-bodforsen-bodens-kommun-bodforsvagen-4a-21382301
+Spadvägen 15,1595000.0,"Svartbjörsbyn, Bodens kommun",168.0,5.0,817.0,https://www.hemnet.se/bostad/villa-5rum-svartbjorsbyn-bodens-kommun-spadvagen-15-21384227
+Bodforsvägen 4A,2295000.0,"Bodforsen, Bodens kommun",166.0,4.0,1213.0,https://www.hemnet.se/bostad/villa-4rum-bodforsen-bodens-kommun-bodforsvagen-4a-21382301
+Västbolandet 212,1295000.0,"Harads, Bodens kommun",76.0,4.0,1451.0,https://www.hemnet.se/bostad/villa-4rum-harads-bodens-kommun-vastbolandet-212-21381857
+Norriån 32,595000.0,"Gunnarsbyn, Bodens kommun",75.0,3.0,2164.0,https://www.hemnet.se/bostad/villa-3rum-bodens-kommun-norrian-32-21368853
+Hallonvägen 3,895000.0,"Gunnarsbyn, Bodens kommun",193.0,6.0,1146.0,https://www.hemnet.se/bostad/villa-6rum-bodens-kommun-hallonvagen-3-21381074
+Dammgränd 55,1045000.0,"Bodforsen, Bodens kommun",97.5,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-bodforsen-bodens-kommun-dammgrand-55-21380892
+Degernäs 14,1295000.0,"Degernäs, Bodens kommun",77.0,4.0,1843.0,https://www.hemnet.se/bostad/villa-4rum-degernas-bodens-kommun-degernas-14-21379913
+Anisvägen 19,2395000.0,"Sävast, Bodens kommun",176.0,5.0,973.0,https://www.hemnet.se/bostad/villa-5rum-savast-bodens-kommun-anisvagen-19-21379633
+Degerselsvägen 436,295000.0,"Niemisel, Bodens kommun",70.0,4.0,1524.0,https://www.hemnet.se/bostad/villa-4rum-niemisel-bodens-kommun-degerselsvagen-436-21377619
+Safirvägen 6,1995000.0,"Heden, Bodens kommun",168.0,5.0,1270.0,https://www.hemnet.se/bostad/villa-5rum-heden-bodens-kommun-safirvagen-6-21376944
+Strutsgatan 8,2200000.0,"Sanden, Bodens kommun",170.0,5.0,814.0,https://www.hemnet.se/bostad/villa-5rum-sanden-bodens-kommun-strutsgatan-8-21375680
+Södra Sävastön 9,1995000.0,"Sävastön, Bodens kommun",68.0,3.0,1388.0,https://www.hemnet.se/bostad/fritidsboende-3rum-savaston-bodens-kommun-sodra-savaston-9-21376306
+Spettvägen 3,1295000.0,"Svartbjörsbyn, Bodens kommun",185.0,5.0,841.0,https://www.hemnet.se/bostad/villa-5rum-svartbjorsbyn-bodens-kommun-spettvagen-3-21375923
+Strandplan 11,575000.0,"Centrum, Bodens kommun",45.5,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-bodens-kommun-strandplan-11-21375880
+Musikantvägen 30,2795000.0,"Södra Svartbyn, Bodens kommun",254.0,6.0,1661.0,https://www.hemnet.se/bostad/villa-6rum-sodra-svartbyn-bodens-kommun-musikantvagen-30-21374380
+Skolvägen 7,1295000.0,"Fagernäs, Bodens kommun",136.0,3.0,1016.0,https://www.hemnet.se/bostad/villa-3rum-fagernas-bodens-kommun-skolvagen-7-21375470
+Helikoptergränd 51,695000.0,"Boden, Bodens kommun",109.5,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-bodens-kommun-helikoptergrand-51-21375455
+Kristallgränd 4,1775000.0,"Heden, Bodens kommun",173.0,4.0,1024.0,https://www.hemnet.se/bostad/villa-4rum-heden-bodens-kommun-kristallgrand-4-21373440
+Flöjtvägen 13,2895000.0,"Hamptjärnmoran, Bodens kommun",210.0,5.0,1117.0,https://www.hemnet.se/bostad/villa-5rum-hamptjarnmoran-bodens-kommun-flojtvagen-13-21372125
+Halmvägen 9,2195000.0,"Södra Svartbyn, Bodens kommun",120.0,5.0,909.0,https://www.hemnet.se/bostad/villa-5rum-sodra-svartbyn-bodens-kommun-halmvagen-9-21370211
+Övre Buddbyn 2B,2995000.0,"Övre Buddbyn, Bodens kommun",140.0,4.0,30000.0,https://www.hemnet.se/bostad/villa-4rum-ovre-buddbyn-bodens-kommun-ovre-buddbyn-2b-19322596
+Råbäcken 15,995000.0,"Råbäcken, Bodens kommun",35.0,2.0,1344.0,https://www.hemnet.se/bostad/fritidsboende-2rum-rabacken-bodens-kommun-rabacken-15-21371834
+Lombäcken 103,450000.0,"Unbyn, Bodens kommun",65.0,2.0,2008.0,https://www.hemnet.se/bostad/fritidsboende-2rum-unbyn-bodens-kommun-lombacken-103-21371494
+Strandplan 9,695000.0,"Centrala Boden, Bodens kommun",46.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrala-boden-bodens-kommun-strandplan-9-21371383
+Övrebodarna 15,3495000.0,"Övrebodarna, Bodens kommun",120.0,3.0,3503.0,https://www.hemnet.se/bostad/villa-3rum-ovrebodarna-bodens-kommun-ovrebodarna-15-21370980
+Domänvägen 8,495000.0,"Harads, Bodens kommun",145.0,4.0,971.0,https://www.hemnet.se/bostad/villa-4rum-bodens-kommun-domanvagen-8-21368080
+Brännagatan 7 A,995000.0,"Centrala Boden, Bodens kommun",59.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrala-boden-bodens-kommun-brannagatan-7-a-21369180
+Järpgatan 12,1795000.0,"Sanden, Bodens kommun",209.0,4.0,933.0,https://www.hemnet.se/bostad/villa-4rum-sanden-bodens-kommun-jarpgatan-12-21367884
+Södra Harads 20,575000.0,"Södra Harads, Bodens kommun",168.0,3.0,1295.0,https://www.hemnet.se/bostad/villa-3rum-sodra-harads-bodens-kommun-sodra-harads-20-21366692
+Kallkällvägen 18E,1295000.0,"Vittjärv, Bodens kommun",80.0,2.0,1034.0,https://www.hemnet.se/bostad/fritidsboende-2rum-vittjarv-bodens-kommun-kallkallvagen-18e-21364743
+Svampvägen 32 & 34,1495000.0,"Sävast, Bodens kommun",65.0,3.0,1977.0,https://www.hemnet.se/bostad/villa-3rum-savast-bodens-kommun-svampvagen-32-34-21362780
+Svartbyleden 94,3495000.0,"Norra Svartbyn, Bodens kommun",221.0,8.0,956.0,https://www.hemnet.se/bostad/villa-8rum-norra-svartbyn-bodens-kommun-svartbyleden-94-21362765
+Valvträsk 101,565000.0,"Gunnarsbyn, Bodens kommun",57.0,3.0,2000.0,https://www.hemnet.se/bostad/fritidsboende-3rum-gunnarsbyn-bodens-kommun-valvtrask-101-21361652
+Bodforsvägen 25,2795000.0,"Bodforsen, Bodens kommun",129.0,4.0,1829.0,https://www.hemnet.se/bostad/villa-4rum-bodforsen-bodens-kommun-bodforsvagen-25-21362173
+Sävastnäs 233,495000.0,"Sävast, Bodens kommun",70.0,2.0,975.0,https://www.hemnet.se/bostad/villa-2rum-savast-bodens-kommun-savastnas-233-21362150
+Gullträsk 11,595000.0,"Boden, Bodens kommun",80.0,4.0,2457.0,https://www.hemnet.se/bostad/villa-4rum-bodens-kommun-gulltrask-11-21360753
+Dammgränd 74,1395000.0,"Bodforsen, Bodens kommun",109.5,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-bodforsen-bodens-kommun-dammgrand-74-21360098
+Norra Bredåker 406,595000.0,"Bredåker, Bodens kommun",91.0,4.0,1340.0,https://www.hemnet.se/bostad/villa-4rum-bredaker-bodens-kommun-norra-bredaker-406-21358988
+Dammgränd 19,1195000.0,"Bodforsen, Bodens kommun",130.0,5.0,,https://www.hemnet.se/bostad/lagenhet-5rum-bodforsen-bodens-kommun-dammgrand-19-21358340
+Sävastnäs 2,995000.0,"Sävastnäs, Bodens kommun",199.0,4.0,6070.0,https://www.hemnet.se/bostad/villa-4rum-savastnas-bodens-kommun-savastnas-2-21357122
+Kungsgatan 17,1495000.0,"Nedre stadsdelen/centrum, Bodens kommun",76.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-nedre-stadsdelen-centrum-bodens-kommun-kungsgatan-17-21357362
+Prinsgatan 22D,1095000.0,"Centralt - Nedre Stadsdelen, Bodens kommun",101.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centralt-nedre-stadsdelen-bodens-kommun-prinsgatan-22d-21356946
+Melonvägen 16,2995000.0,"Sävast, Bodens kommun",158.0,4.0,1426.0,https://www.hemnet.se/bostad/villa-4rum-savast-bodens-kommun-melonvagen-16-21356802
+Trånga gatan 11C,1195000.0,"Sävast, Bodens kommun",89.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-savast-bodens-kommun-tranga-gatan-11c-21356768
+Alträsk 410,945000.0,"Alträsk, Bodens kommun",60.0,2.0,1410.0,https://www.hemnet.se/bostad/fritidsboende-2rum-altrask-bodens-kommun-altrask-410-21355857
+Stationsgatan 1 B,675000.0,"Centrala Boden, Bodens kommun",48.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrala-boden-bodens-kommun-stationsgatan-1-b-21353938
+Bävervägen 12,1670000.0,"Torpgärdan, Bodens kommun",189.0,5.0,636.0,https://www.hemnet.se/bostad/villa-5rum-torpgardan-bodens-kommun-bavervagen-12-21282083
+Älgvägen 5,1795000.0,"Torpgärdan, Bodens kommun",108.0,2.0,1305.0,https://www.hemnet.se/bostad/villa-2rum-torpgardan-bodens-kommun-algvagen-5-21352408
+Infanterivägen 9,895000.0,"Bodsvedjan, Bodens kommun",148.0,3.0,1017.0,https://www.hemnet.se/bostad/villa-3rum-bodsvedjan-bodens-kommun-infanterivagen-9-21352192
+Torsgatan 9,1895000.0,"Sanden, Bodens kommun",215.0,6.0,1020.0,https://www.hemnet.se/bostad/villa-6rum-sanden-bodens-kommun-torsgatan-9-21352210
+Repslagargatan 9B,4750000.0,"Gültzauudden, Luleå kommun",119.0,3.0,311.0,https://www.hemnet.se/bostad/villa-3rum-gultzauudden-lulea-kommun-repslagargatan-9b-21380249
+Stationsgatan 20A,1395000.0,"Centrum, Luleå kommun",40.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-stationsgatan-20a-21059415
+Jaktviksvägen 159,,"Jaktviken/Kallax, Luleå kommun",,,1675.0,https://www.hemnet.se/bostad/villa-97m2-jaktviken-kallax-lulea-kommun-jaktviksvagen-159-21379718
+Sundomsvägen 451,750000.0,"Sörnäsudden/Sundom, Luleå kommun",95.0,3.0,2480.0,https://www.hemnet.se/bostad/villa-3rum-sornasudden-sundom-lulea-kommun-sundomsvagen-451-21379859
+Stormvägen 185,2645000.0,"Björkskatan, Luleå kommun",103.0,4.0,138.0,https://www.hemnet.se/bostad/radhus-4rum-bjorkskatan-lulea-kommun-stormvagen-185-21377034
+Trädgårdsgatan 38,2395000.0,"Centrum, Luleå kommun",80.6,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-lulea-kommun-tradgardsgatan-38-21378880
+Timmermansgatan 46,3295000.0,"Centrum, Luleå kommun",82.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-lulea-kommun-timmermansgatan-46-21377253
+Sandviksgatan 77 C,1795000.0,"Centrum, Luleå kommun",73.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-lulea-kommun-sandviksgatan-77-c-21379319
+Hällbruksgatan 2,1260000.0,"Örnäset, Luleå kommun",56.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-ornaset-lulea-kommun-hallbruksgatan-2-21366678
+Västra Varvsgatan 17 B,995000.0,"Centrum, Luleå kommun",27.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-lulea-kommun-vastra-varvsgatan-17-b-21379254
+Skansgatan 25,3995000.0,"Bergnäset, Luleå kommun",142.0,4.0,277.0,https://www.hemnet.se/bostad/villa-4rum-bergnaset-lulea-kommun-skansgatan-25-21379171
+Lingonstigen 11,850000.0,"Kallkällan, Luleå kommun",50.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-kallkallan-lulea-kommun-lingonstigen-11-21379217
+Sandnäset 4,,"Luleå, Luleå kommun",,,2995.0,https://www.hemnet.se/bostad/villa-62m2-lulea-lulea-kommun-sandnaset-4-21378910
+Lingonstigen 63,1595000.0,"Kallkällan, Luleå kommun",84.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-kallkallan-lulea-kommun-lingonstigen-63-21378808
+Burströmsvägen 118,1295000.0,"Skurholmen, Luleå kommun",65.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-skurholmen-lulea-kommun-burstromsvagen-118-21378800
+Stationsgatan 63 A,1595000.0,"Centrum, Luleå kommun",43.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-stationsgatan-63-a-21378788
+Aspviksvägen 25,3690000.0,"Kallax, Luleå kommun",170.0,4.0,1728.0,https://www.hemnet.se/bostad/villa-4rum-kallax-lulea-kommun-aspviksvagen-25-21349320
+Genvägen 27A,1295000.0,"Lövskatan, Luleå kommun",53.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-lovskatan-lulea-kommun-genvagen-27a-21376483
+Mjölkuddsvägen 5,1595000.0,"Mjölkudden, Luleå kommun",57.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-mjolkudden-lulea-kommun-mjolkuddsvagen-5-21378329
+Kungsgatan 6C,2795000.0,"Centrum, Luleå kommun",108.0,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-centrum-lulea-kommun-kungsgatan-6c-21345667
+Jaktviksvägen 192,3995000.0,"Kallax, Luleå kommun",90.0,2.0,2268.0,https://www.hemnet.se/bostad/fritidsboende-2rum-kallax-lulea-kommun-jaktviksvagen-192-21376616
+Radiomasten 157,3395000.0,"Mjölkudden, Luleå kommun",164.0,5.0,,https://www.hemnet.se/bostad/lagenhet-5rum-mjolkudden-lulea-kommun-radiomasten-157-21377107
+Stenudden 3B,1485000.0,"Avan, Luleå kommun",58.0,2.0,2445.0,https://www.hemnet.se/bostad/villa-2rum-avan-lulea-kommun-stenudden-3b-21364622
+Sinksundsvägen 2 A,460000.0,"Sinksundet, Luleå kommun",30.0,1.0,368.0,https://www.hemnet.se/bostad/villa-1rum-sinksundet-lulea-kommun-sinksundsvagen-2-a-21377006
+Hålsundsvägen 315,795000.0,"Luleå, Luleå kommun",76.0,3.0,1706.0,https://www.hemnet.se/bostad/villa-3rum-lulea-lulea-kommun-halsundsvagen-315-21377506
+Södra Prästholm 740,1995000.0,"Råneå, Luleå kommun",100.0,4.0,11000.0,https://www.hemnet.se/bostad/villa-4rum-ranea-lulea-kommun-sodra-prastholm-740-17955717
+Stationsgatan 11,3195000.0,"Centrum, Luleå kommun",95.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-lulea-kommun-stationsgatan-11-21377997
+Krongårdsringen 6,995000.0,"Örnäset, Luleå kommun",54.400000000000006,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-ornaset-lulea-kommun-krongardsringen-6-21376558
+Lingonstigen 43,1695000.0,"Kallkällan, Luleå kommun",81.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-kallkallan-lulea-kommun-lingonstigen-43-21377461
+Mjölkuddsvägen 255,1595000.0,"Mjölkudden, Luleå kommun",90.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-mjolkudden-lulea-kommun-mjolkuddsvagen-255-21377247
+Teknikergatan 5,995000.0,"Skurholmen, Luleå kommun",60.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-skurholmen-lulea-kommun-teknikergatan-5-21376525
+Västra Varvsgatan 20B,1495000.0,"Varvet, Luleå kommun",52.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-varvet-lulea-kommun-vastra-varvsgatan-20b-21376640
+Munkebergsgatan  38,1495000.0,"Mjölkudden, Luleå kommun",78.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-mjolkudden-lulea-kommun-munkebergsgatan-38-21376684
+Muntervägen 15,2595000.0,"Alvik, Luleå kommun",175.0,4.0,1178.0,https://www.hemnet.se/bostad/villa-4rum-alvik-lulea-kommun-muntervagen-15-21376664
+Liljevalchsgatan 23,2995000.0,"Notviken, Luleå kommun",131.0,4.0,517.0,https://www.hemnet.se/bostad/villa-4rum-notviken-lulea-kommun-liljevalchsgatan-23-21376625
+Sörnäsudden 330,1395000.0,"Luleå, Luleå kommun",60.0,3.0,2018.0,https://www.hemnet.se/bostad/fritidsboende-3rum-lulea-lulea-kommun-sornasudden-330-21376134
+Stationsgatan 63B,1495000.0,"Centrum, Luleå kommun",49.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-stationsgatan-63b-21296079
+Borestigen 7,1695000.0,"Luleå, Luleå kommun",120.0,6.0,720.0,https://www.hemnet.se/bostad/villa-6rum-lulea-lulea-kommun-borestigen-7-21376493
+Västra Varvsgatan 20A,1295000.0,"Centrum - Varvet, Luleå kommun",52.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-varvet-lulea-kommun-vastra-varvsgatan-20a-21376441
+Sjöfartsgatan 14A,995000.0,"Svartöstaden, Luleå kommun",88.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-svartostaden-lulea-kommun-sjofartsgatan-14a-21376275
+Kompanivägen 33,1995000.0,"Lulsundsberget, Luleå kommun",75.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-lulsundsberget-lulea-kommun-kompanivagen-33-21362092
+Köpmangatan 52 E,2075000.0,"Centrum, Luleå kommun",53.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-kopmangatan-52-e-21376261
+Pyrolagatan 2,4995000.0,"Hällbacken, Luleå kommun",196.0,8.0,849.0,https://www.hemnet.se/bostad/villa-8rum-hallbacken-lulea-kommun-pyrolagatan-2-21375718
+Tärngränd 13,2195000.0,"Hertsön, Luleå kommun",133.0,5.0,375.0,https://www.hemnet.se/bostad/radhus-5rum-hertson-lulea-kommun-tarngrand-13-21375762
+Västra Varvsgatan 17B,1225000.0,"Varvet, Luleå kommun",59.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-varvet-lulea-kommun-vastra-varvsgatan-17b-21375783
+Västra Skolgatan 9B,1395000.0,"Bergnäset, Luleå kommun",57.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-bergnaset-lulea-kommun-vastra-skolgatan-9b-21375820
+Lulsundsgatan 50,2095000.0,"Östermalm, Luleå kommun",73.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-ostermalm-lulea-kommun-lulsundsgatan-50-21375992
+Sandviksgatan 42B,2195000.0,"Centrum, Luleå kommun",79.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-lulea-kommun-sandviksgatan-42b-21374538
+Småbåtsgatan 10c,1795000.0,"Centrum, Luleå kommun",67.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-smabatsgatan-10c-21375080
+Varvsgatan 55,1095000.0,"Centrum, Luleå kommun",27.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-lulea-kommun-varvsgatan-55-21373975
+Skiffervägen 30,1695000.0,"Rosvik, Piteå kommun",162.0,4.0,570.0,https://www.hemnet.se/bostad/villa-4rum-rosvik-pitea-kommun-skiffervagen-30-21371220
+Fanjunkaregatan 3,1990000.0,"Piteå, Piteå kommun",72.0,3.0,1232.0,https://www.hemnet.se/bostad/fritidsboende-3rum-pitea-kommun-fanjunkaregatan-3-21370061
+Roknäsvägen 12,995000.0,"Roknäs, Piteå kommun",160.0,5.0,781.0,https://www.hemnet.se/bostad/villa-5rum-roknas-pitea-kommun-roknasvagen-12-21370000
+Krokvattnetvägen 160,995000.0,"Luleå, Piteå kommun",104.0,3.0,1082.0,https://www.hemnet.se/bostad/fritidsboende-3rum-pitea-kommun-krokvattnetvagen-160-21368692
+Parkgatan 12,1000000.0,"Piteå - Centrum, Piteå kommun",56.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-pitea-centrum-pitea-kommun-parkgatan-12-21368163
+Långnäsvägen 1760,1995000.0,"Arnemark, Piteå kommun",149.0,4.0,32000.0,https://www.hemnet.se/bostad/villa-4rum-arnemark-pitea-kommun-langnasvagen-1760-18954796
+Kalamarksvägen 699,595000.0,"Kalaträsket, Piteå kommun",52.0,3.0,1638.0,https://www.hemnet.se/bostad/fritidsboende-3rum-kalatrasket-pitea-kommun-kalamarksvagen-699-21355038
+Hemlundavägen 159,1980000.0,"Hemlunda, Piteå kommun",188.0,4.0,18000.0,https://www.hemnet.se/bostad/villa-4rum-hemlunda-pitea-kommun-hemlundavagen-159-21367008
+Råholmen 56,1295000.0,"Berkön, Piteå kommun",65.0,3.0,1661.0,https://www.hemnet.se/bostad/fritidsboende-3rum-berkon-pitea-kommun-raholmen-56-21364229
+Skaftgatan 5,,"Djupviken, Piteå kommun",,,889.0,https://www.hemnet.se/bostad/villa-125m2-djupviken-pitea-kommun-skaftgatan-5-21349442
+Sörvägen 696,295000.0,"Lillpite, Piteå kommun",45.0,2.0,1636.0,https://www.hemnet.se/bostad/fritidsboende-2rum-lillpite-pitea-kommun-sorvagen-696-21366404
+Bergön 23,1350000.0,"Jävre, Piteå kommun",92.0,2.0,1501.0,https://www.hemnet.se/bostad/fritidsboende-2rum-javre-pitea-kommun-bergon-23-21365611
+Långviks Glasbruksväg 85,1950000.0,"Långvik, Piteå kommun",71.0,3.0,5576.0,https://www.hemnet.se/bostad/villa-3rum-langvik-pitea-kommun-langviks-glasbruksvag-85-21364908
+Grannäsvägen 90,1095000.0,"Jävrebyn, Piteå kommun",69.0,3.0,1385.0,https://www.hemnet.se/bostad/villa-3rum-javrebyn-pitea-kommun-grannasvagen-90-21362437
+Jävre Brännland 11,1900000.0,"Jävre, Piteå kommun",70.0,3.0,1876.0,https://www.hemnet.se/bostad/villa-3rum-javre-pitea-kommun-javre-brannland-11-21363837
+Bergknabben 9,650000.0,"Altersbruk, Piteå kommun",92.0,3.0,3836.0,https://www.hemnet.se/bostad/villa-3rum-altersbruk-pitea-kommun-bergknabben-9-21363389
+Sanavägen 615,3000000.0,"Svartnäsudden, Piteå kommun",100.0,3.0,1539.0,https://www.hemnet.se/bostad/fritidsboende-3rum-svartnasudden-pitea-kommun-sanavagen-615-21360900
+Högsböleskiftet 109,1250000.0,"Högsböleskiftet, Piteå kommun",53.0,3.0,1334.0,https://www.hemnet.se/bostad/fritidsboende-3rum-hogsboleskiftet-pitea-kommun-hogsboleskiftet-109-21359671
+Sparvgatan 10,1490000.0,"Klubbgärdet, Piteå kommun",178.0,4.0,847.0,https://www.hemnet.se/bostad/villa-4rum-klubbgardet-pitea-kommun-sparvgatan-10-21359641
+Hägnanvägen 11,1395000.0,"Sjulsmark, Piteå kommun",165.0,6.0,1056.0,https://www.hemnet.se/bostad/villa-6rum-sjulsmark-pitea-kommun-hagnanvagen-11-21359136
+Källbogatan 57,2995000.0,"Piteå, Piteå kommun",200.0,6.0,1025.0,https://www.hemnet.se/bostad/villa-6rum-pitea-pitea-kommun-kallbogatan-57-21278652
+Mårdstigen 8,1195000.0,"Långvik, Piteå kommun",59.0,2.0,1574.0,https://www.hemnet.se/bostad/fritidsboende-2rum-langvik-pitea-kommun-mardstigen-8-21357885
+Hällskatan 19,2390000.0,"Hällskatan, Piteå kommun",128.0,3.0,1629.0,https://www.hemnet.se/bostad/villa-3rum-hallskatan-pitea-kommun-hallskatan-19-21358053
+Näckrosgränd 7,1590000.0,"Durrnäs, Piteå kommun",143.0,6.0,275.0,https://www.hemnet.se/bostad/radhus-6rum-durrnas-pitea-kommun-nackrosgrand-7-21352975
+Majorsgatan 7,1450000.0,"Piteå, Piteå kommun",65.0,3.0,1309.0,https://www.hemnet.se/bostad/villa-3rum-pitea-pitea-kommun-majorsgatan-7-21348938
+Skolgatan 16,,"Klubbgärdet, Piteå kommun",,,6904.0,https://www.hemnet.se/bostad/villa-215m2-klubbgardet-pitea-kommun-skolgatan-16-21281456
+Bunäsgrundet,870000.0,"Jävre, Piteå kommun",50.0,3.0,,https://www.hemnet.se/bostad/fritidsboende-3rum-javre-pitea-kommun-bunasgrundet-17821035
+Krokgrundet 35,1650000.0,"Granön, Piteå kommun",82.0,3.0,1447.0,https://www.hemnet.se/bostad/villa-3rum-granon-pitea-kommun-krokgrundet-35-20349496
+Jävre Sandholmen 39,1500000.0,"Jävre, Piteå kommun",47.0,3.0,1461.0,https://www.hemnet.se/bostad/fritidsboende-3rum-javre-pitea-kommun-javre-sandholmen-39-20572956
+Mastvägen 9,1850000.0,"Rosvik, Piteå kommun",228.0,6.0,994.0,https://www.hemnet.se/bostad/villa-6rum-rosvik-pitea-kommun-mastvagen-9-21343957
+Gråträsk 25,,"Arvidsjaur, Piteå kommun",,,846.0,https://www.hemnet.se/bostad/fritidsboende-3rum-arvidsjaur-pitea-kommun-gratrask-25-21343618
+Kalvön 24,995000.0,"Rosvik, Piteå kommun",44.0,2.0,1499.0,https://www.hemnet.se/bostad/fritidsboende-2rum-rosvik-pitea-kommun-kalvon-24-18927696
+Timmermansgatan 7,1500000.0,"Skuthamn, Piteå kommun",78.0,2.0,1565.0,https://www.hemnet.se/bostad/villa-2rum-skuthamn-pitea-kommun-timmermansgatan-7-20174598
+Rotegatan 7,2200000.0,"Öjebyn, Piteå kommun",299.0,8.0,1032.0,https://www.hemnet.se/bostad/villa-8rum-ojebyn-pitea-kommun-rotegatan-7-21342851
+Strömnäsgatan 13,1750000.0,"Strömnäs, Piteå kommun",182.0,4.0,830.0,https://www.hemnet.se/bostad/villa-4rum-stromnas-pitea-kommun-stromnasgatan-13-21342473
+Sandholmsudden 250,1590000.0,"Degerberget, Piteå kommun",32.0,3.0,1507.0,https://www.hemnet.se/bostad/fritidsboende-3rum-degerberget-pitea-kommun-sandholmsudden-250-17646296
+Rönnberget 53,1050000.0,"Rönnberget, Piteå kommun",60.0,3.0,1615.0,https://www.hemnet.se/bostad/fritidsboende-3rum-ronnberget-pitea-kommun-ronnberget-53-21339666
+Aspgatan 12,2200000.0,"Annelund, Piteå kommun",184.0,4.0,968.0,https://www.hemnet.se/bostad/villa-4rum-annelund-pitea-kommun-aspgatan-12-21340900
+Perviken 66,2800000.0,"Hortlax, Piteå kommun",38.0,2.0,2975.0,https://www.hemnet.se/bostad/villa-2rum-hortlax-pitea-kommun-perviken-66-21338648
+Mellangatan 34,4300000.0,"Centralt, Piteå kommun",260.0,8.0,1127.0,https://www.hemnet.se/bostad/villa-8rum-centralt-pitea-kommun-mellangatan-34-21338638
+Kyrkbyn 128,1800000.0,"Piteå, Piteå kommun",50.0,3.0,1300.0,https://www.hemnet.se/bostad/fritidsboende-3rum-pitea-pitea-kommun-kyrkbyn-128-21337799
+Sanavägen 528,1650000.0,"Svartnäsudden, Piteå kommun",50.0,2.0,1647.0,https://www.hemnet.se/bostad/villa-2rum-svartnasudden-pitea-kommun-sanavagen-528-18971823
+Marmorgränd 7,4295000.0,"Piteå - Rosvik, Piteå kommun",245.0,5.0,8470.0,https://www.hemnet.se/bostad/villa-5rum-pitea-rosvik-pitea-kommun-marmorgrand-7-21335461
+Norra Stenarmen 63,6195000.0,"Norra Stenarmen, Piteå kommun",147.0,4.0,1200.0,https://www.hemnet.se/bostad/fritidsboende-4rum-norra-stenarmen-pitea-kommun-norra-stenarmen-63-21334586
+Svartnäsudden 73,2995000.0,"Rosvik, Piteå kommun",113.0,5.0,2152.0,https://www.hemnet.se/bostad/villa-5rum-pitea-kommun-svartnasudden-73-20643619
+Kullvägen 1,3490000.0,"Strömnäs, Piteå kommun",238.0,8.0,931.0,https://www.hemnet.se/bostad/villa-8rum-stromnas-pitea-kommun-kullvagen-1-21333826
+Bölevägen 3,1700000.0,"Böle, Piteå kommun",144.0,5.0,1602.0,https://www.hemnet.se/bostad/villa-5rum-bole-pitea-kommun-bolevagen-3-21333551
+Bondegatan 4,1750000.0,"Öjebyn, Piteå kommun",232.0,6.0,1477.0,https://www.hemnet.se/bostad/villa-6rum-ojebyn-pitea-kommun-bondegatan-4-20908075
+Infjärdenvägen 489,1795000.0,"Roknäs, Piteå kommun",164.0,6.0,3908.0,https://www.hemnet.se/bostad/villa-6rum-roknas-pitea-kommun-infjardenvagen-489-21332848
+Kompanivägen 90,2970000.0,"Klubben, Piteå kommun",91.0,3.0,1079.0,https://www.hemnet.se/bostad/villa-3rum-klubben-pitea-kommun-kompanivagen-90-21330576
+Mjedsjön 3,,"Heden, Bodens kommun",,,1290.0,https://www.hemnet.se/bostad/fritidsboende-22m2-heden-bodens-kommun-mjedsjon-3-21352101
+Sundsnäs 240,,"Sundsnäs, Bodens kommun",,,22000.0,https://www.hemnet.se/bostad/villa-6rum-sundsnas-bodens-kommun-sundsnas-240-21350719
+Flöjtvägen 12,1790000.0,"Hamptjärnmoran Boden, Bodens kommun",176.0,6.0,757.0,https://www.hemnet.se/bostad/villa-6rum-hamptjarnmoran-boden-bodens-kommun-flojtvagen-12-21349599
+Östra Karlberg,645000.0,"Karlberg/Degerbäcken, Bodens kommun",68.0,3.0,1122.0,https://www.hemnet.se/bostad/fritidsboende-3rum-karlberg-degerbacken-bodens-kommun-ostra-karlberg-20402239
+Gammelbyvägen 39A,895000.0,"Gammelbyn, Bodens kommun",74.0,1.0,5060.0,https://www.hemnet.se/bostad/villa-1rum-gammelbyn-bodens-kommun-gammelbyvagen-39a-21347820
+Rönnvägen 15,2495000.0,"Erikslund/fagernäs, Bodens kommun",197.0,6.0,1092.0,https://www.hemnet.se/bostad/villa-6rum-erikslund-fagernas-bodens-kommun-ronnvagen-15-21347739
+Övre Svartlå 516,695000.0,"Boden, Bodens kommun",50.0,2.0,3006.0,https://www.hemnet.se/bostad/fritidsboende-2rum-boden-bodens-kommun-ovre-svartla-516-21347445
+Sävastnäs 7,3395000.0,"Sävastnäs, Bodens kommun",144.0,3.0,26000.0,https://www.hemnet.se/bostad/villa-3rum-savastnas-bodens-kommun-savastnas-7-21347291
+Trollvägen 4,1895000.0,"Unbyn, Bodens kommun",162.0,4.0,807.0,https://www.hemnet.se/bostad/villa-4rum-unbyn-bodens-kommun-trollvagen-4-21345765
+Norra Bredåker 56,495000.0,"Bredåker, Bodens kommun",180.0,4.0,2070.0,https://www.hemnet.se/bostad/villa-4rum-bredaker-bodens-kommun-norra-bredaker-56-21344604
+Forsträskhed 99,325000.0,"Niemisel, Bodens kommun",116.0,2.0,1723.0,https://www.hemnet.se/bostad/villa-2rum-niemisel-bodens-kommun-forstraskhed-99-21342394
+Kusön 237,1495000.0,"Kusån/Kusön, Bodens kommun",80.0,2.0,2337.0,https://www.hemnet.se/bostad/villa-2rum-kusan-kuson-bodens-kommun-kuson-237-21339801
+Krokforsvägen 19,995000.0,"Trångfors, Bodens kommun",202.0,6.0,2808.0,https://www.hemnet.se/bostad/villa-6rum-trangfors-bodens-kommun-krokforsvagen-19-21336955
+Svedjevägen 12,2000000.0,"Bodsvedjan, Bodens kommun",212.0,6.0,899.0,https://www.hemnet.se/bostad/villa-6rum-bodsvedjan-bodens-kommun-svedjevagen-12-21333218
+Stationsgatan 13A,895000.0,"Centrala Boden, Bodens kommun",54.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrala-boden-bodens-kommun-stationsgatan-13a-21332378
+Kusträsk 46,1150000.0,"Kusträsk, Bodens kommun",87.0,3.0,2734.0,https://www.hemnet.se/bostad/fritidsboende-3rum-kustrask-bodens-kommun-kustrask-46-21315200
+Edeforsvägen 59,1195000.0,"Harads, Bodens kommun",254.0,7.0,4965.0,https://www.hemnet.se/bostad/villa-7rum-harads-bodens-kommun-edeforsvagen-59-21307384
+Backgatan 3,2395000.0,"Björkelund, Bodens kommun",130.0,5.0,677.0,https://www.hemnet.se/bostad/villa-5rum-bjorkelund-bodens-kommun-backgatan-3-21320333
+Lilla Nygatan 3 C,995000.0,"Centrala Boden, Bodens kommun",67.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrala-boden-bodens-kommun-lilla-nygatan-3-c-21315491
+Svartbyvägen 31,1295000.0,"Fagernäs, Bodens kommun",100.0,3.0,624.0,https://www.hemnet.se/bostad/villa-3rum-fagernas-bodens-kommun-svartbyvagen-31-21316697
+Norriån 117,395000.0,"Norriån, Bodens kommun",91.0,4.0,3011.0,https://www.hemnet.se/bostad/villa-4rum-norrian-bodens-kommun-norrian-117-21316453
+Stationsgatan 13 C,815000.0,"Centrala Boden, Bodens kommun",35.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrala-boden-bodens-kommun-stationsgatan-13-c-21313543
+Sörbyn 44,550000.0,"Råne Älvdal, Bodens kommun",40.0,2.0,2878.0,https://www.hemnet.se/bostad/villa-2rum-rane-alvdal-bodens-kommun-sorbyn-44-21313472
+Duvgatan 5,2195000.0,"Sanden, Bodens kommun",224.0,6.0,834.0,https://www.hemnet.se/bostad/villa-6rum-sanden-bodens-kommun-duvgatan-5-21312823
+Smedjegatan 19 A,695000.0,"Centrala Boden, Bodens kommun",48.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrala-boden-bodens-kommun-smedjegatan-19-a-21306201
+Radhusvägen 21,395000.0,"Harads, Bodens kommun",180.0,4.0,993.0,https://www.hemnet.se/bostad/villa-4rum-harads-bodens-kommun-radhusvagen-21-21304442
+Brinkvägen 19,2395000.0,"Trångfors, Bodens kommun",222.0,5.0,912.0,https://www.hemnet.se/bostad/villa-5rum-trangfors-bodens-kommun-brinkvagen-19-21298797
+Betsvägen 2,2795000.0,"Harads, Bodens kommun",207.0,6.0,2477.0,https://www.hemnet.se/bostad/villa-6rum-harads-bodens-kommun-betsvagen-2-21295242
+Kyrkgatan 55,1295000.0,"Centrala Boden, Bodens kommun",83.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrala-boden-bodens-kommun-kyrkgatan-55-21285361
+Hökgatan 21,1195000.0,"Sanden, Bodens kommun",166.0,4.0,927.0,https://www.hemnet.se/bostad/villa-4rum-sanden-bodens-kommun-hokgatan-21-21282994
+Yrkesvägen 6,2095000.0,"Torpgärdan, Bodens kommun",149.0,5.0,859.0,https://www.hemnet.se/bostad/villa-5rum-torpgardan-bodens-kommun-yrkesvagen-6-21274735
+Lovägen 1,2995000.0,"Torpgärdan, Bodens kommun",190.0,5.0,755.0,https://www.hemnet.se/bostad/villa-5rum-torpgardan-bodens-kommun-lovagen-1-21271240
+Västbo 21,1950000.0,"Harads, Bodens kommun",158.0,6.0,36000.0,https://www.hemnet.se/bostad/villa-6rum-harads-bodens-kommun-vastbo-21-21271217
+Energivägen 9,1395000.0,"Vittjärv, Bodens kommun",75.0,3.0,796.0,https://www.hemnet.se/bostad/villa-3rum-vittjarv-bodens-kommun-energivagen-9-21269779
+Kanotvägen 13,2695000.0,"Sävastön, Bodens kommun",131.0,5.0,889.0,https://www.hemnet.se/bostad/villa-5rum-savaston-bodens-kommun-kanotvagen-13-21249375
+Svartbyleden 18A,1195000.0,"Norra Svartbyn, Bodens kommun",25.0,2.0,756.0,https://www.hemnet.se/bostad/villa-2rum-norra-svartbyn-bodens-kommun-svartbyleden-18a-21223935
+Drottninggatan 20A,895000.0,"Centrala Boden, Bodens kommun",52.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrala-boden-bodens-kommun-drottninggatan-20a-21195595
+Brännberg 40,795000.0,"Brännberg, Bodens kommun",159.0,4.0,1118.0,https://www.hemnet.se/bostad/villa-4rum-brannberg-bodens-kommun-brannberg-40-21127175
+Stjärnfallsvägen 1,4995000.0,"Sävast, Bodens kommun",200.0,5.0,1268.0,https://www.hemnet.se/bostad/villa-5rum-savast-bodens-kommun-stjarnfallsvagen-1-20740675
+Djupdal 18,1295000.0,"Bredåker, Bodens kommun",151.0,4.0,31000.0,https://www.hemnet.se/bostad/villa-4rum-bredaker-bodens-kommun-djupdal-18-20686617
+Sandträsk 119,695000.0,"Boden, Bodens kommun",430.0,4.0,2111.0,https://www.hemnet.se/bostad/villa-4rum-bodens-kommun-sandtrask-119-19837716
+Fätågsvägen 16,2395000.0,"Norra Svartbyn, Bodens kommun",164.0,5.0,1003.0,https://www.hemnet.se/bostad/villa-5rum-norra-svartbyn-bodens-kommun-fatagsvagen-16-20548298
+Torsgatan 8,2495000.0,"Sanden, Bodens kommun",166.0,5.0,921.0,https://www.hemnet.se/bostad/villa-5rum-sanden-bodens-kommun-torsgatan-8-20506075
+Vibbyn 1,2495000.0,"Skatamark, Bodens kommun",311.0,6.0,100000.0,https://www.hemnet.se/bostad/villa-6rum-skatamark-bodens-kommun-vibbyn-1-20500915
+Alträsk 28D,895000.0,"Vändträsk, Bodens kommun",110.0,4.0,2375.0,https://www.hemnet.se/bostad/fritidsboende-4rum-vandtrask-bodens-kommun-altrask-28d-20315546
+Brännagatan 17,,"Centrala Boden, Bodens kommun",,,972.0,https://www.hemnet.se/bostad/villa-198m2-centrala-boden-bodens-kommun-brannagatan-17-20299417
+Flarken 5,3395000.0,"Boden, Bodens kommun",269.0,12.0,1942.0,https://www.hemnet.se/bostad/villa-12rum-bodens-kommun-flarken-5-20162935
+Solskensvägen 8B,,"Sävast, Bodens kommun",,,274.0,https://www.hemnet.se/bostad/radhus-5rum-savast-bodens-kommun-solskensvagen-8b-20161797
+Solskensvägen 8A,2495000.0,"Sävast, Bodens kommun",83.0,3.0,358.0,https://www.hemnet.se/bostad/radhus-3rum-savast-bodens-kommun-solskensvagen-8a-20161498
+Vändträsk 46B,445000.0,"Vändträsk, Bodens kommun",50.0,2.0,10330.0,https://www.hemnet.se/bostad/fritidsboende-2rum-vandtrask-bodens-kommun-vandtrask-46b-20139595
+Skeppsbrogatan 15D,1895000.0,"Centrum, Luleå kommun",65.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-skeppsbrogatan-15d-21374200
+Tullgatan 25,1395000.0,"Centrum, Luleå kommun",36.5,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-lulea-kommun-tullgatan-25-21374208
+Krongårdsringen 16,850000.0,"Örnäset, Luleå kommun",64.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-ornaset-lulea-kommun-krongardsringen-16-21326676
+Stationsgatan 16B,1095000.0,"Centrum, Luleå kommun",42.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-lulea-kommun-stationsgatan-16b-20773675
+Älvbrinken 16,2295000.0,"Råneå, Luleå kommun",126.0,4.0,908.0,https://www.hemnet.se/bostad/villa-4rum-ranea-lulea-kommun-alvbrinken-16-21373909
+Laxgatan 25C,1295000.0,"Svartöstaden, Luleå kommun",59.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-svartostaden-lulea-kommun-laxgatan-25c-21361453
+Mjöfjärden 408,895000.0,"Mjöfjärden, Luleå kommun",65.0,3.0,3270.0,https://www.hemnet.se/bostad/fritidsboende-3rum-mjofjarden-lulea-kommun-mjofjarden-408-21373247
+Stationsgatan 16B,995000.0,"Centrum, Luleå kommun",44.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-lulea-kommun-stationsgatan-16b-21372909
+Sunderbyvägen 2,5000000.0,"Södra Sunderbyn, Luleå kommun",357.5,9.0,5630.0,https://www.hemnet.se/bostad/villa-9rum-sodra-sunderbyn-lulea-kommun-sunderbyvagen-2-21372955
+Orrbyn 138,995000.0,"Orrbyn, Luleå kommun",163.0,4.0,2750.0,https://www.hemnet.se/bostad/villa-4rum-orrbyn-lulea-kommun-orrbyn-138-21372524
+Sandgatan 30,1295000.0,"Svartöstaden, Luleå kommun",77.4,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-svartostaden-lulea-kommun-sandgatan-30-21372619
+Rådjursstigen 19,1795000.0,"Hertsön, Luleå kommun",137.0,4.0,292.0,https://www.hemnet.se/bostad/radhus-4rum-hertson-lulea-kommun-radjursstigen-19-21370729
+Sandnäsetvägen 226A,,"Bälinge, Luleå kommun",,,1651.0,https://www.hemnet.se/bostad/fritidsboende-38m2-balinge-lulea-kommun-sandnasetvagen-226a-21372162
+Stuga på Sandön/Klubbviken,1995000.0,"Sandön, Luleå kommun",89.0,3.0,2000.0,https://www.hemnet.se/bostad/fritidsboende-3rum-sandon-lulea-kommun-stuga-pa-sandon-klubbviken-21344976
+Mjölkuddsvägen 165,2250000.0,"Mjölkudden, Luleå kommun",90.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-mjolkudden-lulea-kommun-mjolkuddsvagen-165-21371322
+Kantgatan 7 A,1195000.0,"Lövskatan, Luleå kommun",57.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-lovskatan-lulea-kommun-kantgatan-7-a-21371284
+Munkebergsgatan 60,1095000.0,"Mjölkudden/Munkeberg, Luleå kommun",33.5,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-mjolkudden-munkeberg-lulea-kommun-munkebergsgatan-60-21371263
+Tjädergränd 28,2295000.0,"Hertsön, Luleå kommun",180.0,4.0,292.0,https://www.hemnet.se/bostad/radhus-4rum-hertson-lulea-kommun-tjadergrand-28-21368744
+Stakagränd 13,1700000.0,"Örnäset, Luleå kommun",83.0,5.0,764.0,https://www.hemnet.se/bostad/villa-5rum-ornaset-lulea-kommun-stakagrand-13-21371158
+Rutviksreveln 24,3000000.0,"Björsbyn, Luleå kommun",90.0,3.0,2206.0,https://www.hemnet.se/bostad/villa-3rum-bjorsbyn-lulea-kommun-rutviksreveln-24-21344922
+Kompanivägen 21,4995000.0,"Kronan - Lulsundsberget, Luleå kommun",126.0,5.0,,https://www.hemnet.se/bostad/lagenhet-5rum-kronan-lulsundsberget-lulea-kommun-kompanivagen-21-21275055
+Värnpliktsgatan 33,7995000.0,"Kronan, Luleå kommun",290.0,6.0,875.0,https://www.hemnet.se/bostad/villa-6rum-kronan-lulea-kommun-varnpliktsgatan-33-21370066
+Västra Villavägen 3B,7500000.0,"Bergnäset, Luleå kommun",286.0,5.0,1002.0,https://www.hemnet.se/bostad/villa-5rum-bergnaset-lulea-kommun-vastra-villavagen-3b-21356247
+Höjdgatan 8B,745000.0,"Skurholmen, Luleå kommun",26.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-skurholmen-lulea-kommun-hojdgatan-8b-21369499
+Lulsundsgatan 34B,1895000.0,"Centrum - Charlottendal, Luleå kommun",89.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-charlottendal-lulea-kommun-lulsundsgatan-34b-21311577
+Mjölkuddsvägen 57,1095000.0,"Mjölkudden, Luleå kommun",34.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-mjolkudden-lulea-kommun-mjolkuddsvagen-57-21368979
+Småbåtsgatan 10A,4000000.0,"Centrum, Luleå kommun",88.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-lulea-kommun-smabatsgatan-10a-21368844
+Östra Pilgatan 32,1095000.0,"Östermalm, Luleå kommun",31.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-ostermalm-lulea-kommun-ostra-pilgatan-32-19767195
+Faktorsvägen 30,5525000.0,"Bergnäset, Luleå kommun",182.0,7.0,940.0,https://www.hemnet.se/bostad/villa-7rum-bergnaset-lulea-kommun-faktorsvagen-30-21369315
+Smedsträsket 230,995000.0,"Smedsbyn, Luleå kommun",70.0,3.0,54000.0,https://www.hemnet.se/bostad/villa-3rum-smedsbyn-lulea-kommun-smedstrasket-230-21369145
+Västmarksvägen 147,2500000.0,"Västmark, Luleå kommun",230.0,5.0,2605.0,https://www.hemnet.se/bostad/villa-5rum-vastmark-lulea-kommun-vastmarksvagen-147-21369004
+Munkebergsgatan 88,895000.0,"Mjölkudden - Munkeberg, Luleå kommun",33.5,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-mjolkudden-munkeberg-lulea-kommun-munkebergsgatan-88-21368982
+Västra Varvsgatan 8,1595000.0,"Centrum Varvet, Luleå kommun",48.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-varvet-lulea-kommun-vastra-varvsgatan-8-21346639
+Sinksundsstranden 3,1300000.0,"Sinksundet, Luleå kommun",70.0,3.0,706.0,https://www.hemnet.se/bostad/fritidsboende-3rum-sinksundet-lulea-kommun-sinksundsstranden-3-21361989
+Tjärnbergsvägen 7,1195000.0,"Råneå, Luleå kommun",167.0,6.0,784.0,https://www.hemnet.se/bostad/villa-6rum-ranea-lulea-kommun-tjarnbergsvagen-7-21368503
+Sandviksgatan 36G,1795000.0,"Centrum, Luleå kommun",68.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-sandviksgatan-36g-21368779
+Sandviksgatan 21,1995000.0,"Centrum, Luleå kommun",67.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-lulea-kommun-sandviksgatan-21-21322129
+Varvsgatan 57 C,1395000.0,"Centrum, Luleå kommun",55.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-varvsgatan-57-c-21367530
+Genvägen 11,2195000.0,"Lövskatan, Luleå kommun",176.0,3.0,770.0,https://www.hemnet.se/bostad/villa-3rum-lovskatan-lulea-kommun-genvagen-11-21367874
+Mörövägen 209,795000.0,"Mörön, Luleå kommun",36.0,2.0,1944.0,https://www.hemnet.se/bostad/fritidsboende-2rum-moron-lulea-kommun-morovagen-209-21367275
+Inre Bjursträsk 308,820000.0,"Klöverträsk, Luleå kommun",45.0,2.0,2474.0,https://www.hemnet.se/bostad/fritidsboende-2rum-klovertrask-lulea-kommun-inre-bjurstrask-308-21344906
+Rutvikssundsvägen 56,4695000.0,"Rutvik, Luleå kommun",187.0,5.0,18000.0,https://www.hemnet.se/bostad/villa-5rum-rutvik-lulea-kommun-rutvikssundsvagen-56-21350424
+Fågeluddsvägen 22,1350000.0,"Mörön, Luleå kommun",55.0,3.0,1658.0,https://www.hemnet.se/bostad/fritidsboende-3rum-moron-lulea-kommun-fageluddsvagen-22-21366574
+Sandgatan 33b,720000.0,"Svartöstaden, Luleå kommun",38.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-svartostaden-lulea-kommun-sandgatan-33b-21366156
+Södra Ängesbyn 55,450000.0,"Ängesbyn, Luleå kommun",44.0,3.0,1496.0,https://www.hemnet.se/bostad/fritidsboende-3rum-angesbyn-lulea-kommun-sodra-angesbyn-55-21365608
+Nedantillvägen 11,1495000.0,"Råneå, Luleå kommun",220.0,6.0,885.0,https://www.hemnet.se/bostad/villa-6rum-ranea-lulea-kommun-nedantillvagen-11-21365567
+Sandnäsetvägen 308,1395000.0,"Bälinge/Sandnäset, Luleå kommun",100.0,4.0,1112.0,https://www.hemnet.se/bostad/villa-4rum-balinge-sandnaset-lulea-kommun-sandnasetvagen-308-21365487
+Rörbäck 7,875000.0,"Rörbäck, Luleå kommun",84.0,3.0,1225.0,https://www.hemnet.se/bostad/villa-3rum-rorback-lulea-kommun-rorback-7-20523217
+Ensittarvägen 32,2950000.0,"Södra Sunderbyn, Luleå kommun",180.0,6.0,736.0,https://www.hemnet.se/bostad/villa-6rum-sodra-sunderbyn-lulea-kommun-ensittarvagen-32-21365087
+Norra Niemiholm 155,,"Råneå, Luleå kommun",,,27000.0,https://www.hemnet.se/bostad/villa-2rum-ranea-lulea-kommun-norra-niemiholm-155-21365112
+Bodträskvägen 33,1190000.0,"Holmträsk, Piteå kommun",200.0,4.0,3205.0,https://www.hemnet.se/bostad/villa-4rum-holmtrask-pitea-kommun-bodtraskvagen-33-21331372
+Munksundsvägen 103,2850000.0,"Skuthamn, Piteå kommun",158.0,5.0,1004.0,https://www.hemnet.se/bostad/villa-5rum-skuthamn-pitea-kommun-munksundsvagen-103-20334636
+Härdargatan 14,1650000.0,"Backen, Piteå kommun",123.0,6.0,889.0,https://www.hemnet.se/bostad/villa-6rum-backen-pitea-kommun-hardargatan-14-21320997
+Radhusvägen 19,1595000.0,"Degeränget, Piteå kommun",167.0,6.0,831.0,https://www.hemnet.se/bostad/villa-6rum-degeranget-pitea-kommun-radhusvagen-19-21302358
+Hjältviken 41,995000.0,"Berkön Trundön Rosvik, Piteå kommun",91.0,4.0,2020.0,https://www.hemnet.se/bostad/fritidsboende-4rum-berkon-trundon-rosvik-pitea-kommun-hjaltviken-41-21302347
+Gamla Sjulsmarksvägen 25,2975000.0,"Sjulsmark, Piteå kommun",663.0,7.0,2422.0,https://www.hemnet.se/bostad/villa-7rum-sjulsmark-pitea-kommun-gamla-sjulsmarksvagen-25-21294507
+Kolmilavägen 69,1675000.0,"Djupviken, Piteå kommun",96.0,4.0,949.0,https://www.hemnet.se/bostad/villa-4rum-djupviken-pitea-kommun-kolmilavagen-69-21288260
+Trummagatan 17,2300000.0,"Öjebyn, Piteå kommun",184.0,7.0,880.0,https://www.hemnet.se/bostad/villa-7rum-ojebyn-pitea-kommun-trummagatan-17-21287746
+Långträskvägen 246,590000.0,"Sjulsmark, Piteå kommun",295.0,5.0,1736.0,https://www.hemnet.se/bostad/villa-5rum-sjulsmark-pitea-kommun-langtraskvagen-246-21287726
+Bunäsudden 2,3995000.0,"Bunäsudden, Piteå kommun",116.0,4.0,1602.0,https://www.hemnet.se/bostad/villa-4rum-bunasudden-pitea-kommun-bunasudden-2-21056915
+Sågverksgatan 11,2200000.0,"Munksund, Piteå kommun",170.0,3.0,1832.0,https://www.hemnet.se/bostad/villa-3rum-munksund-pitea-kommun-sagverksgatan-11-20865655
+Isakstigen 2,495000.0,"Arnemark, Piteå kommun",110.0,3.0,3046.0,https://www.hemnet.se/bostad/fritidsboende-3rum-arnemark-pitea-kommun-isakstigen-2-18890555
+Regementsvägen 29,2800000.0,"Klubben/Pite Havsbad, Piteå kommun",112.0,4.0,1663.0,https://www.hemnet.se/bostad/villa-4rum-klubben-pite-havsbad-pitea-kommun-regementsvagen-29-18645784
+Ängdalsrovägen 294,995000.0,"Ängdalsro, Luleå kommun",70.0,3.0,1575.0,https://www.hemnet.se/bostad/fritidsboende-3rum-angdalsro-lulea-kommun-angdalsrovagen-294-21380528
+Övre Storfors 1180,900000.0,"Altersbruk, Piteå kommun",86.0,3.0,75000.0,https://www.hemnet.se/bostad/gard-3rum-altersbruk-pitea-kommun-ovre-storfors-1180-21380869
+Rosvik,,"Rosvik, Piteå kommun",,,650000.0,https://www.hemnet.se/bostad/gard-pitea-kommun-rosvik-21367866
+Bergsviken,,"Bergsviken, Piteå kommun",,,429000.0,https://www.hemnet.se/bostad/gard-bergsviken-pitea-kommun-bergsviken-21364051
+Porsnäs 2:32,,"Porsnäs, Piteå kommun",,,173000.0,https://www.hemnet.se/bostad/gard-porsnas-pitea-kommun-porsnas-2-32-21355756
+Västra Lidenvägen 81,5700000.0,"Svensbyn, Piteå kommun",199.0,6.0,580000.0,https://www.hemnet.se/bostad/gard-6rum-svensbyn-pitea-kommun-vastra-lidenvagen-81-21352318
+Mandträsk 44,,"Koler, Piteå kommun",,,911000.0,https://www.hemnet.se/bostad/gard-pitea-kommun-mandtrask-44-21348571
+Adress saknas,,"Norrfjärden, Piteå kommun",,,395000.0,https://www.hemnet.se/bostad/gard-norrfjarden-pitea-kommun-21344317
+Älvsbyvägen 1160,,"Pålberget, Piteå kommun",,,729000.0,https://www.hemnet.se/bostad/gard-palberget-pitea-kommun-alvsbyvagen-1160-21339315
+RENÖN 1:3,,"Piteå, Piteå kommun",,,355000.0,https://www.hemnet.se/bostad/gard-pitea-pitea-kommun-renon-1-3-21070076
+Öjebyn 13:4,,"Piteå, Piteå kommun",,,54000.0,https://www.hemnet.se/bostad/gard-pitea-pitea-kommun-ojebyn-13-4-17042642
+Tomtmark på Näsudden,,"Öjebyn, Piteå kommun",,,67000.0,https://www.hemnet.se/bostad/gard-ojebyn-pitea-kommun-tomtmark-pa-nasudden-18637217
+Degernäs 26,1800000.0,"Degernäs, Bodens kommun",84.0,3.0,1665.0,https://www.hemnet.se/bostad/fritidsboende-3rum-degernas-bodens-kommun-degernas-26-18764860
+Södra Maranvägen 7,4795000.0,"Sävast, Bodens kommun",184.0,4.0,1442.0,https://www.hemnet.se/bostad/villa-4rum-savast-bodens-kommun-sodra-maranvagen-7-19673655
+Kyrkgatan 38,4195000.0,"Björknäs, Bodens kommun",220.0,9.0,1650.0,https://www.hemnet.se/bostad/villa-9rum-bjorknas-bodens-kommun-kyrkgatan-38-19273656
+Södra Bredåker 321,1895000.0,"Bredåker, Bodens kommun",240.0,5.0,3260.0,https://www.hemnet.se/bostad/villa-5rum-bredaker-bodens-kommun-sodra-bredaker-321-19203156
+Degernäs 27,1495000.0,"Degernäs, Bodens kommun",117.0,3.0,1879.0,https://www.hemnet.se/bostad/villa-3rum-degernas-bodens-kommun-degernas-27-19126716
+Klinthöjden tomt nr 33,,"Storklinten, Bodens kommun",,,502.0,https://www.hemnet.se/bostad/fritidsboende-storklinten-bodens-kommun-klinthojden-tomt-nr-33-18395816
+Valvträsk 2,,"Råne Älvdal, Bodens kommun",,,2159.0,https://www.hemnet.se/bostad/fritidsboende-rane-alvdal-bodens-kommun-valvtrask-2-18235175
+Valvträsk 1,,"Råne Älvdal, Bodens kommun",,,1510.0,https://www.hemnet.se/bostad/fritidsboende-rane-alvdal-bodens-kommun-valvtrask-1-18235135
+Mockträsk 46,,"Mockträsk, Bodens kommun",,,2305.0,https://www.hemnet.se/bostad/fritidsboende-47m2-mocktrask-bodens-kommun-mocktrask-46-16918732
+Rånevägen 2,1195000.0,"Råne Älvdal, Gällivare kommun",296.0,6.0,542000.0,https://www.hemnet.se/bostad/villa-6rum-rane-alvdal-gallivare-kommun-ranevagen-2-21383582
+Selet 58,800000.0,"Selet, Luleå kommun",50.0,2.0,1537.0,https://www.hemnet.se/bostad/fritidsboende-2rum-selet-lulea-kommun-selet-58-21380142
+MÅRDSEL 2:53,795000.0,"Gällivare, Gällivare kommun",50.0,2.0,1061.0,https://www.hemnet.se/bostad/villa-2rum-gallivare-gallivare-kommun-mardsel-2-53-21380883
+Selet 72,995000.0,"Selet, Luleå kommun",140.0,4.0,5486.0,https://www.hemnet.se/bostad/villa-4rum-selet-lulea-kommun-selet-72-21380045
+Smedsträsket 230,995000.0,"Smedsbyn, Luleå kommun",70.0,3.0,54000.0,https://www.hemnet.se/bostad/villa-3rum-smedsbyn-lulea-kommun-smedstrasket-230-21369145
+Västmarksvägen 147,2500000.0,"Västmark, Luleå kommun",230.0,5.0,2605.0,https://www.hemnet.se/bostad/villa-5rum-vastmark-lulea-kommun-vastmarksvagen-147-21369004
+Rånevägen 11,425000.0,"Råne Älvdal, Gällivare kommun",110.0,5.0,21000.0,https://www.hemnet.se/bostad/villa-5rum-rane-alvdal-gallivare-kommun-ranevagen-11-21364701
+Västmarksvägen 61,895000.0,"Västmark - Eriksberg, Luleå kommun",180.0,5.0,4447.0,https://www.hemnet.se/bostad/villa-5rum-vastmark-eriksberg-lulea-kommun-vastmarksvagen-61-21348156
+Knösenvägen 288,3395000.0,"Norra Sunderbyn, Luleå kommun",100.0,4.0,11000.0,https://www.hemnet.se/bostad/villa-4rum-norra-sunderbyn-lulea-kommun-knosenvagen-288-20724235
+Norra Bredåker 85,,"N Bredåker, Bodens kommun",,,43000.0,https://www.hemnet.se/bostad/gard-n-bredaker-bodens-kommun-norra-bredaker-85-21370897
+Lassbyn 206,1995000.0,"Lassbyn, Bodens kommun",86.0,3.0,165000.0,https://www.hemnet.se/bostad/gard-3rum-lassbyn-bodens-kommun-lassbyn-206-21340699
+Orrbyn 48,1495000.0,"Råneå, Luleå kommun",260.0,7.0,2267.0,https://www.hemnet.se/bostad/villa-7rum-ranea-lulea-kommun-orrbyn-48-21364647
+Tjärhovsgatan 18 B,645000.0,"Gültzauudden, Luleå kommun",22.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-gultzauudden-lulea-kommun-tjarhovsgatan-18-b-21304509
+Strömsund 5,1695000.0,"Råneå, Luleå kommun",244.0,5.0,4504.0,https://www.hemnet.se/bostad/villa-5rum-ranea-lulea-kommun-stromsund-5-21362996
+Krongårdsringen 6C,1150000.0,"Örnäset, Luleå kommun",51.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-ornaset-lulea-kommun-krongardsringen-6c-21300556
+Flugsnappargränd 13,2045000.0,"Hertsön, Luleå kommun",158.0,4.0,324.0,https://www.hemnet.se/bostad/villa-4rum-hertson-lulea-kommun-flugsnappargrand-13-21361797
+Alhamns södra strandväg 162,1250000.0,"Alhamn, Luleå kommun",61.0,3.0,2207.0,https://www.hemnet.se/bostad/fritidsboende-3rum-alhamn-lulea-kommun-alhamns-sodra-strandvag-162-21362674
+Skillingvägen 11,2995000.0,"Lerbäcken, Luleå kommun",126.0,4.0,842.0,https://www.hemnet.se/bostad/villa-4rum-lerbacken-lulea-kommun-skillingvagen-11-21362559
+"Småskär, stuga 11",550000.0,"Småskär/Skatamarksviken, Luleå kommun",45.0,2.0,,"https://www.hemnet.se/bostad/fritidsboende-2rum-smaskar-skatamarksviken-lulea-kommun-smaskar,-stuga-11-21362176"
+Burströmsvägen 116,1295000.0,"Burströmska, Luleå kommun",75.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-burstromska-lulea-kommun-burstromsvagen-116-21361991
+Genvägen 27 B,995000.0,"Lövskatan, Luleå kommun",40.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-lovskatan-lulea-kommun-genvagen-27-b-21361283
+Bensby Norriviken 18,1695000.0,"Bensbyn, Luleå kommun",58.0,2.0,2394.0,https://www.hemnet.se/bostad/fritidsboende-2rum-bensbyn-lulea-kommun-bensby-norriviken-18-21361106
+Dragongatan 4D,1995000.0,"Kronan, Luleå kommun",81.0,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-kronan-lulea-kommun-dragongatan-4d-21361026
+Hovslagarvägen 4,1395000.0,"Råneå, Luleå kommun",165.0,6.0,817.0,https://www.hemnet.se/bostad/villa-6rum-ranea-lulea-kommun-hovslagarvagen-4-21360824
+Västra Varvsgatan 14 B,995000.0,"Centrum/Varvet, Luleå kommun",31.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-varvet-lulea-kommun-vastra-varvsgatan-14-b-20247455
+Sörnäsudden 324,3000000.0,"Sörnäsudden, Luleå kommun",110.0,3.0,2454.0,https://www.hemnet.se/bostad/villa-3rum-sornasudden-lulea-kommun-sornasudden-324-21359542
+Björsbyvägen 16,1995000.0,"Björsbyn, Luleå kommun",48.0,2.0,1172.0,https://www.hemnet.se/bostad/fritidsboende-2rum-bjorsbyn-lulea-kommun-bjorsbyvagen-16-21357530
+Spränggatan 23B,1395000.0,"Skurholmen, Luleå kommun",52.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-skurholmen-lulea-kommun-spranggatan-23b-21359043
+Ormisvägen 12,995000.0,"Råneå, Luleå kommun",177.0,6.0,2050.0,https://www.hemnet.se/bostad/villa-6rum-ranea-lulea-kommun-ormisvagen-12-21357855
+Praktikantvägen 33,2595000.0,"Porsösundet, Luleå kommun",171.0,5.0,379.0,https://www.hemnet.se/bostad/radhus-5rum-porsosundet-lulea-kommun-praktikantvagen-33-21352887
+Alviksvägen 371,,"Alvik/Långnäs, Luleå kommun",,,12000.0,https://www.hemnet.se/bostad/villa-65m2-alvik-langnas-lulea-kommun-alviksvagen-371-21358380
+Öströmsvägen 4B,,"Kallax, Luleå kommun",,,3165.0,https://www.hemnet.se/bostad/villa-265m2-kallax-lulea-kommun-ostromsvagen-4b-21357208
+Mjölkuddsvägen 47,1495000.0,"Mjölkudden, Luleå kommun",77.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-mjolkudden-lulea-kommun-mjolkuddsvagen-47-21357482
+Rörbäcksvägen 617,395000.0,"Råneå, Luleå kommun",55.0,2.0,2000.0,https://www.hemnet.se/bostad/villa-2rum-ranea-lulea-kommun-rorbacksvagen-617-21354512
+Sandnäsetvägen 70,695000.0,"Avan, Luleå kommun",100.0,5.0,3020.0,https://www.hemnet.se/bostad/villa-5rum-avan-lulea-kommun-sandnasetvagen-70-21356088
+Sandnäsetvägen 310,3995000.0,"Sandnäset/Bälinge, Luleå kommun",163.0,5.0,3998.0,https://www.hemnet.se/bostad/villa-5rum-sandnaset-balinge-lulea-kommun-sandnasetvagen-310-21356626
+Lingonstigen 68,1595000.0,"Kallkällan, Luleå kommun",81.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-kallkallan-lulea-kommun-lingonstigen-68-21353701
+Stormvägen 147,2295000.0,"Björkskatan, Luleå kommun",115.0,4.0,162.0,https://www.hemnet.se/bostad/villa-4rum-bjorkskatan-lulea-kommun-stormvagen-147-21355732
+Odengatan 10,1395000.0,"Lövskatan, Luleå kommun",55.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-lovskatan-lulea-kommun-odengatan-10-21354774
+Hällbruksgatan 23,1195000.0,"Örnäset, Luleå kommun",56.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-ornaset-lulea-kommun-hallbruksgatan-23-21355052
+Sandviksgatan 23,1150000.0,"Centrum, Luleå kommun",49.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-sandviksgatan-23-21353815
+Sandöskatan 421,2295000.0,"Rörbäck, Luleå kommun",64.0,3.0,1650.0,https://www.hemnet.se/bostad/villa-3rum-rorback-lulea-kommun-sandoskatan-421-21316691
+Burströmsvägen 12,1250000.0,"Burströmska Gärdan, Luleå kommun",65.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-burstromska-gardan-lulea-kommun-burstromsvagen-12-21352914
+Gränsgatan 8C,1495000.0,"Västra Skurholmen, Luleå kommun",72.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-vastra-skurholmen-lulea-kommun-gransgatan-8c-21352943
+Västergatan 1,1195000.0,"Västra Skurholmen, Luleå kommun",68.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-vastra-skurholmen-lulea-kommun-vastergatan-1-21352907
+Krokabuskgrundet 64,1895000.0,"Sandön, Luleå kommun",68.0,3.0,4390.0,https://www.hemnet.se/bostad/fritidsboende-3rum-sandon-lulea-kommun-krokabuskgrundet-64-21351028
+Sörövägen 120,,"Brändön, Luleå kommun",,,2841.0,https://www.hemnet.se/bostad/fritidsboende-54m2-brandon-lulea-kommun-sorovagen-120-21350929
+Markskogsvägen 219,675000.0,"Persön, Luleå kommun",95.0,4.0,1600.0,https://www.hemnet.se/bostad/fritidsboende-4rum-person-lulea-kommun-markskogsvagen-219-20346478
+Västmarksvägen 61,895000.0,"Västmark - Eriksberg, Luleå kommun",180.0,5.0,4447.0,https://www.hemnet.se/bostad/villa-5rum-vastmark-eriksberg-lulea-kommun-vastmarksvagen-61-21348156
+Niemiholmen 51,895000.0,"Råneå, Luleå kommun",42.0,2.0,2129.0,https://www.hemnet.se/bostad/fritidsboende-2rum-ranea-lulea-kommun-niemiholmen-51-17798632
+Lövskärsvägen 658,995000.0,"Lövskär, Luleå kommun",52.0,2.0,1567.0,https://www.hemnet.se/bostad/fritidsboende-2rum-lovskar-lulea-kommun-lovskarsvagen-658-18980596
+Varvsgatan 55,1345000.0,"Centrum, Luleå kommun",55.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-varvsgatan-55-21348036
+Mjölkuddsvägen 29,1195000.0,"Mjölkudden, Luleå kommun",45.5,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-mjolkudden-lulea-kommun-mjolkuddsvagen-29-21346587
+Gunnarsbyvägen 21,595000.0,"Niemisel, Luleå kommun",220.0,4.0,1962.0,https://www.hemnet.se/bostad/villa-4rum-niemisel-lulea-kommun-gunnarsbyvagen-21-21345144
+Elevvägen 9,2395000.0,"Porsön/Porsösundet, Luleå kommun",171.0,5.0,395.0,https://www.hemnet.se/bostad/radhus-5rum-porson-porsosundet-lulea-kommun-elevvagen-9-21347391
+Hampmyrvägen 9,3795000.0,"Alvik, Luleå kommun",326.0,8.0,1224.0,https://www.hemnet.se/bostad/villa-8rum-alvik-lulea-kommun-hampmyrvagen-9-21326712
+Lulnäsvägen 304,2795000.0,"Lulnäset, Luleå kommun",42.0,3.0,2195.0,https://www.hemnet.se/bostad/fritidsboende-3rum-lulnaset-lulea-kommun-lulnasvagen-304-21336067
+Alhamnsvägen 632,2695000.0,"Alhamn, Luleå kommun",94.0,2.0,12000.0,https://www.hemnet.se/bostad/villa-2rum-alhamn-lulea-kommun-alhamnsvagen-632-21343606
+Västra Varvsgatan 24A,1075000.0,"Centrum-Varvet, Luleå kommun",40.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-varvet-lulea-kommun-vastra-varvsgatan-24a-21343925
+Kråknäsvägen 94,895000.0,"Örarna, Luleå kommun",50.0,2.0,1561.0,https://www.hemnet.se/bostad/fritidsboende-2rum-orarna-lulea-kommun-kraknasvagen-94-21343430
+Alhamnsvägen 618,1495000.0,"Alhamn, Luleå kommun",203.0,4.0,12000.0,https://www.hemnet.se/bostad/villa-4rum-alhamn-lulea-kommun-alhamnsvagen-618-20420095
+Stationsgatan 32A,995000.0,"Centrum, Luleå kommun",20.5,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-lulea-kommun-stationsgatan-32a-18904436
+Gamla Lövskärsvägen 322,595000.0,"Lövskär, Luleå kommun",50.0,2.0,1327.0,https://www.hemnet.se/bostad/fritidsboende-2rum-lovskar-lulea-kommun-gamla-lovskarsvagen-322-18559796
+Krongårdsringen  32,945000.0,"Örnäset, Luleå kommun",61.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-ornaset-lulea-kommun-krongardsringen-32-21340439
+Orrbyn 49,2295000.0,"Orrbyn, Luleå kommun",291.0,7.0,8941.0,https://www.hemnet.se/bostad/villa-7rum-orrbyn-lulea-kommun-orrbyn-49-20199315
+Furufjärdsvägen 174,2495000.0,"Furufjärden / Bodön, Luleå kommun",75.0,2.0,2463.0,https://www.hemnet.se/bostad/villa-2rum-furufjarden-bodon-lulea-kommun-furufjardsvagen-174-21339778
+Alvägen 20,4195000.0,"Skogsvallen, Luleå kommun",177.8,4.0,786.0,https://www.hemnet.se/bostad/villa-4rum-skogsvallen-lulea-kommun-alvagen-20-21337428
+Lindbergavägen 21,995000.0,"Börtnäsheden, Luleå kommun",33.0,1.0,2451.0,https://www.hemnet.se/bostad/fritidsboende-1rum-bortnasheden-lulea-kommun-lindbergavagen-21-21336108
+Hedbackavägen 115 & 119,,"Luleå, Luleå kommun",,,2475.0,https://www.hemnet.se/bostad/villa-230m2-lulea-kommun-hedbackavagen-115-119-21334815
+Sakrislundsvägen 65D,1495000.0,"Mörön, Luleå kommun",52.0,2.0,1470.0,https://www.hemnet.se/bostad/fritidsboende-2rum-moron-lulea-kommun-sakrislundsvagen-65d-21331709
+Mjölkuddsvägen 17,1795000.0,"Mjölkudden, Luleå kommun",72.0,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-mjolkudden-lulea-kommun-mjolkuddsvagen-17-21312097
+Disponentvägen 10B,3195000.0,"Karlsvik, Luleå kommun",103.0,4.0,189.0,https://www.hemnet.se/bostad/radhus-4rum-karlsvik-lulea-kommun-disponentvagen-10b-20622376
+Orrgränd 7,1700000.0,"Hertsön, Luleå kommun",137.0,4.0,292.0,https://www.hemnet.se/bostad/radhus-4rum-hertson-lulea-kommun-orrgrand-7-21330259
+Spränggatan 23,595000.0,"Skurholmen, Luleå kommun",21.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-skurholmen-lulea-kommun-spranggatan-23-20799197
+Sandgatan 12,895000.0,"Svartöstaden, Luleå kommun",62.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-svartostaden-lulea-kommun-sandgatan-12-21322205
+Åsgatan 4,6800000.0,"Östermalm, Luleå kommun",299.6,7.0,686.0,https://www.hemnet.se/bostad/villa-7rum-ostermalm-lulea-kommun-asgatan-4-21329397
+Hermelinsgatan 28A,2095000.0,"Östermalm, Luleå kommun",80.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-ostermalm-lulea-kommun-hermelinsgatan-28a-21326887
+Rektorsgatan 36C,1695000.0,"Östermalm, Luleå kommun",57.7,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-ostermalm-lulea-kommun-rektorsgatan-36c-20394595
+Hjorthagenvägen 36,795000.0,"Måttsund, Luleå kommun",28.0,2.0,1048.0,https://www.hemnet.se/bostad/fritidsboende-2rum-mattsund-lulea-kommun-hjorthagenvagen-36-19056661
+Skagsören 80,1295000.0,"Sandön, Luleå kommun",45.0,3.0,1440.0,https://www.hemnet.se/bostad/fritidsboende-3rum-sandon-lulea-kommun-skagsoren-80-21322517
+Laxgatan 17B,995000.0,"Svartöstaden, Luleå kommun",62.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-svartostaden-lulea-kommun-laxgatan-17b-21322302
+Lundvägen 1,1950000.0,"Bensbyn, Luleå kommun",48.0,2.0,2338.0,https://www.hemnet.se/bostad/villa-2rum-bensbyn-lulea-kommun-lundvagen-1-21320580
+Hällbruksgatan 3,995000.0,"Örnnäset, Luleå kommun",40.5,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-ornnaset-lulea-kommun-hallbruksgatan-3-21320365
+Fredsgatan 12B,6500000.0,"Centrum, Luleå kommun",269.0,7.0,451.0,https://www.hemnet.se/bostad/villa-7rum-centrum-lulea-kommun-fredsgatan-12b-19736955
+Alhamnsvägen 206,1950000.0,"Alhamn/Vallen, Luleå kommun",62.0,2.0,1873.0,https://www.hemnet.se/bostad/villa-2rum-alhamn-vallen-lulea-kommun-alhamnsvagen-206-21313271
+Sunderbyvägen 155,4995000.0,"Södra Sunderbyn, Luleå kommun",223.0,5.0,2550.0,https://www.hemnet.se/bostad/villa-5rum-sodra-sunderbyn-lulea-kommun-sunderbyvagen-155-21312844
+Björkgatan 21,1845000.0,"Bergviken, Luleå kommun",60.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-bergviken-lulea-kommun-bjorkgatan-21-21312413
+Skogsmyrgatan 17F,2095000.0,"Hällbacken, Luleå kommun",85.0,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-hallbacken-lulea-kommun-skogsmyrgatan-17f-21310839
+Toppgatan 12B,1295000.0,"Luleå, Luleå kommun",49.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-lulea-lulea-kommun-toppgatan-12b-21175379
+Bränslanvägen 15,5895000.0,"Södra Sunderbyn, Luleå kommun",312.0,6.0,1647.0,https://www.hemnet.se/bostad/villa-6rum-sodra-sunderbyn-lulea-kommun-branslanvagen-15-21308501
+Fredsgatan 4,8000000.0,"Gültzauudden, Luleå kommun",367.0,8.0,869.0,https://www.hemnet.se/bostad/villa-8rum-gultzauudden-lulea-kommun-fredsgatan-4-20290055
+Ensittarvägen 37,2850000.0,"Södra Sunderbyn, Luleå kommun",130.0,4.0,559.0,https://www.hemnet.se/bostad/villa-4rum-sodra-sunderbyn-lulea-kommun-ensittarvagen-37-21171395
+Flarkenvägen 2,3495000.0,"Rutvik, Luleå kommun",247.0,8.0,999.0,https://www.hemnet.se/bostad/villa-8rum-rutvik-lulea-kommun-flarkenvagen-2-21306957
+Sandgatan 12,995000.0,"Svartöstaden, Luleå kommun",62.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-svartostaden-lulea-kommun-sandgatan-12-21304934
+Tullgatan 31A,995000.0,"Centrum, Luleå kommun",22.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-lulea-kommun-tullgatan-31a-21303932
+Lingonstigen 53,1645000.0,"Kallkällan, Luleå kommun",84.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-kallkallan-lulea-kommun-lingonstigen-53-21304311
+Tjärnbergsvägen 32,995000.0,"Råneå, Luleå kommun",109.0,3.0,1047.0,https://www.hemnet.se/bostad/villa-3rum-ranea-lulea-kommun-tjarnbergsvagen-32-21304127
+Nordanträsk 28,8995000.0,"Södra Sunderbyn, Luleå kommun",250.0,6.0,7781.0,https://www.hemnet.se/bostad/villa-6rum-sodra-sunderbyn-lulea-kommun-nordantrask-28-20682717
+Västra Varvsgatan 16B,1550000.0,"Varvet, Luleå kommun",51.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-varvet-lulea-kommun-vastra-varvsgatan-16b-21299149
+Kälkholmen 99,,"Lövskär, Luleå kommun",,,1803.0,https://www.hemnet.se/bostad/fritidsboende-39m2-lovskar-lulea-kommun-kalkholmen-99-17642689
+Björkgatan 21,1395000.0,"Bergviken, Luleå kommun",39.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-bergviken-lulea-kommun-bjorkgatan-21-21293874
+Munkebergsgatan 54,995000.0,"Mjölkudden/Munkeberg, Luleå kommun",33.5,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-mjolkudden-munkeberg-lulea-kommun-munkebergsgatan-54-21292187
+Rönngatan 8,5895000.0,"Östermalm, Luleå kommun",235.0,7.0,648.0,https://www.hemnet.se/bostad/villa-7rum-ostermalm-lulea-kommun-ronngatan-8-21278297
+Tullgatan 10,2695000.0,"Luleå, Luleå kommun",93.0,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-lulea-lulea-kommun-tullgatan-10-20687215
+Sandgatan 8,875000.0,"Svartöstaden, Luleå kommun",62.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-svartostaden-lulea-kommun-sandgatan-8-21276161
+Västra Varvsgatan 20A,1050000.0,"Centrum-Varvet, Luleå kommun",52.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-varvet-lulea-kommun-vastra-varvsgatan-20a-21273696
+Martin Ljungs gata 6,5995000.0,"Notviken, Luleå kommun",216.0,5.0,840.0,https://www.hemnet.se/bostad/villa-5rum-notviken-lulea-kommun-martin-ljungs-gata-6-21272372
+Knektgränd 9,5495000.0,"Lulsundet, Luleå kommun",195.0,6.0,803.0,https://www.hemnet.se/bostad/villa-6rum-lulsundet-lulea-kommun-knektgrand-9-21268753
+Munkebergsgatan 88,850000.0,"Mjölkudden, Luleå kommun",33.5,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-mjolkudden-lulea-kommun-munkebergsgatan-88-21223295
+Majvägen 19,1450000.0,"Bergviken, Luleå kommun",55.5,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-bergviken-lulea-kommun-majvagen-19-21211016
+Stationsgatan 31 D,1650000.0,"Centrum, Luleå kommun",45.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-centrum-lulea-kommun-stationsgatan-31-d-21181115
+Revelsudden 3,,"Revelsudden, Luleå kommun",,,1008.0,https://www.hemnet.se/bostad/fritidsboende-revelsudden-lulea-kommun-revelsudden-3-21174616
+Residensgatan 4 D,975000.0,"Centrum/Varvet, Luleå kommun",45.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-centrum-varvet-lulea-kommun-residensgatan-4-d-21153015
+Majvägen 15,1195000.0,"Bergviken, Luleå kommun",43.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-bergviken-lulea-kommun-majvagen-15-21116055
+Sjötorpsvägen 8,,"Kallviken, Luleå kommun",,,5214.0,https://www.hemnet.se/bostad/villa-37m2-kallviken-lulea-kommun-sjotorpsvagen-8-21113055
+Sandviksgatan 78B,1995000.0,"Centrum, Luleå kommun",69.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-centrum-lulea-kommun-sandviksgatan-78b-21013855
+Södra Prästholm 648,250000.0,"Södra Prästholm, Luleå kommun",200.0,6.0,1318.0,https://www.hemnet.se/bostad/villa-6rum-sodra-prastholm-lulea-kommun-sodra-prastholm-648-20941356
+Forsnäs 239,250000.0,"Niemisel, Luleå kommun",75.0,2.0,1382.0,https://www.hemnet.se/bostad/villa-2rum-niemisel-lulea-kommun-forsnas-239-20743957
+Knösenvägen 288,3395000.0,"Norra Sunderbyn, Luleå kommun",100.0,4.0,11000.0,https://www.hemnet.se/bostad/villa-4rum-norra-sunderbyn-lulea-kommun-knosenvagen-288-20724235
+Björkgatan 39,1350000.0,"Bergviken, Luleå kommun",57.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-bergviken-lulea-kommun-bjorkgatan-39-20516876
+Snövägen 184,1495000.0,"Björkskatan, Luleå kommun",75.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-bjorkskatan-lulea-kommun-snovagen-184-20600475
+Måttsundsvägen 395,2150000.0,"Måttsund/Fisketorpet, Luleå kommun",100.0,2.0,3528.0,https://www.hemnet.se/bostad/villa-2rum-mattsund-fisketorpet-lulea-kommun-mattsundsvagen-395-20336196
+Sjögatan 7A,1395000.0,"Bergviken, Luleå kommun",45.0,2.0,,https://www.hemnet.se/bostad/lagenhet-2rum-bergviken-lulea-kommun-sjogatan-7a-20335618
+Brogatan 12 B,695000.0,"Skurholmen, Luleå kommun",29.0,1.0,,https://www.hemnet.se/bostad/lagenhet-1rum-skurholmen-lulea-kommun-brogatan-12-b-19082715
+Burströmsvägen 66,1195000.0,"Burströmska Gärdan, Luleå kommun",75.5,3.0,,https://www.hemnet.se/bostad/lagenhet-3rum-burstromska-gardan-lulea-kommun-burstromsvagen-66-20275155
+Jaktviksvägen 38,1195000.0,"Kallax, Luleå kommun",50.0,2.0,2099.0,https://www.hemnet.se/bostad/fritidsboende-2rum-kallax-lulea-kommun-jaktviksvagen-38-20274255
+Västisundet 71,1795000.0,"Hindersön, Luleå kommun",83.0,3.0,1512.0,https://www.hemnet.se/bostad/fritidsboende-3rum-hinderson-lulea-kommun-vastisundet-71-19406957
+Munkebergsgatan 84,1795000.0,"Mjölkudden/Munkeberg, Luleå kommun",95.0,4.0,,https://www.hemnet.se/bostad/lagenhet-4rum-mjolkudden-munkeberg-lulea-kommun-munkebergsgatan-84-18903576
+Degerselsvägen 436,295000.0,"Niemisel, Bodens kommun",70.0,4.0,1524.0,https://www.hemnet.se/bostad/villa-4rum-niemisel-bodens-kommun-degerselsvagen-436-21377619
+Krokvattnetvägen 160,995000.0,"Luleå, Piteå kommun",104.0,3.0,1082.0,https://www.hemnet.se/bostad/fritidsboende-3rum-pitea-kommun-krokvattnetvagen-160-21368692
+Långviks Glasbruksväg 85,1950000.0,"Långvik, Piteå kommun",71.0,3.0,5576.0,https://www.hemnet.se/bostad/villa-3rum-langvik-pitea-kommun-langviks-glasbruksvag-85-21364908
+Sävastnäs 233,495000.0,"Sävast, Bodens kommun",70.0,2.0,975.0,https://www.hemnet.se/bostad/villa-2rum-savast-bodens-kommun-savastnas-233-21362150
+Mårdstigen 8,1195000.0,"Långvik, Piteå kommun",59.0,2.0,1574.0,https://www.hemnet.se/bostad/fritidsboende-2rum-langvik-pitea-kommun-mardstigen-8-21357885
+Sävastnäs 7,3395000.0,"Sävastnäs, Bodens kommun",144.0,3.0,26000.0,https://www.hemnet.se/bostad/villa-3rum-savastnas-bodens-kommun-savastnas-7-21347291
+Forsträskhed 99,325000.0,"Niemisel, Bodens kommun",116.0,2.0,1723.0,https://www.hemnet.se/bostad/villa-2rum-niemisel-bodens-kommun-forstraskhed-99-21342394
+Långträskvägen 246,590000.0,"Sjulsmark, Piteå kommun",295.0,5.0,1736.0,https://www.hemnet.se/bostad/villa-5rum-sjulsmark-pitea-kommun-langtraskvagen-246-21287726
+Vibbyn 1,2495000.0,"Skatamark, Bodens kommun",311.0,6.0,100000.0,https://www.hemnet.se/bostad/villa-6rum-skatamark-bodens-kommun-vibbyn-1-20500915
+Flarken 5,3395000.0,"Boden, Bodens kommun",269.0,12.0,1942.0,https://www.hemnet.se/bostad/villa-12rum-bodens-kommun-flarken-5-20162935
+Luleå Mjöträsk 1:76,,"Niemisel, Luleå kommun",,,1395000.0,https://www.hemnet.se/bostad/gard-lulea-kommun-lulea-mjotrask-1-76-21384069
+Dalvägen 509,2695000.0,"Avan, Luleå kommun",135.0,4.0,27000.0,https://www.hemnet.se/bostad/gard-4rum-avan-lulea-kommun-dalvagen-509-21383144
+LULEÅ BÖRJELSLANDET 1:3,,"Luleå, Luleå kommun",,,2763000.0,https://www.hemnet.se/bostad/gard-lulea-kommun-lulea-borjelslandet-1-3-21367482
+Långsund 317,,"Råneå, Luleå kommun",,,527000.0,https://www.hemnet.se/bostad/gard-ranea-lulea-kommun-langsund-317-21358999
+Solskensberg,,"Luleå, Luleå kommun",,,950000.0,https://www.hemnet.se/bostad/gard-lulea-kommun-solskensberg-21359434
+Ostibyvägen 9,,"Ersnäs, Luleå kommun",,,29000.0,https://www.hemnet.se/bostad/gard-140m2-ersnas-lulea-kommun-ostibyvagen-9-21344334
+Bränna 106,,"Vitå, Luleå kommun",,,110000.0,https://www.hemnet.se/bostad/gard-vita-lulea-kommun-branna-106-18959277

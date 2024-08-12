@@ -45,6 +45,7 @@ locations = []
 sizes = []
 rooms = []
 yards = []
+urls2= []
 page_nums = ['1']
 
 def get_page_data(url, page_number):
@@ -85,12 +86,18 @@ def get_page_data(url, page_number):
             location = None
 
         try:
+            url = ad['href']
+            url = f'https://www.hemnet.se{url}'
+        except:
+            url = None
+
+        try:
             attributes = ad.find_all('span', class_='ForSaleAttributes_primaryAttributes__tqSRJ')
             if len(attributes) >= 3:
                 price = attributes[0].text.strip().replace('\xa0', ' ')
                 size = attributes[1].text.strip().replace('\xa0', ' ')
                 room = attributes[2].text.strip().replace('\xa0', ' ')
-                ListingPrice_listingPrice__jg_CG
+                
                 if 'kr' in price:
                     try:
                         price = int(price.replace('kr', '').replace(' ', ''))
@@ -159,6 +166,7 @@ def get_page_data(url, page_number):
                 sizes.append(size)
                 rooms.append(room)
                 yards.append(yard)
+                urls2.append(url)
 
 def get_last_number_from_list(lst):
     lock = False #locking because you get the last page number on the first page
@@ -184,7 +192,7 @@ def get_last_number_from_list(lst):
         return last_number
 
 
-def send_email_alert(title, location, price, room, recipient_email):
+def send_email_alert(title, location, price, room, url, recipient_email):
     sender_email = "NyBostadsAnnons@outlook.com"
     sender_password = "hemnet-fyrkanten"
     smtp_server = "smtp.office365.com"
@@ -195,7 +203,7 @@ def send_email_alert(title, location, price, room, recipient_email):
     msg['To'] = recipient_email
     msg['Subject'] = "New Listing Alert"
 
-    body = f"Title: {title}\nLocation: {location}\nPrice: {price}\nRooms: {room}"
+    body = f"Title: {title}\nLocation: {location}\nPrice: {price}\nRooms: {room} \nURL: {url}"
     msg.attach(MIMEText(body, 'plain'))
 
     try:
@@ -235,12 +243,12 @@ while current_page <= 10:
 Session = sessionmaker(bind=engine)
 session = Session()
 
-for title, price, location, size, room, yard in zip(titles, prices, locations, sizes, rooms, yards):
-    listing = Listings(title=title, price=price, location=location, size=size, rooms=room, yard=yard)
+for title, price, location, size, room, yard, url in zip(titles, prices, locations, sizes, rooms, yards, urls2):
+    listing = Listings(title=title, price=price, location=location, size=size, rooms=room, yard=yard, url=url)
     existing_listing = session.query(Listings).filter_by(title=listing.title).first()
     if existing_listing is None:
         session.add(listing)
-        send_email_alert(title, location, price, room, 'strandafredde@gmail.com')
+        send_email_alert(title, location, price, room, url, 'strandafredde@gmail.com')
     else:
         print("======================================================================")
         print(f"Listing with the title {listing.title} already exists in the database")
@@ -259,7 +267,8 @@ data = pd.DataFrame({
     'Location': locations,
     'Size': sizes,
     'Rooms': rooms,
-    'Yard': yards
+    'Yard': yards,
+    'URL': urls2
 })
 
 data.dropna(how='all', inplace=True)

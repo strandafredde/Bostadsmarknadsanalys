@@ -14,14 +14,16 @@ class Listings(Base):
     size = Column(Float)
     rooms = Column(Integer)
     yard = Column(Float)
+    url = Column(String)
 
-    def __init__(self, title, price, location, size, rooms, yard):
+    def __init__(self, title, price, location, size, rooms, yard, url):
         self.title = title
         self.price = price
         self.location = location
         self.size = size
         self.rooms = rooms
         self.yard = yard
+        self.url = url
 
 class UpdateLog(Base):
     __tablename__ = 'update_log'
