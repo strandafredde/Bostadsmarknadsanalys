@@ -4,12 +4,19 @@
 
 Detta projekt syftar till att analysera bostadsmarknaden i Norrbotten med hjälp av data från [Hemnet](https://www.hemnet.se/). Genom att använda data från Hemnet kan vi få insikter om bostadspriser, trender och marknadsdynamik i Norrbotten-regionen.
 
+## Syften
+1. **Köra på Server:**
+   - Programmet kan köras automatiskt på en server som i mitt fall är en linux server, programmet kan ställas in att köras 1 gång om dagen och om det känner av att det finns en ny annons så kommer man att bli meddelad. För att köras på en linus serveras behövs
+     några saker fixas.
+
+2. **Köra Lokalt:**
+   - Programmet kan även köras lokalt för att manuellt analysera data och se detaljerade resultat. Detta är användbart för att utföra djupare analyser och visualiseringar utöver den dagliga insamlingen av data på servern.
+
 ## Funktioner
 
 - **Datainsamling:** Skript för att hämta bostadsannonser och relevanta data från Hemnet.
 - **Dataanalys:** Verktyg och metoder för att analysera insamlad data och identifiera trender.
-- **Visualisering:** Diagram och grafer som illustrerar marknadstrender och pristrender i Norrbotten.
-- **Rapportering:** Generera rapporter baserade på analyserna.
+- **Rapportering:** Meddela ifall en ny annons läggs till.
 
 ## Bibliotek och Verktyg
 
@@ -68,3 +75,55 @@ För att installera alla externa bibliotek som nämns ovan kan du köra följand
 
 ```bash
 pip install -r requirements.txt
+```
+## Server setup (linux)
+
+FÖr att kunna köra programmet på en server behövs följande:
+- clona repot med kommandot
+  ```bash
+  git clone https://github.com/strandafredde/Bostadsmarknadsanalys
+  ```
+- Updatera package list
+  ```bash
+  sudo apt update
+  ```
+- Installera oython 3
+  ```bash
+  sudo apt install python3
+  ```
+- Skapa och aktivera ett Virtual Environment
+  ```bash
+  python3 -m venv myenv
+  source myenv/bin/activate
+  ```
+- Insallera biblioteken
+  ```bash
+  pip install -r requirements.txt
+  ```
+- Installera databasen (Postgresql)
+  ```bash
+  sudo apt-get install postgresql postgresql-contrib
+  ```
+- Ladda ner google chrome och en googledriver
+  ```bash
+  wget https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/linux64/chrome-linux64.zip
+  sudo dpkg -i google-chrome-stable_current_amd64.deb
+  sudo apt-get install -f
+  ```
+  ```bash
+  wget https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/linux64/chromedriver-linux64.zip
+  unzip chromedriver-linux64.zip
+  chmod +x chromedriver
+  sudo mv chromedriver /usr/local/bin/
+  ```
+- Skapa automatiskt script som körs en gång per dag
+  ```bash
+  crontab -e
+  0 6 * * * Bostadsmarknadsanalys/venv/bin/python3 Bostadsmarknadsanalys/main.py >> Bostadsmarknadsanalys/logfile.log 2>&1
+  ```
+Nu borde programmet köras varje dag kl 06:00 kan variera beroende på tidszon
+(Kan behöva ändra filvägarna i crontab -e beroende på vart github repot blev clonat
+
+
+
+
