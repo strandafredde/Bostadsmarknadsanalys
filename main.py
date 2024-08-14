@@ -2,6 +2,13 @@ import time
 import pandas as pd
 import logging
 import smtplib
+import time
+import pandas as pd
+import logging
+import smtplib
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -34,7 +41,9 @@ def create_driver():
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_options.add_experimental_option("excludeSwitches", ["enable-logging"])  # Disable logging
     chrome_options.add_argument("--log-level=3")  # Set logging level to OFF
-    service = Service(executable_path='chromedriver.exe')
+
+    service = Service(executable_path='chromedriver.exe') # For Windows
+    #service = Service(executable_path='/usr/local/bin/chromedriver') # For Linux
     return webdriver.Chrome(service=service, options=chrome_options)
 
 driver = create_driver()
@@ -48,6 +57,8 @@ yards = []
 urls2= []
 page_nums = ['1']
 
+
+# ============================================== Helper Functions ==============================================
 def get_page_data(url, page_number):
     url = url.format(page=page_number)
     driver.get(url)
@@ -82,6 +93,19 @@ def get_page_data(url, page_number):
 
         try:
             location = ad.find('div', class_='Location_address___eOo4').text.strip()
+            try:
+                if 'luleå' in location.lower():
+                    location = 'Luleå'
+                elif 'piteå' in location.lower():
+                    location = 'Piteå'
+                elif 'älsvbyn' in location.lower() or 'älvsbyns' in location.lower():
+                    location = 'Älsvbyn'
+                elif 'boden' in location.lower():
+                    location = 'Boden'
+                else:
+                    location = None
+            except:
+                location = None
         except:
             location = None
 
@@ -219,7 +243,7 @@ def send_email_alert(title, location, price, room, url, recipient_email):
     except Exception as e:
         print(f"Failed to send email: {e}")
 
-# Start scraping
+# ============================================== Data Collection ==============================================
 current_page = 1
 
 start_time = time.time()
@@ -248,7 +272,7 @@ for title, price, location, size, room, yard, url in zip(titles, prices, locatio
     existing_listing = session.query(Listings).filter_by(title=listing.title).first()
     if existing_listing is None:
         session.add(listing)
-        send_email_alert(title, location, price, room, url, 'strandafredde@gmail.com')
+        #send_email_alert(title, location, price, room, url, 'strandafredde@gmail.com')
     else:
         print("======================================================================")
         print(f"Listing with the title {listing.title} already exists in the database")
@@ -259,8 +283,8 @@ session.add(UpdateTime)
 session.commit()
 session.close()
 
-driver.quit()
-
+driver.quit() 
+#============================================== Data Analysis ==============================================
 data = pd.DataFrame({
     'Title': titles,
     'Price': prices,
@@ -274,3 +298,36 @@ data = pd.DataFrame({
 data.dropna(how='all', inplace=True)
 data.to_csv('hemnet_data.csv', index=False)
 print("time it took to run the script: ", time.time() - start_time)
+
+
+
+# ============================================== Data Visualization ==============================================
+
+def show_plots():
+    avg_price_location = data.groupby('Location')['Price'].mean().reset_index()
+
+    plt.figure(figsize=(12, 6))
+    sns.barplot(x='Location', y='Price', data=avg_price_location)
+    plt.title('Average Price by Location')
+    plt.xlabel('Location')
+    plt.ylabel('Average Price')
+    plt.show()
+
+    plt.figure(figsize=(12, 6))
+    sns.countplot(x='Location', data=data)
+    plt.title('Number of Listings by Location')
+    plt.xlabel('Location')
+    plt.ylabel('Count')
+    plt.show()
+
+    avg_price_rooms = data.groupby('Rooms')['Price'].mean().reset_index()
+
+    plt.figure(figsize=(12, 6))
+    sns.barplot(x='Rooms', y='Price', data=avg_price_rooms)
+    plt.title('Average Price by Number of Rooms')
+    plt.xlabel('Number of Rooms')
+    plt.ylabel('Average Price')
+    plt.show()
+
+
+show_plots()
