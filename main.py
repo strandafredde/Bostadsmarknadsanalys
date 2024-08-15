@@ -8,7 +8,7 @@ import logging
 import smtplib
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+import passwords
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -218,7 +218,7 @@ def get_last_number_from_list(lst):
 
 def send_email_alert(title, location, price, room, url, recipient_email):
     sender_email = "NyBostadsAnnons@outlook.com"
-    sender_password = "hemnet-fyrkanten"
+    sender_password = passwords.email_password
     smtp_server = "smtp.office365.com"
     smtp_port = 587
 
@@ -272,7 +272,7 @@ for title, price, location, size, room, yard, url in zip(titles, prices, locatio
     existing_listing = session.query(Listings).filter_by(title=listing.title).first()
     if existing_listing is None:
         session.add(listing)
-        #send_email_alert(title, location, price, room, url, 'strandafredde@gmail.com')
+        send_email_alert(title, location, price, room, url, 'strandafredde@gmail.com')
     else:
         print("======================================================================")
         print(f"Listing with the title {listing.title} already exists in the database")
